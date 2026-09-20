@@ -1,0 +1,233 @@
+source,target,relation,source_sheet,raw_source,raw_target,fold
+COMPOUND_806ebd096539,DISEASE_b2a66b919818,TREATS,Compound-Treats relationship,अगस्तीप्राश,राजयक्ष्मा,1
+COMPOUND_806ebd096539,SYMPTOM_b219d93f90d0,TREATS,Compound-Treats relationship,अगस्तीप्राश,हलीमक,1
+COMPOUND_960b05ddaea9,DISEASE_578708c54b66,TREATS,Compound-Treats relationship,अभयावलेह,अम्लपित्त,0
+COMPOUND_960b05ddaea9,SYMPTOM_b219d93f90d0,TREATS,Compound-Treats relationship,अभयावलेह,हलीमक,0
+COMPOUND_ac63052cee8e,SYMPTOM_b45199a35d0a,TREATS,Compound-Treats relationship,अमृतप्राश घृत,उर:क्षत,2
+COMPOUND_ac63052cee8e,SYMPTOM_52b0760e3443,TREATS,Compound-Treats relationship,अमृतप्राश घृत,क्षतक्षीण,2
+COMPOUND_dac1a6903e58,SYMPTOM_8c8e9a9a5f8a,TREATS,Compound-Treats relationship,अमृतागुग्गुल,गृध्रसी,2
+COMPOUND_dac1a6903e58,SYMPTOM_a12879b9590a,TREATS,Compound-Treats relationship,अमृतागुग्गुल,संधिगतवात,2
+COMPOUND_dac1a6903e58,SYMPTOM_ac4ac57a7b7f,TREATS,Compound-Treats relationship,अमृतागुग्गुल,वातरक्त,2
+COMPOUND_dac1a6903e58,SYMPTOM_0a61ad588557,TREATS,Compound-Treats relationship,अमृतागुग्गुल,वातव्याधि,2
+COMPOUND_ded323257a5c,DISEASE_578708c54b66,TREATS,Compound-Treats relationship,अभयारिष्ट,अम्लपित्त,4
+COMPOUND_ded323257a5c,SYMPTOM_c6e23b2dca0c,TREATS,Compound-Treats relationship,अभयारिष्ट,आध्मान,4
+COMPOUND_ded323257a5c,SYMPTOM_ac7049227bb3,TREATS,Compound-Treats relationship,अभयारिष्ट,उदर,4
+COMPOUND_ded323257a5c,SYMPTOM_7e1aba55d500,TREATS,Compound-Treats relationship,अभयारिष्ट,प्रत्याध्मान,4
+COMPOUND_ded323257a5c,SYMPTOM_dcbbe374bb72,TREATS,Compound-Treats relationship,अभयारिष्ट,मलावंष्टभ,4
+COMPOUND_47fe4ec9130d,SYMPTOM_7a90b536d862,TREATS,Compound-Treats relationship,अमृतधारा,उदावर्त,4
+COMPOUND_47fe4ec9130d,SYMPTOM_8be6245de13d,TREATS,Compound-Treats relationship,अमृतधारा,हिक्का,4
+COMPOUND_47fe4ec9130d,SYMPTOM_e7a84843ca2f,TREATS,Compound-Treats relationship,अमृतधारा,प्रतितूनी,4
+COMPOUND_47fe4ec9130d,SYMPTOM_3467318ecdaa,TREATS,Compound-Treats relationship,अमृतधारा,तूनी,4
+COMPOUND_47fe4ec9130d,DISEASE_9fee7a39f2e6,TREATS,Compound-Treats relationship,अमृतधारा,छर्दि,4
+COMPOUND_5adc4b7903fe,SYMPTOM_49ad1743fb5b,TREATS,Compound-Treats relationship,अमृतप्राश घृत जीवक,उरःक्षत,2
+COMPOUND_5adc4b7903fe,SYMPTOM_52b0760e3443,TREATS,Compound-Treats relationship,अमृतप्राश घृत जीवक,क्षतक्षीण,2
+COMPOUND_960b05ddaea9,SYMPTOM_aa118956afd8,TREATS,Compound-Treats relationship,अभयावलेह,हलीमक.,0
+COMPOUND_8951771cfa60,SYMPTOM_8c8e9a9a5f8a,TREATS,Compound-Treats relationship,अमृतागुग्गुलु,गृध्रसी,2
+COMPOUND_8951771cfa60,SYMPTOM_a12879b9590a,TREATS,Compound-Treats relationship,अमृतागुग्गुलु,संधिगतवात,2
+COMPOUND_8951771cfa60,SYMPTOM_0a61ad588557,TREATS,Compound-Treats relationship,अमृतागुग्गुलु,वातव्याधि,2
+COMPOUND_8951771cfa60,SYMPTOM_ac4ac57a7b7f,TREATS,Compound-Treats relationship,अमृतागुग्गुलु,वातरक्त,2
+COMPOUND_dca0e66d520e,SYMPTOM_de00827d7e8e,TREATS,Compound-Treats relationship,अष्टांग लवण चूर्ण,अग्निमांद्य,3
+COMPOUND_dca0e66d520e,DISEASE_42f9fa377b98,TREATS,Compound-Treats relationship,अष्टांग लवण चूर्ण,अरोचक,3
+COMPOUND_3b9dcc40035b,SYMPTOM_ac7049227bb3,TREATS,Compound-Treats relationship,अश्वकंचुकी,उदर,0
+COMPOUND_74a705b2ad84,SYMPTOM_947c70271d24,TREATS,Compound-Treats relationship,क्षारताम्ररस,ग्रहणी,4
+COMPOUND_2716d44b7024,SYMPTOM_76ce1b842ce5,TREATS,Compound-Treats relationship,अहिफेनासव,निद्रानाश,4
+COMPOUND_3bcd8ad0daaf,SYMPTOM_15564a4455ce,TREATS,Compound-Treats relationship,हृदयार्णव रस,हृद्रोग,2
+COMPOUND_3d95df452764,DISEASE_e2f37d4a7296,TREATS,Compound-Treats relationship,हेमाभ्रसिंदूर,शोथ,1
+COMPOUND_3d95df452764,SYMPTOM_15564a4455ce,TREATS,Compound-Treats relationship,हेमाभ्रसिंदूर,हृद्रोग,1
+COMPOUND_642328155fbf,SYMPTOM_64c8aca0d1b5,TREATS,Compound-Treats relationship,हेमाभ्रकर्पूर,श्वास,3
+COMPOUND_642328155fbf,SYMPTOM_15564a4455ce,TREATS,Compound-Treats relationship,हेमाभ्रकर्पूर,हृद्रोग,3
+COMPOUND_66c81a6de0b7,DISEASE_e2f37d4a7296,TREATS,Compound-Treats relationship,हेमशिलाजतु,शोथ,3
+COMPOUND_66c81a6de0b7,SYMPTOM_15564a4455ce,TREATS,Compound-Treats relationship,हेमशिलाजतु,हृद्रोग,3
+COMPOUND_34176e1edb1b,SYMPTOM_81a0ed82012a,TREATS,Compound-Treats relationship,हेमगर्भ,"आक्षेपक,",4
+COMPOUND_34176e1edb1b,SYMPTOM_f8703b74a201,TREATS,Compound-Treats relationship,हेमगर्भ,पार्श्वशूल,4
+COMPOUND_34176e1edb1b,DISEASE_b2a66b919818,TREATS,Compound-Treats relationship,हेमगर्भ,राजयक्ष्मा,4
+COMPOUND_34176e1edb1b,SYMPTOM_0a61ad588557,TREATS,Compound-Treats relationship,हेमगर्भ,वातव्याधि,4
+COMPOUND_34176e1edb1b,SYMPTOM_7cb3341d65ed,TREATS,Compound-Treats relationship,हेमगर्भ,सिरागतवात,4
+COMPOUND_34176e1edb1b,SYMPTOM_15564a4455ce,TREATS,Compound-Treats relationship,हेमगर्भ,हृद्रोग,4
+COMPOUND_a3040ad64318,SYMPTOM_de00827d7e8e,TREATS,Compound-Treats relationship,हिंग्वाष्टक चूर्ण,अग्निमांद्य,1
+COMPOUND_a3040ad64318,SYMPTOM_9a9214077697,TREATS,Compound-Treats relationship,हिंग्वाष्टक चूर्ण,कास,1
+COMPOUND_a3040ad64318,SYMPTOM_b4b1fb71c52c,TREATS,Compound-Treats relationship,हिंग्वाष्टक चूर्ण,अजीर्ण,1
+COMPOUND_a3040ad64318,SYMPTOM_99158dd7f146,TREATS,Compound-Treats relationship,हिंग्वाष्टक चूर्ण,गुल्म,1
+COMPOUND_a3040ad64318,SYMPTOM_b0a86039f54f,TREATS,Compound-Treats relationship,हिंग्वाष्टक चूर्ण,वातनिरोधज उदावर्त,1
+COMPOUND_a3040ad64318,SYMPTOM_0a61ad588557,TREATS,Compound-Treats relationship,हिंग्वाष्टक चूर्ण,वातव्याधि,1
+COMPOUND_a3040ad64318,SYMPTOM_bc0ee6c26fe4,TREATS,Compound-Treats relationship,हिंग्वाष्टक चूर्ण,शूल (वातज - कफज),1
+COMPOUND_a3040ad64318,SYMPTOM_2e5db521735e,TREATS,Compound-Treats relationship,हिंग्वाष्टक चूर्ण,श्वास (तमक),1
+COMPOUND_87ee03e63f60,DISEASE_e7a747ffb620,TREATS,Compound-Treats relationship,हिंग्वादि घृत,उन्माद,2
+COMPOUND_e75db4b47277,SYMPTOM_154b2e2e5974,TREATS,Compound-Treats relationship,हरिद्रादि घृत,कामला,1
+COMPOUND_e75db4b47277,SYMPTOM_bff77d569de2,TREATS,Compound-Treats relationship,हरिद्रादि घृत,पांडु,1
+COMPOUND_e14a6138b047,SYMPTOM_c3332f5bc908,TREATS,Compound-Treats relationship,हरिद्राखंड योग,शीतपित्त,2
+COMPOUND_e2c55cf429c4,DISEASE_071459a0c2fd,TREATS,Compound-Treats relationship,हरताल मिश्रण,कुष्ठ,0
+COMPOUND_e2c55cf429c4,SYMPTOM_6100966d0a2c,TREATS,Compound-Treats relationship,हरताल मिश्रण,क्षुद्ररोग,0
+COMPOUND_899cf06b47e4,SYMPTOM_9a9214077697,TREATS,Compound-Treats relationship,हरितक्यावलेह,कास,3
+COMPOUND_899cf06b47e4,SYMPTOM_64c8aca0d1b5,TREATS,Compound-Treats relationship,हरितक्यावलेह,श्वास,3
+COMPOUND_f76c522781a2,SYMPTOM_15564a4455ce,TREATS,Compound-Treats relationship,हरमलपोट्टली,हृद्रोग,0
+COMPOUND_4532c1e7d544,SYMPTOM_99158dd7f146,TREATS,Compound-Treats relationship,हपुषादि घृत,गुल्म,0
+COMPOUND_ebc3153baaef,SYMPTOM_b6122bfe4b97,TREATS,Compound-Treats relationship,स्वायंभुव गुग्गुलु,महाकुष्ठ,3
+COMPOUND_b198011eb37b,SYMPTOM_94f15f526dc9,TREATS,Compound-Treats relationship,स्वादिष्टविरेचन चूर्ण,मृदु अनुलोमक,4
+COMPOUND_74f13c20a26f,DISEASE_578708c54b66,TREATS,Compound-Treats relationship,स्त्रंसन चूर्ण,अम्लपित्त,3
+COMPOUND_e05e5cec2a2d,DISEASE_5e294e090c89,TREATS,Compound-Treats relationship,स्मृती सागर,अपस्मार,4
+COMPOUND_e05e5cec2a2d,SYMPTOM_9cd2b457d359,TREATS,Compound-Treats relationship,स्मृती सागर,बुद्धिमांद्य,4
+COMPOUND_fec3fa141c31,DISEASE_d60c11b4f6b2,TREATS,Compound-Treats relationship,सूक्ष्म त्रिफळा,उपदंश,3
+COMPOUND_fec3fa141c31,SYMPTOM_435ca3873d41,TREATS,Compound-Treats relationship,सूक्ष्म त्रिफळा,कृमिज शिरोरोग,3
+COMPOUND_fec3fa141c31,SYMPTOM_a317a04d6ea5,TREATS,Compound-Treats relationship,सूक्ष्म त्रिफळा,फिरंग,3
+COMPOUND_fec3fa141c31,SYMPTOM_7bbc967d0472,TREATS,Compound-Treats relationship,सूक्ष्म त्रिफळा,पाषाणगर्दभ,3
+COMPOUND_fec3fa141c31,SYMPTOM_6100966d0a2c,TREATS,Compound-Treats relationship,सूक्ष्म त्रिफळा,क्षुद्ररोग,3
+COMPOUND_d8438fe1dea5,DISEASE_578708c54b66,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,अम्लपित्त,3
+COMPOUND_d8438fe1dea5,DISEASE_5e294e090c89,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,अपस्मार,3
+COMPOUND_d8438fe1dea5,SYMPTOM_ac7049227bb3,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,उदर,3
+COMPOUND_d8438fe1dea5,DISEASE_e7a747ffb620,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,उन्माद,3
+COMPOUND_d8438fe1dea5,SYMPTOM_154b2e2e5974,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,कामला,3
+COMPOUND_d8438fe1dea5,DISEASE_9fee7a39f2e6,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,छर्दि,3
+COMPOUND_d8438fe1dea5,SYMPTOM_078750ea56f7,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,ज्वर,3
+COMPOUND_d8438fe1dea5,DISEASE_5cbc093559fd,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,तृष्णा,3
+COMPOUND_d8438fe1dea5,SYMPTOM_e398892d7620,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,दाह,3
+COMPOUND_d8438fe1dea5,SYMPTOM_f4dfb786c878,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,धमनीप्रतिचय,3
+COMPOUND_d8438fe1dea5,SYMPTOM_bff77d569de2,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,पांडु,3
+COMPOUND_d8438fe1dea5,SYMPTOM_603d8414fc2a,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,भ्रम,3
+COMPOUND_d8438fe1dea5,DISEASE_3e090ec6a1d8,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,मूर्च्छा,3
+COMPOUND_d8438fe1dea5,SYMPTOM_c3332f5bc908,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,शीतपित्त,3
+COMPOUND_d8438fe1dea5,SYMPTOM_8be6245de13d,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,हिक्का,3
+COMPOUND_d8438fe1dea5,SYMPTOM_15564a4455ce,TREATS,Compound-Treats relationship,सुवर्णसूतशेखर,हृद्रोग,3
+COMPOUND_bb49611aa259,SYMPTOM_9a9214077697,TREATS,Compound-Treats relationship,सुवर्णमालिनी वसंत,कास,0
+COMPOUND_bb49611aa259,SYMPTOM_930ec0049d47,TREATS,Compound-Treats relationship,सुवर्णमालिनी वसंत,कार्श्य,0
+COMPOUND_bb49611aa259,SYMPTOM_c5dde07b9b1c,TREATS,Compound-Treats relationship,सुवर्णमालिनी वसंत,जीर्णज्वर,0
+COMPOUND_bb49611aa259,SYMPTOM_f8703b74a201,TREATS,Compound-Treats relationship,सुवर्णमालिनी वसंत,पार्श्वशूल,0
+COMPOUND_bb49611aa259,SYMPTOM_48a27e7d9648,TREATS,Compound-Treats relationship,सुवर्णमालिनी वसंत,फक्क,0
+COMPOUND_bb49611aa259,DISEASE_b2a66b919818,TREATS,Compound-Treats relationship,सुवर्णमालिनी वसंत,राजयक्ष्मा,0
+COMPOUND_4d540add8c51,SYMPTOM_947c70271d24,TREATS,Compound-Treats relationship,सुवर्णपर्पटी,ग्रहणी,0
+COMPOUND_4d540add8c51,DISEASE_b2a66b919818,TREATS,Compound-Treats relationship,सुवर्णपर्पटी,राजयक्ष्मा,0
+COMPOUND_87dc236a64a3,SYMPTOM_685c0772c819,TREATS,Compound-Treats relationship,सिंहनाद गुग्गुलु,आमवात,3
+COMPOUND_87dc236a64a3,SYMPTOM_ac4ac57a7b7f,TREATS,Compound-Treats relationship,सिंहनाद गुग्गुलु,वातरक्त,3
+COMPOUND_87dc236a64a3,SYMPTOM_0a61ad588557,TREATS,Compound-Treats relationship,सिंहनाद गुग्गुलु,वातव्याधि,3
+COMPOUND_e87ce6b3a27b,SYMPTOM_bac6c1b98325,TREATS,Compound-Treats relationship,सितोपलादि चूर्ण,उपेक्षित,3
+COMPOUND_e87ce6b3a27b,SYMPTOM_9a9214077697,TREATS,Compound-Treats relationship,सितोपलादि चूर्ण,कास,3
+COMPOUND_e87ce6b3a27b,DISEASE_b2a66b919818,TREATS,Compound-Treats relationship,सितोपलादि चूर्ण,राजयक्ष्मा,3
+COMPOUND_e87ce6b3a27b,SYMPTOM_64c8aca0d1b5,TREATS,Compound-Treats relationship,सितोपलादि चूर्ण,श्वास,3
+COMPOUND_e87ce6b3a27b,SYMPTOM_52b0760e3443,TREATS,Compound-Treats relationship,सितोपलादि चूर्ण,क्षतक्षीण,3
+COMPOUND_5cf2dbc6a293,DISEASE_071459a0c2fd,TREATS,Compound-Treats relationship,सारिवाद्यासव,कुष्ठ,4
+COMPOUND_5cf2dbc6a293,DISEASE_ef3323aa3b9e,TREATS,Compound-Treats relationship,सारिवाद्यासव,मूत्राघात,4
+COMPOUND_5cf2dbc6a293,SYMPTOM_ac4ac57a7b7f,TREATS,Compound-Treats relationship,सारिवाद्यासव,वातरक्त,4
+COMPOUND_5cf2dbc6a293,DISEASE_0ace1f8e701c,TREATS,Compound-Treats relationship,सारिवाद्यासव,विसर्प,4
+COMPOUND_5cf2dbc6a293,SYMPTOM_6100966d0a2c,TREATS,Compound-Treats relationship,सारिवाद्यासव,क्षुद्ररोग,4
+COMPOUND_04fe87779405,SYMPTOM_0f70f3b506e2,TREATS,Compound-Treats relationship,सारस्वत चूर्ण,मानसदोष,4
+COMPOUND_04fe87779405,SYMPTOM_ee663d64b2ba,TREATS,Compound-Treats relationship,सारस्वत चूर्ण,मिन मिन,4
+COMPOUND_04fe87779405,SYMPTOM_d257d2808a69,TREATS,Compound-Treats relationship,सारस्वत चूर्ण,मूक,4
+COMPOUND_149c147b0d93,SYMPTOM_c6e23b2dca0c,TREATS,Compound-Treats relationship,सामुद्रादी चूर्ण,आध्मान,4
+COMPOUND_149c147b0d93,SYMPTOM_54697eb57628,TREATS,Compound-Treats relationship,सामुद्रादी चूर्ण,कफजशूल,4
+COMPOUND_149c147b0d93,SYMPTOM_7e1aba55d500,TREATS,Compound-Treats relationship,सामुद्रादी चूर्ण,प्रत्याध्मान,4
+COMPOUND_6d9123c8993a,SYMPTOM_078750ea56f7,TREATS,Compound-Treats relationship,संशमनी गुटी,ज्वर,3
+COMPOUND_6d9123c8993a,SYMPTOM_ac4ac57a7b7f,TREATS,Compound-Treats relationship,संशमनी गुटी,वातरक्त,3
+COMPOUND_d85ccf8aca8c,SYMPTOM_5b86f80f6a2d,TREATS,Compound-Treats relationship,संततज्वर वटी,संततज्वर,2
+COMPOUND_71c41f10aca6,SYMPTOM_13a284b618f2,TREATS,Compound-Treats relationship,संजीवनी गुटी,अतिसार,2
+COMPOUND_71c41f10aca6,SYMPTOM_c0004a138aff,TREATS,Compound-Treats relationship,संजीवनी गुटी,कफजशूल कृमि,2
+COMPOUND_71c41f10aca6,SYMPTOM_947c70271d24,TREATS,Compound-Treats relationship,संजीवनी गुटी,ग्रहणी,2
+COMPOUND_71c41f10aca6,SYMPTOM_078750ea56f7,TREATS,Compound-Treats relationship,संजीवनी गुटी,ज्वर,2
+COMPOUND_71c41f10aca6,SYMPTOM_b2d0d3f599e0,TREATS,Compound-Treats relationship,संजीवनी गुटी,प्रतिश्याय,2
+COMPOUND_71c41f10aca6,SYMPTOM_4d26ce2697b7,TREATS,Compound-Treats relationship,संजीवनी गुटी,प्रवाहिका,2
+COMPOUND_71c41f10aca6,SYMPTOM_19919db973fd,TREATS,Compound-Treats relationship,संजीवनी गुटी,विसूचिका,2
+COMPOUND_ee468af67297,SYMPTOM_685c0772c819,TREATS,Compound-Treats relationship,सहचर गुग्गुलु,आमवात,4
+COMPOUND_ee468af67297,SYMPTOM_ac4ac57a7b7f,TREATS,Compound-Treats relationship,सहचर गुग्गुलु,वातरक्त,4
+COMPOUND_a0901a576890,DISEASE_071459a0c2fd,TREATS,Compound-Treats relationship,सर्वांगसुंदर वटी,कुष्ठ,2
+COMPOUND_56237a7cf874,SYMPTOM_a0482f3f8c7b,TREATS,Compound-Treats relationship,समीरपन्नग,अर्दित,1
+COMPOUND_56237a7cf874,DISEASE_e7a747ffb620,TREATS,Compound-Treats relationship,समीरपन्नग,उन्माद,1
+COMPOUND_56237a7cf874,SYMPTOM_9a9214077697,TREATS,Compound-Treats relationship,समीरपन्नग,कास,1
+COMPOUND_56237a7cf874,SYMPTOM_8c8e9a9a5f8a,TREATS,Compound-Treats relationship,समीरपन्नग,गृध्रसी,1
+COMPOUND_56237a7cf874,SYMPTOM_45bf1f080442,TREATS,Compound-Treats relationship,समीरपन्नग,पक्षाघात,1
+COMPOUND_56237a7cf874,SYMPTOM_9d97728be9d1,TREATS,Compound-Treats relationship,समीरपन्नग,पाददाह,1
+COMPOUND_56237a7cf874,SYMPTOM_262d000bb6a3,TREATS,Compound-Treats relationship,समीरपन्नग,पादहर्ष,1
+COMPOUND_56237a7cf874,SYMPTOM_f8703b74a201,TREATS,Compound-Treats relationship,समीरपन्नग,पार्श्वशूल,1
+COMPOUND_56237a7cf874,SYMPTOM_a317a04d6ea5,TREATS,Compound-Treats relationship,समीरपन्नग,फिरंग,1
+COMPOUND_56237a7cf874,SYMPTOM_603d8414fc2a,TREATS,Compound-Treats relationship,समीरपन्नग,भ्रम,1
+COMPOUND_56237a7cf874,SYMPTOM_daa909de830a,TREATS,Compound-Treats relationship,समीरपन्नग,मज्जागत ज्वर,1
+COMPOUND_56237a7cf874,SYMPTOM_10d012baa5e9,TREATS,Compound-Treats relationship,समीरपन्नग,मिन् मिन् वाक,1
+COMPOUND_56237a7cf874,SYMPTOM_d257d2808a69,TREATS,Compound-Treats relationship,समीरपन्नग,मूक,1
+COMPOUND_56237a7cf874,SYMPTOM_ac4ac57a7b7f,TREATS,Compound-Treats relationship,समीरपन्नग,वातरक्त,1
+COMPOUND_56237a7cf874,SYMPTOM_0a61ad588557,TREATS,Compound-Treats relationship,समीरपन्नग,वातव्याधि,1
+COMPOUND_56237a7cf874,SYMPTOM_22d17c9ceaff,TREATS,Compound-Treats relationship,समीरपन्नग,विषमज्वर,1
+COMPOUND_56237a7cf874,SYMPTOM_c3332f5bc908,TREATS,Compound-Treats relationship,समीरपन्नग,शीतपित्त,1
+COMPOUND_56237a7cf874,SYMPTOM_64c8aca0d1b5,TREATS,Compound-Treats relationship,समीरपन्नग,श्वास,1
+COMPOUND_56237a7cf874,SYMPTOM_a12879b9590a,TREATS,Compound-Treats relationship,समीरपन्नग,संधिगतवात,1
+COMPOUND_049a21ae131b,SYMPTOM_13a284b618f2,TREATS,Compound-Treats relationship,समंगादि चूर्ण,अतिसार,1
+COMPOUND_dfb598ee9b2f,SYMPTOM_ac0e3338a98b,TREATS,Compound-Treats relationship,समशर्कर चूर्ण,अर्श,1
+COMPOUND_dfb598ee9b2f,SYMPTOM_9a9214077697,TREATS,Compound-Treats relationship,समशर्कर चूर्ण,कास,1
+COMPOUND_dfb598ee9b2f,SYMPTOM_64c8aca0d1b5,TREATS,Compound-Treats relationship,समशर्कर चूर्ण,श्वास,1
+COMPOUND_8e01bf7fcba4,DISEASE_b2a66b919818,TREATS,Compound-Treats relationship,श्रीफलकुसुम वटी,राजयक्ष्मा,1
+COMPOUND_469d25ddc65b,SYMPTOM_9a9214077697,TREATS,Compound-Treats relationship,श्लेष्मांतक रस,कास,4
+COMPOUND_469d25ddc65b,SYMPTOM_64c8aca0d1b5,TREATS,Compound-Treats relationship,श्लेष्मांतक रस,श्वास,4
+COMPOUND_9004ce399c2a,SYMPTOM_7c9145c4a20c,TREATS,Compound-Treats relationship,श्वित्रहरवर्ती,श्वित्र,3
+COMPOUND_f8496d5b44cf,SYMPTOM_240d81476af3,TREATS,Compound-Treats relationship,श्लीपदारि क्वाथ,श्लीपद,1
+COMPOUND_cf8b8ee8302a,SYMPTOM_64c8aca0d1b5,TREATS,Compound-Treats relationship,श्वास चिंतामणि,श्वास,2
+COMPOUND_cf8b8ee8302a,SYMPTOM_9a9214077697,TREATS,Compound-Treats relationship,श्वास चिंतामणि,कास,2
+COMPOUND_b5928def5962,DISEASE_5e294e090c89,TREATS,Compound-Treats relationship,श्वास कुठार,अपस्मार,0
+COMPOUND_b5928def5962,SYMPTOM_64c8aca0d1b5,TREATS,Compound-Treats relationship,श्वास कुठार,श्वास,0
+COMPOUND_3f72e8ba210b,SYMPTOM_15564a4455ce,TREATS,Compound-Treats relationship,शृंग्यादि क्वाथ,हृद्रोग,4
+COMPOUND_cc2df431b6eb,SYMPTOM_01a89e9be65b,TREATS,Compound-Treats relationship,शूलहरवटी,कफज शूल,0
+COMPOUND_c303e6c3e39b,SYMPTOM_13a284b618f2,TREATS,Compound-Treats relationship,शुंठ्यादिचूर्ण,अतिसार,0
+COMPOUND_7bf90cf99e50,SYMPTOM_e4d3338c3946,TREATS,Compound-Treats relationship,शुंठी घृत,वातजग्रहणी,3
+COMPOUND_15b3a54a521d,SYMPTOM_13a284b618f2,TREATS,Compound-Treats relationship,शंखोदर,अतिसार,3
+COMPOUND_15b3a54a521d,SYMPTOM_685c0772c819,TREATS,Compound-Treats relationship,शंखोदर,आमवात,3
+COMPOUND_15b3a54a521d,SYMPTOM_76ce1b842ce5,TREATS,Compound-Treats relationship,शंखोदर,निद्रानाश,3
+COMPOUND_15b3a54a521d,SYMPTOM_4d26ce2697b7,TREATS,Compound-Treats relationship,शंखोदर,प्रवाहिका,3
+COMPOUND_15b3a54a521d,SYMPTOM_19919db973fd,TREATS,Compound-Treats relationship,शंखोदर,विसूचिका,3
+COMPOUND_e205c1cbba2e,SYMPTOM_de00827d7e8e,TREATS,Compound-Treats relationship,शंखवटी,अग्निमांद्य,1
+COMPOUND_e205c1cbba2e,SYMPTOM_b4b1fb71c52c,TREATS,Compound-Treats relationship,शंखवटी,अजीर्ण,1
+COMPOUND_e205c1cbba2e,SYMPTOM_c6e23b2dca0c,TREATS,Compound-Treats relationship,शंखवटी,आध्मान,1
+COMPOUND_e205c1cbba2e,SYMPTOM_54697eb57628,TREATS,Compound-Treats relationship,शंखवटी,कफजशूल,1
+COMPOUND_e205c1cbba2e,SYMPTOM_fc820d24b342,TREATS,Compound-Treats relationship,शंखवटी,कोष्ठगतवात,1
+COMPOUND_e205c1cbba2e,SYMPTOM_2d2eb4e6f9b5,TREATS,Compound-Treats relationship,शंखवटी,वातज शूल,1
+COMPOUND_073fa3a6a71f,DISEASE_578708c54b66,TREATS,Compound-Treats relationship,शतावर्यादि क्वाथ,अम्लपित्त,2
+COMPOUND_073fa3a6a71f,SYMPTOM_b55c78026bc0,TREATS,Compound-Treats relationship,शतावर्यादि क्वाथ,पित्तजशूल,2
+COMPOUND_20811ee37b5d,SYMPTOM_c4b059814f9a,TREATS,Compound-Treats relationship,शतावरी मंडुर,आम्लपित्त,0
+COMPOUND_20811ee37b5d,DISEASE_8a7c7e622122,TREATS,Compound-Treats relationship,शतावरी मंडुर,पांडुरोग,0
+COMPOUND_ec79ef21ed09,SYMPTOM_c4b059814f9a,TREATS,Compound-Treats relationship,शतावरी घृत,आम्लपित्त,1
+COMPOUND_b80cf9101aad,SYMPTOM_c4b059814f9a,TREATS,Compound-Treats relationship,शतावरी कल्प,आम्लपित्त,0
+COMPOUND_b80cf9101aad,SYMPTOM_ff1c0b93c404,TREATS,Compound-Treats relationship,शतावरी कल्प,जराशोष,0
+COMPOUND_b80cf9101aad,DISEASE_8a7c7e622122,TREATS,Compound-Treats relationship,शतावरी कल्प,पांडुरोग,0
+COMPOUND_b80cf9101aad,SYMPTOM_e1b169091f81,TREATS,Compound-Treats relationship,शतावरी कल्प,संधीगतवात,0
+COMPOUND_b80cf9101aad,SYMPTOM_c83e15e200bd,TREATS,Compound-Treats relationship,शतावरी कल्प,स्तन्यदोष,0
+COMPOUND_b80cf9101aad,SYMPTOM_718028e0370d,TREATS,Compound-Treats relationship,शतावरी कल्प,वातव्याधी,0
+COMPOUND_f8dcc50644f5,SYMPTOM_c4b059814f9a,TREATS,Compound-Treats relationship,शतावरी कज्जली,आम्लपित्त,3
+COMPOUND_2c62f79ad8da,DISEASE_071459a0c2fd,TREATS,Compound-Treats relationship,शतधौतघृत,कुष्ठ,2
+COMPOUND_2c62f79ad8da,SYMPTOM_9f370bfc6ac7,TREATS,Compound-Treats relationship,शतधौतघृत,कक्षा,2
+COMPOUND_2c62f79ad8da,SYMPTOM_b6818ea6bea5,TREATS,Compound-Treats relationship,शतधौतघृत,गुदपाक,2
+COMPOUND_2c62f79ad8da,SYMPTOM_e398892d7620,TREATS,Compound-Treats relationship,शतधौतघृत,दाह,2
+COMPOUND_2c62f79ad8da,SYMPTOM_ac4ac57a7b7f,TREATS,Compound-Treats relationship,शतधौतघृत,वातरक्त,2
+COMPOUND_558ad70336f8,SYMPTOM_078750ea56f7,TREATS,Compound-Treats relationship,षडंगोदक,ज्वर,4
+COMPOUND_1dd467f7f991,SYMPTOM_45bf1f080442,TREATS,Compound-Treats relationship,षट्बिंदू तैल,पक्षाघात,2
+COMPOUND_72dbc3a95fef,SYMPTOM_99158dd7f146,TREATS,Compound-Treats relationship,षट्पल घृत,गुल्म,1
+COMPOUND_d4cfc4097a8c,DISEASE_d60c11b4f6b2,TREATS,Compound-Treats relationship,व्याधिहरण रस,उपदंश,2
+COMPOUND_d4cfc4097a8c,SYMPTOM_a317a04d6ea5,TREATS,Compound-Treats relationship,व्याधिहरण रस,फिरंग,2
+COMPOUND_8cb47c5aaa27,SYMPTOM_505f79dcc12b,TREATS,Compound-Treats relationship,व्याघ्री हरितकी,वाताजकास,1
+COMPOUND_06f3d2b81a9e,SYMPTOM_7212b99acdbd,TREATS,Compound-Treats relationship,वृष्यवटी,क्लैब्य,1
+COMPOUND_06f3d2b81a9e,SYMPTOM_fad12d24d6fa,TREATS,Compound-Treats relationship,वृष्यवटी,व्यवायशोष,1
+COMPOUND_02f3fd2897ea,SYMPTOM_240d81476af3,TREATS,Compound-Treats relationship,वृद्धदारूक योग,श्लीपद,4
+COMPOUND_9d26b836a162,SYMPTOM_13a284b618f2,TREATS,Compound-Treats relationship,वृद्ध गंगाधर चूर्ण,अतिसार,0
+COMPOUND_9d26b836a162,SYMPTOM_4d26ce2697b7,TREATS,Compound-Treats relationship,वृद्ध गंगाधर चूर्ण,प्रवाहिका,0
+COMPOUND_4642bcc1a129,SYMPTOM_a0f62e8c06d6,TREATS,Compound-Treats relationship,व्रणशोधन तैल,अरुंषिका,0
+COMPOUND_4642bcc1a129,SYMPTOM_a11a12e82ba4,TREATS,Compound-Treats relationship,व्रणशोधन तैल,इंद्रलुप्त,0
+COMPOUND_4642bcc1a129,DISEASE_071459a0c2fd,TREATS,Compound-Treats relationship,व्रणशोधन तैल,कुष्ठ,0
+COMPOUND_4642bcc1a129,SYMPTOM_3faa2dca34a0,TREATS,Compound-Treats relationship,व्रणशोधन तैल,दारुणक,0
+COMPOUND_4642bcc1a129,DISEASE_0ace1f8e701c,TREATS,Compound-Treats relationship,व्रणशोधन तैल,विसर्प,0
+COMPOUND_4642bcc1a129,SYMPTOM_86587ca982e7,TREATS,Compound-Treats relationship,व्रणशोधन तैल,क्षुद्रकुष्ठ,0
+COMPOUND_6b9395423da1,SYMPTOM_b932617bd529,TREATS,Compound-Treats relationship,व्रणरोपण तैल,व्रण,0
+COMPOUND_709eef9436bc,SYMPTOM_de00827d7e8e,TREATS,Compound-Treats relationship,वैश्वानर चूर्ण,अग्निमांद्य,1
+COMPOUND_709eef9436bc,SYMPTOM_b4b1fb71c52c,TREATS,Compound-Treats relationship,वैश्वानर चूर्ण,अजीर्ण,1
+COMPOUND_709eef9436bc,SYMPTOM_d2d6e1fd96a2,TREATS,Compound-Treats relationship,वैश्वानर चूर्ण,आध्यान,1
+COMPOUND_9767e271af6c,DISEASE_feccf9386d2e,TREATS,Compound-Treats relationship,वीरतर्वादि क्वाथ,मुत्रकृच्छ,0
+COMPOUND_9767e271af6c,DISEASE_ef3323aa3b9e,TREATS,Compound-Treats relationship,वीरतर्वादि क्वाथ,मूत्राघात,0
+COMPOUND_ad0c3803d534,SYMPTOM_f8703b74a201,TREATS,Compound-Treats relationship,विषाणभस्म योग,पार्श्वशूल,3
+COMPOUND_2b70dbe4c323,SYMPTOM_7f628127e24e,TREATS,Compound-Treats relationship,विषतींदुक वटी,अलसक,1
+COMPOUND_2b70dbe4c323,SYMPTOM_0ebf3cbae989,TREATS,Compound-Treats relationship,विषतींदुक वटी,कलायखंज,1
+COMPOUND_2b70dbe4c323,DISEASE_ef3323aa3b9e,TREATS,Compound-Treats relationship,विषतींदुक वटी,मूत्राघात,1
+COMPOUND_2b70dbe4c323,SYMPTOM_b0a86039f54f,TREATS,Compound-Treats relationship,विषतींदुक वटी,वातनिरोधज उदावर्त,1
+COMPOUND_2b70dbe4c323,SYMPTOM_1ef01892fcb7,TREATS,Compound-Treats relationship,विषतींदुक वटी,विलंबिका,1
+COMPOUND_02d13acc4b8d,SYMPTOM_8c8e9a9a5f8a,TREATS,Compound-Treats relationship,विषगर्भ तैल,गृध्रसी,0
+COMPOUND_02d13acc4b8d,SYMPTOM_911238c83a7a,TREATS,Compound-Treats relationship,विषगर्भ तैल,मांसगतवात,0
+COMPOUND_02d13acc4b8d,SYMPTOM_a12879b9590a,TREATS,Compound-Treats relationship,विषगर्भ तैल,संधिगतवात,0
+COMPOUND_02d13acc4b8d,SYMPTOM_0a61ad588557,TREATS,Compound-Treats relationship,विषगर्भ तैल,वातव्याधि,0
+COMPOUND_5cbe8250fe43,SYMPTOM_c4b059814f9a,TREATS,Compound-Treats relationship,विरेचन क्वाथ,आम्लपित्त,4
+COMPOUND_5cbe8250fe43,SYMPTOM_4d4f65befc86,TREATS,Compound-Treats relationship,विरेचन क्वाथ,मृदुविरेचक,4
+COMPOUND_3830239d12ca,SYMPTOM_ac6155f9b05b,TREATS,Compound-Treats relationship,विडंगासव,कृमी,2
+COMPOUND_3830239d12ca,SYMPTOM_7c9145c4a20c,TREATS,Compound-Treats relationship,विडंगासव,श्वित्र,2
+COMPOUND_43297ffa8c06,SYMPTOM_ac6155f9b05b,TREATS,Compound-Treats relationship,विडंगारिष्ट,कृमी,1
+COMPOUND_43297ffa8c06,SYMPTOM_7c9145c4a20c,TREATS,Compound-Treats relationship,विडंगारिष्ट,श्वित्र,1
