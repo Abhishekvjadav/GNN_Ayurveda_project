@@ -18,6 +18,8 @@ from predict import (
 from collections import defaultdict
 import numpy as np
 
+from explain_prediction_v3 import explain
+
 
 def predict_all(compound_id, top_k=10):
 
@@ -282,6 +284,75 @@ def predict_all(compound_id, top_k=10):
         np.arange(len(symptom_ranked)) + 1
     )
 
+
+    # ========================================================
+    # STRUCTURAL EXPLANATIONS
+    # ========================================================
+
+    print(
+        "\n" + "=" * 70
+    )
+
+    print(
+        "STRUCTURAL EXPLANATIONS — TOP DISEASE PREDICTIONS"
+    )
+
+    print(
+        "=" * 70
+    )
+
+    explanation_rows = []
+
+    # Explain the displayed top disease predictions.
+    # This does not affect GNN scoring or ranking.
+
+    for _, row in disease_ranked.iterrows():
+
+        target_id = row["candidate_id"]
+
+        result = explain(
+            compound_id,
+            target_id
+        )
+
+        for evidence in result["shared_neighbors"]:
+
+            compound_edges = evidence["compound_edges"]
+            target_edges = evidence["target_edges"]
+
+            explanation_rows.append({
+                "compound_id": compound_id,
+                "compound_name": result["compound_name"],
+                "target_id": target_id,
+                "target_name": result["target_name"],
+                "target_type": result["target_type"],
+                "rank": row["rank"],
+                "mean_score": row["mean_score"],
+                "score_std": row["score_std"],
+                "status": row["status"],
+                "direct_relationship": result[
+                    "has_direct_relationship"
+                ],
+                "shared_neighbor": evidence[
+                    "canonical_name"
+                ],
+                "shared_neighbor_type": evidence[
+                    "node_type"
+                ],
+                "compound_edges": "; ".join(
+                    f"{e['relation']} ({e['direction']})"
+                    for e in compound_edges
+                ),
+                "target_edges": "; ".join(
+                    f"{e['relation']} ({e['direction']})"
+                    for e in target_edges
+                )
+            })
+
+    explanation_df = pd.DataFrame(
+        explanation_rows
+    )
+
     columns = [
         "rank",
         "candidate_id",
@@ -379,6 +450,11 @@ def predict_all(compound_id, top_k=10):
         f"{safe_name}_all_targets.csv"
     )
 
+    explanation_path = os.path.join(
+        output_dir,
+        f"{safe_name}_structural_explanations.csv"
+    )
+
     disease_ranked.to_csv(
         disease_path,
         index=False
@@ -394,11 +470,17 @@ def predict_all(compound_id, top_k=10):
         index=False
     )
 
+    explanation_df.to_csv(
+        explanation_path,
+        index=False
+    )
+
     print(
         f"\nSaved:"
         f"\n{disease_path}"
         f"\n{symptom_path}"
         f"\n{full_path}"
+        f"\n{explanation_path}"
     )
 
     return (
