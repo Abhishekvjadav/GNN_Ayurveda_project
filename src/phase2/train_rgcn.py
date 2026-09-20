@@ -79,6 +79,9 @@ TRAIN_NEGATIVES_PATH = (
     else f"/content/GNN_Ayurveda_project/results/phase2/train_hard_negatives_fold{FOLD_NUM}.csv"
 )
 
+# Trained fold checkpoints are saved outside Git-tracked source/data.
+CHECKPOINT_DIR = "/content/GNN_Ayurveda_project/results/phase2/checkpoints"
+
 
 # ============================================================
 # HYPERPARAMETERS
@@ -1505,6 +1508,83 @@ def main():
         train_neg_full,
         best_epoch,
         node_id_to_local
+    )
+
+    # ========================================================
+    # SAVE FINAL FOLD CHECKPOINT
+    # ========================================================
+
+    import os
+
+    os.makedirs(
+        CHECKPOINT_DIR,
+        exist_ok=True
+    )
+
+    checkpoint_path = os.path.join(
+        CHECKPOINT_DIR,
+        f"gnn_rgcn_fold{FOLD_NUM}.pt"
+    )
+
+    checkpoint = {
+        "model_state_dict":
+            final_model.state_dict(),
+
+        "fold":
+            FOLD_NUM,
+
+        "best_epoch":
+            best_epoch,
+
+        "best_val_loss":
+            best_val_loss,
+
+        "embed_dim":
+            EMBED_DIM,
+
+        "hidden_dim":
+            HIDDEN_DIM,
+
+        "learning_rate":
+            LR,
+
+        "weight_decay":
+            WEIGHT_DECAY,
+
+        "pos_weight":
+            2.0,
+
+        "seed":
+            SEED,
+
+        "node_counts": {
+            node_type:
+                int(data[node_type].num_nodes)
+            for node_type in data.node_types
+        },
+
+        "node_id_to_local":
+            node_id_to_local,
+
+        "node_id_to_type":
+            node_id_to_type,
+
+        "node_types":
+            list(data.node_types),
+
+        "edge_types": [
+            tuple(edge_type)
+            for edge_type in data.edge_types
+        ]
+    }
+
+    torch.save(
+        checkpoint,
+        checkpoint_path
+    )
+
+    print(
+        f"\\nSaved trained checkpoint: {checkpoint_path}"
     )
 
     # ========================================================
