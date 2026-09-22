@@ -21,7 +21,13 @@ data/processed/
 data/audit/
 
 # Experiment results
+
 results/
+# Versioned Phase 2 reproducibility inputs
+!results/phase2/
+!results/phase2/eval_candidates_fold*.csv
+!results/phase2/train_hard_negatives_fold*.csv
+!results/phase2/treats_edges_with_fold.csv
 
 # Model files
 *.pt
