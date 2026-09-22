@@ -1,6 +1,5 @@
 import os
 import sys
-import copy
 import numpy as np
 import pandas as pd
 import torch
@@ -23,7 +22,7 @@ if PHASE2_DIR not in sys.path:
     sys.path.insert(0, PHASE2_DIR)
 
 import train_rgcn
-
+import sys
 from build_hetero_data import build_fold_hetero_data
 
 
@@ -31,7 +30,7 @@ from build_hetero_data import build_fold_hetero_data
 # CONFIG
 # ============================================================
 
-FOLD_NUM = 0
+FOLD_NUM = int(sys.argv[1]) if len(sys.argv) > 1 else 0
 
 ALPHAS = [
     0.00,
@@ -268,20 +267,94 @@ outer_edge_index_dict = {
 
 
 # ============================================================
-# INNER VALIDATION
+# RECREATE EXACT INNER VALIDATION SPLIT
 #
-# IMPORTANT:
-# This calls the EXISTING official function.
-# Therefore the following are exactly the same as the
-# official training procedure:
+# This is the same deterministic split used by
+# train_rgcn.select_best_epoch().
+# ============================================================
+
+unique_positives = (
+    train_neg_full[
+        [
+            "compound_id",
+            "true_target",
+            "target_type"
+        ]
+    ]
+    .drop_duplicates()
+    .reset_index(drop=True)
+)
+
+rng = np.random.RandomState(
+    train_rgcn.SEED
+)
+
+n_val = max(
+    1,
+    int(
+        train_rgcn.VAL_FRACTION
+        * len(unique_positives)
+    )
+)
+
+val_indices = rng.choice(
+    len(unique_positives),
+    size=n_val,
+    replace=False
+)
+
+validation = (
+    unique_positives
+    .iloc[val_indices]
+    .reset_index(drop=True)
+)
+
+print(
+    "\nInner validation positives:",
+    len(validation)
+)
+
+
+# ============================================================
+# MASK INNER VALIDATION TREATS EDGES
 #
-# - RandomState(42)
-# - 15% inner validation
-# - validation TREATS masking
+# CRITICAL:
+# Validation TREATS edges must NOT participate in
+# message passing when the validation model is scored.
+# ============================================================
+
+val_pairs = [
+    (
+        str(row["compound_id"]),
+        str(row["true_target"]),
+        str(row["target_type"])
+    )
+    for _, row in validation.iterrows()
+]
+
+(
+    validation_edge_index_dict,
+    removed_validation_edges
+) = train_rgcn.mask_validation_treats_edges(
+    outer_edge_index_dict,
+    val_pairs,
+    node_id_to_local
+)
+
+print(
+    "Validation TREATS edges removed from "
+    f"message passing: {removed_validation_edges}"
+)
+
+
+# ============================================================
+# INNER TRAINING
+#
+# Use the exact official training function for:
 # - weighted BCE
-# - POS_WEIGHT = 2.0
+# - POS_WEIGHT
 # - early stopping
-# - best validation epoch
+# - best epoch
 # ============================================================
 
 print(
@@ -316,56 +389,6 @@ print(
 
 
 # ============================================================
-# RECREATE THE SAME INNER VALIDATION SPLIT
-#
-# We reproduce the exact split used by select_best_epoch()
-# so that alpha is evaluated on those same validation cases.
-# ============================================================
-
-unique_positives = (
-    train_neg_full[
-        [
-            "compound_id",
-            "true_target",
-            "target_type"
-        ]
-    ]
-    .drop_duplicates()
-    .reset_index(drop=True)
-)
-
-rng = np.random.RandomState(
-    train_rgcn.SEED
-)
-
-n_val = max(
-    1,
-    int(
-        train_rgcn.VAL_FRACTION
-        *
-        len(unique_positives)
-    )
-)
-
-val_indices = rng.choice(
-    len(unique_positives),
-    size=n_val,
-    replace=False
-)
-
-validation = (
-    unique_positives
-    .iloc[val_indices]
-    .reset_index(drop=True)
-)
-
-print(
-    "\nInner validation cases:",
-    len(validation)
-)
-
-
-# ============================================================
 # RESTORE BEST INNER MODEL
 # ============================================================
 
@@ -381,37 +404,46 @@ model.eval()
 
 
 # ============================================================
-# GET INNER-VALIDATION EMBEDDINGS
+# GET EMBEDDINGS
+#
+# CRITICAL:
+# Use validation-masked graph, NOT outer graph.
 # ============================================================
 
 with torch.no_grad():
 
     out = model(
         node_counts,
-        outer_edge_index_dict
+        validation_edge_index_dict
     )
 
 
 # ============================================================
-# TRAINING-ONLY POPULARITY
+# TRAINING-ONLY INNER POPULARITY
+#
+# CRITICAL:
+# Remove inner validation positives from popularity counts.
+#
+# Outer training set = 189 positives
+# Inner validation = 28 positives
+# Inner training = 161 positives
 # ============================================================
 
-train_treats_df = pd.DataFrame(
-    train_treats,
-    columns=[
-        "source",
-        "target"
-    ]
-) if not isinstance(
+if isinstance(
     train_treats,
     pd.DataFrame
-) else train_treats.copy()
+):
 
-if "target_type" not in train_treats_df.columns:
+    train_treats_df = train_treats.copy()
 
-    train_treats_df["target_type"] = (
-        train_treats_df["target"]
-        .map(node_id_to_type)
+else:
+
+    train_treats_df = pd.DataFrame(
+        train_treats,
+        columns=[
+            "source",
+            "target"
+        ]
     )
 
 train_treats_df["source"] = (
@@ -424,9 +456,45 @@ train_treats_df["target"] = (
     .astype(str)
 )
 
+# Remove inner validation positives.
+validation_positive_keys = set(
+    (
+        str(row["compound_id"]),
+        str(row["true_target"])
+    )
+    for _, row in validation.iterrows()
+)
+
+train_treats_df = train_treats_df[
+    ~train_treats_df.apply(
+        lambda row:
+            (
+                row["source"],
+                row["target"]
+            )
+            in validation_positive_keys,
+        axis=1
+    )
+].reset_index(drop=True)
+
+print(
+    "\nInner-training TREATS edges for "
+    f"popularity: {len(train_treats_df)}"
+)
+
+assert len(train_treats_df) == (
+    len(train_treats) - len(validation)
+), (
+    "Inner-training popularity set does not "
+    "contain the expected number of edges."
+)
+
 
 # ============================================================
 # ALL KNOWN POSITIVES FOR FILTERED RANKING
+#
+# Candidate filtering remains identical to the official
+# evaluation protocol.
 # ============================================================
 
 treats["source"] = (
@@ -547,7 +615,7 @@ for _, row in validation.iterrows():
         )
 
     # --------------------------------------------------------
-    # Training-only popularity
+    # INNER-TRAINING-ONLY POPULARITY
     # --------------------------------------------------------
 
     popularity_counts = (
@@ -573,7 +641,7 @@ for _, row in validation.iterrows():
     )
 
     # --------------------------------------------------------
-    # Rank normalize
+    # Rank normalization
     # --------------------------------------------------------
 
     gnn_norm = rank_normalize(
@@ -598,12 +666,10 @@ for _, row in validation.iterrows():
             (
                 1.0 - alpha
             )
-            *
-            popularity_norm
+            * popularity_norm
             +
             alpha
-            *
-            gnn_norm
+            * gnn_norm
         )
 
         true_score = (
@@ -804,7 +870,13 @@ pd.DataFrame(
                 best_val_loss,
 
             "n_validation_cases":
-                len(validation)
+                len(validation),
+
+            "n_inner_training_treats":
+                len(train_treats_df),
+
+            "validation_treats_removed":
+                removed_validation_edges
         }
     ]
 ).to_csv(
