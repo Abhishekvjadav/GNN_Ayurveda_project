@@ -19,7 +19,7 @@ The supervised dataset contains only **232 labeled `Compound --TREATS--> Disease
 | 2 | 0.75 | 0.1268 | 0.1120 | 0.1166 |
 | 3 | 0.00 | 0.1480 | 0.1190 | 0.1480 |
 | 4 | 0.25 | 0.1502 | 0.1130 | 0.1412 |
-| **Mean** | | **0.1287 ± 0.0183** | **0.1218 ± 0.0105** | **0.1268 ± 0.0164** |
+| **Mean** | | **0.1287 ± 0.0205** | **0.1218 ± 0.0118** | **0.1268 ± 0.0183** |
 
 The results indicate that the GNN does **not show a statistically robust improvement over the leakage-safe popularity baseline** at this dataset scale.
 
