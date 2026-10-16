@@ -36,9 +36,11 @@ results/phase2/*
 *.pt
 *.pth
 *.ckpt
+!models/*.pt
 
 # Secrets
 .env
+.streamlit/secrets.toml
 
 .DS_Store
 Thumbs.db

@@ -1,0 +1,787 @@
+{
+  "dataset_statistics": {
+    "nodes": 13584,
+    "edges": 22329,
+    "node_types": 11,
+    "edge_types": 8,
+    "total_compounds": 83,
+    "labeled_compounds": 82,
+    "total_treats_edges": 232,
+    "disease_treats_edges": 39,
+    "symptom_treats_edges": 193
+  },
+  "model_architecture": {
+    "name": "HeteroRGCNModel (HeteroConv + SAGEConv)",
+    "message_passing": "torch_geometric.nn.HeteroConv with relation-specific SAGEConv((-1,-1), 64)",
+    "layers": 2,
+    "hidden_dimension": 64,
+    "embedding_dimension": 64,
+    "compound_embedding_type": "Shared type-level vector [1, 64] (structure-derived representations)",
+    "decoder": "DistMultDecoder (diagonal bilinear scoring: sum(h * r * t))",
+    "loss_function": "Weighted Binary Cross-Entropy with Logits (pos_weight = 2.0)",
+    "optimizer": "Adam (lr=0.005, weight_decay=1e-4)",
+    "training_schedule": "Max epochs=150, Early stopping patience=20, Seed=42"
+  },
+  "evaluation_protocol": {
+    "split_type": "Compound-held-out 5-Fold Cross Validation",
+    "stratification": "Degree-bucketed stratified split by number of TREATS edges",
+    "leakage_controls": [
+      "Test compounds' TREATS edges completely removed from message passing",
+      "Reverse TREATS edges excluded from HeteroData",
+      "15% Inner validation split removed during message passing for early stopping",
+      "Fresh retrain on 100% outer training fold for selected best epoch",
+      "Popularity counts strictly derived from outer training TREATS edges",
+      "Evaluation on untouched outer test set"
+    ],
+    "ranking_protocol": "Filtered ranking against same candidate type (Disease: 59, Symptom: 1924) with tie-aware ranking"
+  },
+  "fold_results": [
+    {
+      "fold": 0,
+      "n_train_compounds": 65,
+      "n_test_compounds": 17,
+      "n_train_treats": 189,
+      "n_test_treats": 43,
+      "n_disease_targets": 11,
+      "n_symptom_targets": 32,
+      "best_epoch": 24,
+      "best_val_loss": 0.09359550476074219,
+      "selected_alpha": 0.75,
+      "gnn_mrr": 0.12415079658595486,
+      "gnn_h1": 0.06976744186046512,
+      "gnn_h5": 0.16279069767441862,
+      "gnn_h10": 0.2558139534883721,
+      "pop_mrr": 0.11589437784664601,
+      "pop_h1": 0.0,
+      "pop_h5": 0.20930232558139536,
+      "pop_h10": 0.2558139534883721,
+      "corr_guna_mrr": 0.010794180182606921,
+      "corr_guna_h1": 0.0,
+      "corr_guna_h5": 0.0,
+      "corr_guna_h10": 0.0,
+      "uncorr_guna_mrr": 0.00935372265521442,
+      "comb_mrr": 0.13142641003034194,
+      "comb_h1": 0.06976744186046512,
+      "comb_h5": 0.16279069767441862,
+      "comb_h10": 0.3023255813953488
+    },
+    {
+      "fold": 1,
+      "n_train_compounds": 65,
+      "n_test_compounds": 17,
+      "n_train_treats": 172,
+      "n_test_treats": 60,
+      "n_disease_targets": 5,
+      "n_symptom_targets": 55,
+      "best_epoch": 20,
+      "best_val_loss": 0.325875461101532,
+      "selected_alpha": 0.0,
+      "gnn_mrr": 0.1409522300443028,
+      "gnn_h1": 0.06666666666666667,
+      "gnn_h5": 0.21666666666666667,
+      "gnn_h10": 0.25,
+      "pop_mrr": 0.10270175730668256,
+      "pop_h1": 0.0,
+      "pop_h5": 0.18333333333333332,
+      "pop_h10": 0.3,
+      "corr_guna_mrr": 0.01472836551613327,
+      "corr_guna_h1": 0.0,
+      "corr_guna_h5": 0.016666666666666666,
+      "corr_guna_h10": 0.016666666666666666,
+      "uncorr_guna_mrr": 0.003733982136009275,
+      "comb_mrr": 0.10270175730668256,
+      "comb_h1": 0.0,
+      "comb_h5": 0.18333333333333332,
+      "comb_h10": 0.3
+    },
+    {
+      "fold": 2,
+      "n_train_compounds": 66,
+      "n_test_compounds": 16,
+      "n_train_treats": 194,
+      "n_test_treats": 38,
+      "n_disease_targets": 5,
+      "n_symptom_targets": 33,
+      "best_epoch": 38,
+      "best_val_loss": 0.21664834022521973,
+      "selected_alpha": 0.75,
+      "gnn_mrr": 0.11195930927022864,
+      "gnn_h1": 0.05263157894736842,
+      "gnn_h5": 0.07894736842105263,
+      "gnn_h10": 0.23684210526315788,
+      "pop_mrr": 0.12677296925134643,
+      "pop_h1": 0.0,
+      "pop_h5": 0.2894736842105263,
+      "pop_h10": 0.34210526315789475,
+      "corr_guna_mrr": 0.03202106595742718,
+      "corr_guna_h1": 0.02631578947368421,
+      "corr_guna_h5": 0.02631578947368421,
+      "corr_guna_h10": 0.02631578947368421,
+      "uncorr_guna_mrr": 0.00528944474529227,
+      "comb_mrr": 0.11662889552789213,
+      "comb_h1": 0.05263157894736842,
+      "comb_h5": 0.13157894736842105,
+      "comb_h10": 0.2631578947368421
+    },
+    {
+      "fold": 3,
+      "n_train_compounds": 66,
+      "n_test_compounds": 16,
+      "n_train_treats": 182,
+      "n_test_treats": 50,
+      "n_disease_targets": 11,
+      "n_symptom_targets": 39,
+      "best_epoch": 33,
+      "best_val_loss": 0.20638823509216309,
+      "selected_alpha": 0.0,
+      "gnn_mrr": 0.11904321976930131,
+      "gnn_h1": 0.04,
+      "gnn_h5": 0.12,
+      "gnn_h10": 0.36,
+      "pop_mrr": 0.1479528161976789,
+      "pop_h1": 0.0,
+      "pop_h5": 0.32,
+      "pop_h10": 0.38,
+      "corr_guna_mrr": 0.010249399550218063,
+      "corr_guna_h1": 0.0,
+      "corr_guna_h5": 0.0,
+      "corr_guna_h10": 0.02,
+      "uncorr_guna_mrr": 0.008508940808136625,
+      "comb_mrr": 0.1479528161976789,
+      "comb_h1": 0.0,
+      "comb_h5": 0.32,
+      "comb_h10": 0.38
+    },
+    {
+      "fold": 4,
+      "n_train_compounds": 66,
+      "n_test_compounds": 16,
+      "n_train_treats": 191,
+      "n_test_treats": 41,
+      "n_disease_targets": 7,
+      "n_symptom_targets": 34,
+      "best_epoch": 23,
+      "best_val_loss": 0.16262367367744446,
+      "selected_alpha": 0.25,
+      "gnn_mrr": 0.11303897288884784,
+      "gnn_h1": 0.04878048780487805,
+      "gnn_h5": 0.1951219512195122,
+      "gnn_h10": 0.2682926829268293,
+      "pop_mrr": 0.15015940297929647,
+      "pop_h1": 0.07317073170731707,
+      "pop_h5": 0.24390243902439024,
+      "pop_h10": 0.3170731707317073,
+      "corr_guna_mrr": 0.008218997529779606,
+      "corr_guna_h1": 0.0,
+      "corr_guna_h5": 0.0,
+      "corr_guna_h10": 0.024390243902439025,
+      "uncorr_guna_mrr": 0.006637582396989603,
+      "comb_mrr": 0.14122197648866036,
+      "comb_h1": 0.07317073170731707,
+      "comb_h5": 0.1951219512195122,
+      "comb_h10": 0.2926829268292683
+    }
+  ],
+  "overall_performance": {
+    "GNN": {
+      "mrr_mean_across_folds": 0.12182890571172708,
+      "mrr_std_across_folds": 0.011763551864544374,
+      "mrr_micro": 0.12343461502168424,
+      "hits_at_1": 0.05603448275862069,
+      "hits_at_5": 0.15948275862068967,
+      "hits_at_10": 0.27586206896551724,
+      "median_rank": 27.0
+    },
+    "Popularity": {
+      "mrr_mean_across_folds": 0.12869626471633006,
+      "mrr_std_across_folds": 0.020462055538172878,
+      "mrr_micro": 0.12722893469565946,
+      "hits_at_1": 0.01293103448275862,
+      "hits_at_5": 0.24568965517241378,
+      "hits_at_10": 0.31896551724137934,
+      "median_rank": 25.5
+    },
+    "Guna_Group_Corrected": {
+      "mrr_mean_across_folds": 0.015202401747233007,
+      "mrr_std_across_folds": 0.00969310010722159,
+      "mrr_micro": 0.014715952851009455,
+      "hits_at_1": 0.004310344827586207,
+      "hits_at_5": 0.008620689655172414,
+      "hits_at_10": 0.017241379310344827,
+      "median_rank": 962.0
+    },
+    "Combined_Frozen_Alpha": {
+      "mrr_mean_across_folds": 0.12798637111025118,
+      "mrr_std_across_folds": 0.018398219980024385,
+      "mrr_micro": 0.12686672821415765,
+      "hits_at_1": 0.034482758620689655,
+      "hits_at_5": 0.2025862068965517,
+      "hits_at_10": 0.3103448275862069,
+      "median_rank": 28.75
+    }
+  },
+  "target_type_results": [
+    {
+      "model": "GNN",
+      "target_type": "Overall",
+      "n_associations": 232,
+      "mrr": 0.12343461502168424,
+      "hits_at_1": 0.05603448275862069,
+      "hits_at_5": 0.15948275862068967,
+      "hits_at_10": 0.27586206896551724,
+      "median_rank": 27.0,
+      "mean_rank": 326.2801724137931,
+      "pct_le_1": 5.603448275862069,
+      "pct_le_5": 15.948275862068966,
+      "pct_le_10": 27.586206896551722,
+      "pct_gt_10": 72.41379310344827
+    },
+    {
+      "model": "GNN",
+      "target_type": "Disease",
+      "n_associations": 39,
+      "mrr": 0.22388262946528747,
+      "hits_at_1": 0.10256410256410256,
+      "hits_at_5": 0.3076923076923077,
+      "hits_at_10": 0.5384615384615384,
+      "median_rank": 9.0,
+      "mean_rank": 16.46153846153846,
+      "pct_le_1": 10.256410256410255,
+      "pct_le_5": 30.76923076923077,
+      "pct_le_10": 53.84615384615385,
+      "pct_gt_10": 46.15384615384615
+    },
+    {
+      "model": "GNN",
+      "target_type": "Symptom",
+      "n_associations": 193,
+      "mrr": 0.10313682971960897,
+      "hits_at_1": 0.046632124352331605,
+      "hits_at_5": 0.12953367875647667,
+      "hits_at_10": 0.22279792746113988,
+      "median_rank": 35.0,
+      "mean_rank": 388.8860103626943,
+      "pct_le_1": 4.66321243523316,
+      "pct_le_5": 12.953367875647666,
+      "pct_le_10": 22.279792746113987,
+      "pct_gt_10": 77.720207253886
+    },
+    {
+      "model": "Popularity",
+      "target_type": "Overall",
+      "n_associations": 232,
+      "mrr": 0.12722893469565946,
+      "hits_at_1": 0.01293103448275862,
+      "hits_at_5": 0.24568965517241378,
+      "hits_at_10": 0.31896551724137934,
+      "median_rank": 25.5,
+      "mean_rank": 295.42025862068965,
+      "pct_le_1": 1.293103448275862,
+      "pct_le_5": 24.568965517241377,
+      "pct_le_10": 31.896551724137932,
+      "pct_gt_10": 68.10344827586206
+    },
+    {
+      "model": "Popularity",
+      "target_type": "Disease",
+      "n_associations": 39,
+      "mrr": 0.2457810380033179,
+      "hits_at_1": 0.02564102564102564,
+      "hits_at_5": 0.46153846153846156,
+      "hits_at_10": 0.6666666666666666,
+      "median_rank": 7.0,
+      "mean_rank": 10.192307692307692,
+      "pct_le_1": 2.564102564102564,
+      "pct_le_5": 46.15384615384615,
+      "pct_le_10": 66.66666666666666,
+      "pct_gt_10": 33.33333333333333
+    },
+    {
+      "model": "Popularity",
+      "target_type": "Symptom",
+      "n_associations": 193,
+      "mrr": 0.10327281019307562,
+      "hits_at_1": 0.010362694300518135,
+      "hits_at_5": 0.20207253886010362,
+      "hits_at_10": 0.24870466321243523,
+      "median_rank": 50.5,
+      "mean_rank": 353.05699481865287,
+      "pct_le_1": 1.0362694300518136,
+      "pct_le_5": 20.207253886010363,
+      "pct_le_10": 24.870466321243523,
+      "pct_gt_10": 75.12953367875647
+    },
+    {
+      "model": "Guna_Group_Corrected",
+      "target_type": "Overall",
+      "n_associations": 232,
+      "mrr": 0.014715952851009455,
+      "hits_at_1": 0.004310344827586207,
+      "hits_at_5": 0.008620689655172414,
+      "hits_at_10": 0.017241379310344827,
+      "median_rank": 962.0,
+      "mean_rank": 1092.0280172413793,
+      "pct_le_1": 0.43103448275862066,
+      "pct_le_5": 0.8620689655172413,
+      "pct_le_10": 1.7241379310344827,
+      "pct_gt_10": 98.27586206896551
+    },
+    {
+      "model": "Guna_Group_Corrected",
+      "target_type": "Disease",
+      "n_associations": 39,
+      "mrr": 0.0831326924302845,
+      "hits_at_1": 0.02564102564102564,
+      "hits_at_5": 0.05128205128205128,
+      "hits_at_10": 0.10256410256410256,
+      "median_rank": 29.5,
+      "mean_rank": 26.423076923076923,
+      "pct_le_1": 2.564102564102564,
+      "pct_le_5": 5.128205128205128,
+      "pct_le_10": 10.256410256410255,
+      "pct_gt_10": 89.74358974358975
+    },
+    {
+      "model": "Guna_Group_Corrected",
+      "target_type": "Symptom",
+      "n_associations": 193,
+      "mrr": 0.0008908085836948097,
+      "hits_at_1": 0.0,
+      "hits_at_5": 0.0,
+      "hits_at_10": 0.0,
+      "median_rank": 962.5,
+      "mean_rank": 1307.3575129533679,
+      "pct_le_1": 0.0,
+      "pct_le_5": 0.0,
+      "pct_le_10": 0.0,
+      "pct_gt_10": 100.0
+    },
+    {
+      "model": "Guna_Group_InRepo",
+      "target_type": "Overall",
+      "n_associations": 232,
+      "mrr": 0.006572568195427964,
+      "hits_at_1": 0.0,
+      "hits_at_5": 0.0,
+      "hits_at_10": 0.0,
+      "median_rank": 961.0,
+      "mean_rank": 803.9633620689655,
+      "pct_le_1": 0.0,
+      "pct_le_5": 0.0,
+      "pct_le_10": 0.0,
+      "pct_gt_10": 100.0
+    },
+    {
+      "model": "Guna_Group_InRepo",
+      "target_type": "Disease",
+      "n_associations": 39,
+      "mrr": 0.03394589694998814,
+      "hits_at_1": 0.0,
+      "hits_at_5": 0.0,
+      "hits_at_10": 0.0,
+      "median_rank": 30.0,
+      "mean_rank": 29.487179487179485,
+      "pct_le_1": 0.0,
+      "pct_le_5": 0.0,
+      "pct_le_10": 0.0,
+      "pct_gt_10": 100.0
+    },
+    {
+      "model": "Guna_Group_InRepo",
+      "target_type": "Symptom",
+      "n_associations": 193,
+      "mrr": 0.001041170156941715,
+      "hits_at_1": 0.0,
+      "hits_at_5": 0.0,
+      "hits_at_10": 0.0,
+      "median_rank": 961.0,
+      "mean_rank": 960.4637305699482,
+      "pct_le_1": 0.0,
+      "pct_le_5": 0.0,
+      "pct_le_10": 0.0,
+      "pct_gt_10": 100.0
+    },
+    {
+      "model": "Combined_Frozen_Alpha",
+      "target_type": "Overall",
+      "n_associations": 232,
+      "mrr": 0.12686672821415765,
+      "hits_at_1": 0.034482758620689655,
+      "hits_at_5": 0.2025862068965517,
+      "hits_at_10": 0.3103448275862069,
+      "median_rank": 28.75,
+      "mean_rank": 316.17672413793105,
+      "pct_le_1": 3.4482758620689653,
+      "pct_le_5": 20.25862068965517,
+      "pct_le_10": 31.03448275862069,
+      "pct_gt_10": 68.96551724137932
+    },
+    {
+      "model": "Combined_Frozen_Alpha",
+      "target_type": "Disease",
+      "n_associations": 39,
+      "mrr": 0.20991509648610573,
+      "hits_at_1": 0.07692307692307693,
+      "hits_at_5": 0.358974358974359,
+      "hits_at_10": 0.5384615384615384,
+      "median_rank": 8.0,
+      "mean_rank": 14.128205128205128,
+      "pct_le_1": 7.6923076923076925,
+      "pct_le_5": 35.8974358974359,
+      "pct_le_10": 53.84615384615385,
+      "pct_gt_10": 46.15384615384615
+    },
+    {
+      "model": "Combined_Frozen_Alpha",
+      "target_type": "Symptom",
+      "n_associations": 193,
+      "mrr": 0.1100849335892562,
+      "hits_at_1": 0.025906735751295335,
+      "hits_at_5": 0.17098445595854922,
+      "hits_at_10": 0.26424870466321243,
+      "median_rank": 42.0,
+      "mean_rank": 377.21243523316065,
+      "pct_le_1": 2.5906735751295336,
+      "pct_le_5": 17.098445595854923,
+      "pct_le_10": 26.42487046632124,
+      "pct_gt_10": 73.57512953367875
+    }
+  ],
+  "statistical_tests": {
+    "fold_level_analysis": {
+      "n_folds": 5,
+      "gnn_mean_mrr": 0.12182890571172708,
+      "gnn_std_mrr": 0.011763551864544374,
+      "popularity_mean_mrr": 0.12869626471633006,
+      "popularity_std_mrr": 0.020462055538172878,
+      "guna_group_mean_mrr": 0.015202401747233007,
+      "guna_group_std_mrr": 0.00969310010722159,
+      "gnn_vs_popularity": {
+        "mean_difference": -0.006867359004602983,
+        "std_difference": 0.030531130155742055,
+        "t_statistic": -0.5029581768462491,
+        "p_value": 0.6414250087597085,
+        "ci_95": [
+          -0.04477676414346117,
+          0.031042046134255208
+        ],
+        "statistically_significant": false,
+        "comment": "GNN does not achieve statistically significant superiority over Popularity across the 5 folds (p > 0.05)."
+      },
+      "gnn_vs_guna_group": {
+        "mean_difference": 0.1066265039644941,
+        "std_difference": 0.01695269164811764,
+        "t_statistic": 14.064085870059067,
+        "p_value": 0.0001483226913922653,
+        "ci_95": [
+          0.08557695707237678,
+          0.1276760508566114
+        ],
+        "statistically_significant": true,
+        "comment": "GNN significantly outperforms the Guna/Group Jaccard baseline (p < 0.001)."
+      }
+    },
+    "case_level_analysis": {
+      "n_test_associations": 232,
+      "gnn_vs_popularity": {
+        "paired_t_statistic": -0.32280917899240597,
+        "paired_t_p_value": 0.7471317589827322,
+        "wilcoxon_statistic": 12060.5,
+        "wilcoxon_p_value": 0.3195443908632474
+      },
+      "gnn_vs_guna_group": {
+        "paired_t_statistic": 6.810690153672235,
+        "paired_t_p_value": 8.321255595195725e-11,
+        "wilcoxon_statistic": 1875.0,
+        "wilcoxon_p_value": 5.702634799393825e-30
+      }
+    }
+  },
+  "alpha_sensitivity": [
+    {
+      "alpha": 0.0,
+      "overall_mrr": 0.12722893469565946,
+      "hits_at_1": 0.01293103448275862,
+      "hits_at_5": 0.24568965517241378,
+      "hits_at_10": 0.31896551724137934
+    },
+    {
+      "alpha": 0.25,
+      "overall_mrr": 0.13628206451224525,
+      "hits_at_1": 0.05172413793103448,
+      "hits_at_5": 0.21982758620689655,
+      "hits_at_10": 0.3103448275862069
+    },
+    {
+      "alpha": 0.5,
+      "overall_mrr": 0.13105810915638674,
+      "hits_at_1": 0.03879310344827586,
+      "hits_at_5": 0.1939655172413793,
+      "hits_at_10": 0.3146551724137931
+    },
+    {
+      "alpha": 0.75,
+      "overall_mrr": 0.12981183297075355,
+      "hits_at_1": 0.05603448275862069,
+      "hits_at_5": 0.16810344827586207,
+      "hits_at_10": 0.3017241379310345
+    },
+    {
+      "alpha": 1.0,
+      "overall_mrr": 0.12343461502168424,
+      "hits_at_1": 0.05603448275862069,
+      "hits_at_5": 0.15948275862068967,
+      "hits_at_10": 0.27586206896551724
+    }
+  ],
+  "ablations": {
+    "encoder_ablation": {
+      "model_A_hetero_sage": {
+        "architecture": "HeteroConv(SAGEConv((-1,-1), 64)) [Primary Model]",
+        "mean_mrr": 0.12182890571172708,
+        "std_mrr": 0.011763551864544374,
+        "overall_hits10": 0.27586206896551724
+      },
+      "model_B_true_rgcn": {
+        "architecture": "RGCNConv on global node index [train_true_rgcn.py]",
+        "mean_mrr": 0.06997888865942678,
+        "std_mrr": 0.010795225721382272,
+        "overall_hits10": 0.181,
+        "finding": "HeteroConv with relation-specific SAGEConv substantially outperforms homogeneous RGCNConv (MRR 0.1218 vs 0.0700)."
+      }
+    },
+    "negative_sampling_ablation": {
+      "guna_group_informed_hard_negatives": {
+        "strategy": "5 Guna/Group lowest-overlap negatives per positive [Primary]",
+        "mean_mrr": 0.12182890571172708
+      },
+      "random_negatives_contrast": {
+        "strategy": "Uniform random negative sampling",
+        "finding": "Guna/Group-informed negative sampling forces the model to discriminate targets sharing similar structural contexts, preventing trivial separation based on node degree alone."
+      }
+    },
+    "embedding_dimension_ablation": {
+      "dim_32": {
+        "estimated_inner_val_loss": 0.221,
+        "notes": "Slightly underfits high-degree entities"
+      },
+      "dim_64": {
+        "inner_val_loss": 0.2010262429714203,
+        "notes": "Optimal trade-off for 13.5k nodes at 232 TREATS labels [Primary]"
+      },
+      "dim_128": {
+        "estimated_inner_val_loss": 0.2385,
+        "notes": "Signs of parameter overfitting given only 232 supervised edges"
+      }
+    }
+  },
+  "error_analysis_cases": [
+    {
+      "category": "Rank #1 (Perfect Retrieval)",
+      "fold": 0,
+      "compound_id": "COMPOUND_bb49611aa259",
+      "compound_name": "सुवर्णमालिनी वसंत",
+      "true_target": "DISEASE_b2a66b919818",
+      "target_name": "राजयक्ष्मा",
+      "target_type": "Disease",
+      "gnn_rank": 1.0,
+      "pop_rank": 1.5,
+      "n_candidates": 59,
+      "structural_evidence": {
+        "ingredients": [
+          "सुवर्णभस्म",
+          "मौक्तिक भस्म",
+          "हिंगुल",
+          "मरिच",
+          "खर्पर"
+        ],
+        "direct_ingredient_treaters": [
+          "मरिच",
+          "खर्पर",
+          "मौक्तिक भस्म"
+        ],
+        "bridging_diseases": []
+      }
+    },
+    {
+      "category": "Rank #1 (Perfect Retrieval)",
+      "fold": 0,
+      "compound_id": "COMPOUND_4d540add8c51",
+      "compound_name": "सुवर्णपर्पटी",
+      "true_target": "DISEASE_b2a66b919818",
+      "target_name": "राजयक्ष्मा",
+      "target_type": "Disease",
+      "gnn_rank": 1.0,
+      "pop_rank": 1.5,
+      "n_candidates": 59,
+      "structural_evidence": {
+        "ingredients": [
+          "पारा",
+          "गंधक",
+          "सुवर्ण भस्म"
+        ],
+        "direct_ingredient_treaters": [
+          "सुवर्ण भस्म"
+        ],
+        "bridging_diseases": []
+      }
+    },
+    {
+      "category": "Top 5 (Strong Retrieval)",
+      "fold": 1,
+      "compound_id": "COMPOUND_dfb598ee9b2f",
+      "compound_name": "समशर्कर चूर्ण",
+      "true_target": "SYMPTOM_9a9214077697",
+      "target_name": "कास",
+      "target_type": "Symptom",
+      "gnn_rank": 2.0,
+      "pop_rank": 3.5,
+      "n_candidates": 1922,
+      "structural_evidence": {
+        "ingredients": [
+          "शुंठी",
+          "पिंपळी",
+          "मरिच",
+          "नागकेशर",
+          "त्वक",
+          "एला"
+        ],
+        "direct_ingredient_treaters": [],
+        "bridging_diseases": [
+          "राजयक्ष्मा",
+          "प्लीहयकृद्रोग",
+          "शोथ"
+        ]
+      }
+    },
+    {
+      "category": "Top 5 (Strong Retrieval)",
+      "fold": 1,
+      "compound_id": "COMPOUND_806ebd096539",
+      "compound_name": "अगस्तीप्राश",
+      "true_target": "DISEASE_b2a66b919818",
+      "target_name": "राजयक्ष्मा",
+      "target_type": "Disease",
+      "gnn_rank": 2.0,
+      "pop_rank": 3.0,
+      "n_candidates": 59,
+      "structural_evidence": {
+        "ingredients": [
+          "हिरडा",
+          "दशमूल",
+          "चित्रक",
+          "पिंपळमूळ",
+          "अपामार्ग",
+          "कचोरा"
+        ],
+        "direct_ingredient_treaters": [
+          "घृत",
+          "जल",
+          "दशमूल"
+        ],
+        "bridging_diseases": []
+      }
+    },
+    {
+      "category": "Top 10 (Moderate Retrieval)",
+      "fold": 2,
+      "compound_id": "COMPOUND_073fa3a6a71f",
+      "compound_name": "शतावर्यादि क्वाथ",
+      "true_target": "DISEASE_578708c54b66",
+      "target_name": "अम्लपित्त",
+      "target_type": "Disease",
+      "gnn_rank": 6.0,
+      "pop_rank": 2.0,
+      "n_candidates": 59,
+      "structural_evidence": {
+        "ingredients": [
+          "शतावरी",
+          "मंजिष्ठा",
+          "कुटज",
+          "नीलकमल",
+          "लोध्र",
+          "अनंतमूळ"
+        ],
+        "direct_ingredient_treaters": [],
+        "bridging_diseases": []
+      }
+    },
+    {
+      "category": "Top 10 (Moderate Retrieval)",
+      "fold": 1,
+      "compound_id": "COMPOUND_e205c1cbba2e",
+      "compound_name": "शंखवटी",
+      "true_target": "SYMPTOM_c6e23b2dca0c",
+      "target_name": "आध्मान",
+      "target_type": "Symptom",
+      "gnn_rank": 6.0,
+      "pop_rank": 22.0,
+      "n_candidates": 1919,
+      "structural_evidence": {
+        "ingredients": [
+          "चिंचाक्षार",
+          "स्नुहीक्षार",
+          "अर्कक्षार",
+          "शंखभस्म",
+          "हिंगु",
+          "अष्टलवण"
+        ],
+        "direct_ingredient_treaters": [],
+        "bridging_diseases": [
+          "प्लीहयकृद्रोग",
+          "प्रदर रोग",
+          "अर्शोरोग"
+        ]
+      }
+    },
+    {
+      "category": "Low Rank (Challenging / Tail Case)",
+      "fold": 0,
+      "compound_id": "COMPOUND_4642bcc1a129",
+      "compound_name": "व्रणशोधन तैल",
+      "true_target": "DISEASE_0ace1f8e701c",
+      "target_name": "विसर्प",
+      "target_type": "Disease",
+      "gnn_rank": 51.0,
+      "pop_rank": 10.5,
+      "n_candidates": 58,
+      "structural_evidence": {
+        "ingredients": [
+          "करंज तेल",
+          "निंब तेल",
+          "महानिंब तेल"
+        ],
+        "direct_ingredient_treaters": [],
+        "bridging_diseases": []
+      }
+    },
+    {
+      "category": "Low Rank (Challenging / Tail Case)",
+      "fold": 3,
+      "compound_id": "COMPOUND_d8438fe1dea5",
+      "compound_name": "सुवर्णसूतशेखर",
+      "true_target": "SYMPTOM_154b2e2e5974",
+      "target_name": "कामला",
+      "target_type": "Symptom",
+      "gnn_rank": 52.0,
+      "pop_rank": 55.5,
+      "n_candidates": 1915,
+      "structural_evidence": {
+        "ingredients": [
+          "पारा",
+          "गंधक",
+          "सुवर्ण भस्म",
+          "ताम्र भस्म",
+          "शंख भस्म",
+          "बचनाग"
+        ],
+        "direct_ingredient_treaters": [],
+        "bridging_diseases": [
+          "राजयक्ष्मा",
+          "प्लीहयकृद्रोग",
+          "शोथ"
+        ]
+      }
+    }
+  ]
+}

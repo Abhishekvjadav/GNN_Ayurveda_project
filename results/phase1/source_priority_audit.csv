@@ -1,0 +1,200 @@
+﻿entity,candidate_types,resolution
+अग्नि,Ayurvedic_Concept|Group|Herb,PRESERVE_CONTEXT
+अधिक निद्रा,Ayurvedic_Concept|Herb,PRESERVE_CONTEXT
+अम्ल,Ayurvedic_Concept|Herb,PRESERVE_CONTEXT
+आलस्य,Ayurvedic_Concept|Herb,PRESERVE_CONTEXT
+कटु,Ayurvedic_Concept|Herb,PRESERVE_CONTEXT
+कफ,Ayurvedic_Concept|Symptom,PRESERVE_CONTEXT
+कषाय,Ayurvedic_Concept|Group|Herb|Quality,PRESERVE_CONTEXT
+क्रोध,Ayurvedic_Concept|Herb,PRESERVE_CONTEXT
+जल,Ayurvedic_Concept|Vehicle,PRESERVE_CONTEXT
+तिक्त,Ayurvedic_Concept|Group|Herb,PRESERVE_CONTEXT
+दाह,Ayurvedic_Concept|Herb|Symptom,PRESERVE_CONTEXT
+दोष,Ayurvedic_Concept|Symptom,PRESERVE_CONTEXT
+पित्त,Ayurvedic_Concept|Herb|Symptom,PRESERVE_CONTEXT
+मधुर,Ayurvedic_Concept|Group|Herb,PRESERVE_CONTEXT
+मल,Ayurvedic_Concept|Herb,PRESERVE_CONTEXT
+मांस,Ayurvedic_Concept|Herb,PRESERVE_CONTEXT
+मूत्र,Ayurvedic_Concept|Herb,PRESERVE_CONTEXT
+मूत्रकृच्छ्र,Ayurvedic_Concept|Disease|Herb|Symptom,PRESERVE_CONTEXT
+मेद,Ayurvedic_Concept|Symptom,PRESERVE_CONTEXT
+रक्त,Ayurvedic_Concept|Symptom,PRESERVE_CONTEXT
+रक्तपित्त,Ayurvedic_Concept|Disease|Herb|Symptom,PRESERVE_CONTEXT
+लवण,Ayurvedic_Concept|Other_Unclassified,PRESERVE_CONTEXT
+वात,Ayurvedic_Concept|Herb|Symptom,PRESERVE_CONTEXT
+शुक्र,Ayurvedic_Concept|Herb,PRESERVE_CONTEXT
+शूल,Ayurvedic_Concept|Herb|Symptom,PRESERVE_CONTEXT
+स्वेद,Ayurvedic_Concept|Herb|Symptom,PRESERVE_CONTEXT
+अभयारिष्ट,Compound|Sub_Formulation,PRESERVE_CONTEXT
+अमृतप्राश घृत,Compound|Sub_Formulation,PRESERVE_CONTEXT
+अश्वकंचुकी,Compound|Sub_Formulation,PRESERVE_CONTEXT
+अहिफेनासव,Compound|Sub_Formulation,PRESERVE_CONTEXT
+शतावरी घृत,Compound|Sub_Formulation,PRESERVE_CONTEXT
+समशर्कर चूर्ण,Compound|Sub_Formulation,PRESERVE_CONTEXT
+सारस्वत चूर्ण,Compound|Sub_Formulation,PRESERVE_CONTEXT
+सारिवाद्यासव,Compound|Sub_Formulation,PRESERVE_CONTEXT
+सितोपलादि चूर्ण,Compound|Sub_Formulation,PRESERVE_CONTEXT
+हिंग्वाष्टक चूर्ण,Compound|Sub_Formulation,PRESERVE_CONTEXT
+हेमगर्भ,Compound|Other_Unclassified,PRESERVE_CONTEXT
+अपस्मार,Disease|Symptom,PRESERVE_CONTEXT
+अम्लपित्त,Disease|Symptom,PRESERVE_CONTEXT
+अरोचक,Disease|Symptom,PRESERVE_CONTEXT
+अश्मरी,Disease|Symptom,PRESERVE_CONTEXT
+उन्माद,Disease|Symptom,PRESERVE_CONTEXT
+उपदंश,Disease|Symptom,PRESERVE_CONTEXT
+उरस्तोय,Disease|Herb|Symptom,PRESERVE_CONTEXT
+ऊरुस्तम्भ,Disease|Symptom,PRESERVE_CONTEXT
+औपसर्गिकमेह,Disease|Symptom,PRESERVE_CONTEXT
+कर्णरोग,Disease|Symptom,PRESERVE_CONTEXT
+कुष्ठ,Disease|Herb|Symptom,PRESERVE_CONTEXT
+क्लोमरोग,Disease|Symptom,PRESERVE_CONTEXT
+खञ्जनिका,Disease|Symptom,PRESERVE_CONTEXT
+गुल्मरोग,Disease|Symptom,PRESERVE_CONTEXT
+छर्दि,Disease|Herb|Symptom,PRESERVE_CONTEXT
+ताण्डवरोग,Disease|Symptom,PRESERVE_CONTEXT
+तृष्णा,Disease|Herb|Symptom,PRESERVE_CONTEXT
+दाहरोग,Disease|Symptom,PRESERVE_CONTEXT
+ध्वजभङ्ग,Disease|Herb|Symptom,PRESERVE_CONTEXT
+नासारोग,Disease|Symptom,PRESERVE_CONTEXT
+पाण्डुरोग,Disease|Symptom,PRESERVE_CONTEXT
+प्रमेहपिडका,Disease|Symptom,PRESERVE_CONTEXT
+फिरङ्गरोग,Disease|Symptom,PRESERVE_CONTEXT
+बहुमूत्ररोग,Disease|Symptom,PRESERVE_CONTEXT
+भगन्दर,Disease|Symptom,PRESERVE_CONTEXT
+मदात्यय,Disease|Symptom,PRESERVE_CONTEXT
+मुखरोग,Disease|Symptom,PRESERVE_CONTEXT
+मूत्राघात,Disease|Symptom,PRESERVE_CONTEXT
+मूर्च्छा,Disease|Herb|Symptom,PRESERVE_CONTEXT
+राजयक्ष्मा,Disease|Herb|Symptom,PRESERVE_CONTEXT
+लसीकामेह,Disease|Symptom,PRESERVE_CONTEXT
+विसर्प,Disease|Symptom,PRESERVE_CONTEXT
+विस्फोट,Disease|Symptom,PRESERVE_CONTEXT
+वृक्करोग,Disease|Herb|Symptom,PRESERVE_CONTEXT
+वृद्धिरोग,Disease|Symptom,PRESERVE_CONTEXT
+शुक्रमेह,Disease|Symptom,PRESERVE_CONTEXT
+शोथ,Disease|Herb|Symptom,PRESERVE_CONTEXT
+स्खालित्यरोग,Disease|Symptom,PRESERVE_CONTEXT
+स्नायुकरोग,Disease|Symptom,PRESERVE_CONTEXT
+स्नायुरोग,Disease|Symptom,PRESERVE_CONTEXT
+स्वरभेद,Disease|Symptom,PRESERVE_CONTEXT
+कृमिघ्न,Group|Herb,PRESERVE_CONTEXT
+जीवनीय,Group|Herb,PRESERVE_CONTEXT
+तृणपंचमूळ,Group|Herb,PRESERVE_CONTEXT
+त्रिफला,Group|Sub_Formulation,PRESERVE_CONTEXT
+नागपुष्प,Group|Herb,PRESERVE_CONTEXT
+नारिकेल,Group|Herb,PRESERVE_CONTEXT
+बल्य,Group|Herb,PRESERVE_CONTEXT
+बृंहण,Group|Herb,PRESERVE_CONTEXT
+लेखन,Group|Herb,PRESERVE_CONTEXT
+वमन,Group|Herb,PRESERVE_CONTEXT
+वर्ण्य,Group|Herb,PRESERVE_CONTEXT
+विरेचन,Group|Herb,PRESERVE_CONTEXT
+व्रण शोधन,Group|Herb,PRESERVE_CONTEXT
+हृद्य,Group|Herb|Quality,PRESERVE_CONTEXT
+-,Herb|Quality,PRESERVE_CONTEXT
+अग्नि दीपन,Herb|Symptom,PRESERVE_CONTEXT
+अग्निकर्म,Herb|Symptom,PRESERVE_CONTEXT
+अग्निमांद्य,Herb|Symptom,PRESERVE_CONTEXT
+अजीर्ण,Herb|Symptom,PRESERVE_CONTEXT
+अतिसार,Herb|Symptom,PRESERVE_CONTEXT
+अतिसार रक्तज,Herb|Symptom,PRESERVE_CONTEXT
+अभिवृद्धि क्लोम,Herb|Symptom,PRESERVE_CONTEXT
+अरुचि,Herb|Symptom,PRESERVE_CONTEXT
+अर्क,Herb|Sub_Formulation,PRESERVE_CONTEXT
+अर्ति,Herb|Symptom,PRESERVE_CONTEXT
+अर्शस् रक्तज,Herb|Symptom,PRESERVE_CONTEXT
+अशोकारिष्ट,Herb|Sub_Formulation,PRESERVE_CONTEXT
+आध्मान,Herb|Symptom,PRESERVE_CONTEXT
+उत्क्लेश,Herb|Symptom,PRESERVE_CONTEXT
+उत्थान न मेढ्र,Herb|Symptom,PRESERVE_CONTEXT
+उदररोग उदकोदर,Herb|Symptom,PRESERVE_CONTEXT
+उदावर्त,Herb|Symptom,PRESERVE_CONTEXT
+उष्ण,Herb|Quality,PRESERVE_CONTEXT
+कण्डू,Herb|Symptom,PRESERVE_CONTEXT
+कम्प हृत,Herb|Symptom,PRESERVE_CONTEXT
+कामला,Herb|Symptom,PRESERVE_CONTEXT
+कास,Herb|Symptom,PRESERVE_CONTEXT
+कृमि,Herb|Symptom,PRESERVE_CONTEXT
+कृशत्व,Herb|Symptom,PRESERVE_CONTEXT
+केशर,Herb|Quality,PRESERVE_CONTEXT
+क्लैब्य,Herb|Symptom,PRESERVE_CONTEXT
+क्षत मनस् रिरंसु,Herb|Symptom,PRESERVE_CONTEXT
+क्षय बल,Herb|Symptom,PRESERVE_CONTEXT
+क्षय शुक्र,Herb|Symptom,PRESERVE_CONTEXT
+क्षार,Herb|Sub_Formulation,PRESERVE_CONTEXT
+गरविष,Herb|Symptom,PRESERVE_CONTEXT
+गाढत्व पुरीष,Herb|Symptom,PRESERVE_CONTEXT
+गुरु,Herb|Quality,PRESERVE_CONTEXT
+ग्रन्थि,Herb|Symptom,PRESERVE_CONTEXT
+चूर्ण,Herb|Sub_Formulation,PRESERVE_CONTEXT
+चोपचिनी,Herb|Sub_Formulation,PRESERVE_CONTEXT
+छर्दि रक्त,Herb|Symptom,PRESERVE_CONTEXT
+छाया,Herb|Symptom,PRESERVE_CONTEXT
+ज्वर,Herb|Symptom,PRESERVE_CONTEXT
+तन्द्रा,Herb|Symptom,PRESERVE_CONTEXT
+ताप,Herb|Symptom,PRESERVE_CONTEXT
+तिल,Herb|Vehicle,PRESERVE_CONTEXT
+तीक्ष्ण,Herb|Quality,PRESERVE_CONTEXT
+तृष्णा दुर्बलत्व अति,Herb|Symptom,PRESERVE_CONTEXT
+तृष्णा रूक्षत्व अति,Herb|Symptom,PRESERVE_CONTEXT
+दाह अङ्ग,Herb|Symptom,PRESERVE_CONTEXT
+दीपन,Herb|Quality,PRESERVE_CONTEXT
+दुर्गन्ध,Herb|Symptom,PRESERVE_CONTEXT
+दुर्बलत्व,Herb|Symptom,PRESERVE_CONTEXT
+देवदार्व्यारिष्ट,Herb|Sub_Formulation,PRESERVE_CONTEXT
+दौर्बल्य,Herb|Symptom,PRESERVE_CONTEXT
+नाश निद्रा,Herb|Symptom,PRESERVE_CONTEXT
+नाश बल,Herb|Symptom,PRESERVE_CONTEXT
+निष्ठीवन रक्त,Herb|Symptom,PRESERVE_CONTEXT
+नेत्ररोग,Herb|Symptom,PRESERVE_CONTEXT
+पलित,Herb|Symptom,PRESERVE_CONTEXT
+पाक,Herb|Sub_Formulation,PRESERVE_CONTEXT
+पाचन,Herb|Quality,PRESERVE_CONTEXT
+पिच्छल,Herb|Quality,PRESERVE_CONTEXT
+पिच्छिल,Herb|Quality,PRESERVE_CONTEXT
+पिडका,Herb|Symptom,PRESERVE_CONTEXT
+पूयमेह,Herb|Symptom,PRESERVE_CONTEXT
+प्रतिश्याय,Herb|Symptom,PRESERVE_CONTEXT
+प्रमेह चिकित्सा औषध,Herb|Symptom,PRESERVE_CONTEXT
+प्लीहरोग,Herb|Symptom,PRESERVE_CONTEXT
+मद,Herb|Symptom,PRESERVE_CONTEXT
+मन्दत्व अग्नि,Herb|Symptom,PRESERVE_CONTEXT
+मृत्यु,Herb|Symptom,PRESERVE_CONTEXT
+मृदु,Herb|Quality,PRESERVE_CONTEXT
+मृदुत्व क्लोम,Herb|Symptom,PRESERVE_CONTEXT
+मृदू,Herb|Quality,PRESERVE_CONTEXT
+मोह,Herb|Symptom,PRESERVE_CONTEXT
+यकृत् रोग,Herb|Symptom,PRESERVE_CONTEXT
+रक्त स्राव,Herb|Symptom,PRESERVE_CONTEXT
+रक्तदोष,Herb|Symptom,PRESERVE_CONTEXT
+रक्तपित्त ऊर्ध्वग,Herb|Symptom,PRESERVE_CONTEXT
+रसायन,Herb|Symptom,PRESERVE_CONTEXT
+रुचिकर,Herb|Quality,PRESERVE_CONTEXT
+रुजा,Herb|Symptom,PRESERVE_CONTEXT
+रूक्ष,Herb|Quality,PRESERVE_CONTEXT
+रोग सर्व,Herb|Symptom,PRESERVE_CONTEXT
+लघु,Herb|Quality,PRESERVE_CONTEXT
+लेप,Herb|Sub_Formulation,PRESERVE_CONTEXT
+वर्धन अग्नि,Herb|Symptom,PRESERVE_CONTEXT
+विद्रधि कफज,Herb|Symptom,PRESERVE_CONTEXT
+विद्रधि क्लोम,Herb|Symptom,PRESERVE_CONTEXT
+विबन्ध,Herb|Symptom,PRESERVE_CONTEXT
+विबन्ध पुरीष,Herb|Symptom,PRESERVE_CONTEXT
+विष,Herb|Symptom,PRESERVE_CONTEXT
+वृद्ध,Herb|Symptom,PRESERVE_CONTEXT
+व्रण,Herb|Symptom,PRESERVE_CONTEXT
+शीत,Herb|Quality,PRESERVE_CONTEXT
+शीतत्व हस्त आदि,Herb|Symptom,PRESERVE_CONTEXT
+शूल शिरस,Herb|Symptom,PRESERVE_CONTEXT
+शोष तालु,Herb|Symptom,PRESERVE_CONTEXT
+श्रम,Herb|Symptom,PRESERVE_CONTEXT
+सन्ताप,Herb|Symptom,PRESERVE_CONTEXT
+स्निग्ध,Herb|Quality,PRESERVE_CONTEXT
+स्राव गलगण्ड,Herb|Symptom,PRESERVE_CONTEXT
+स्राव रक्त,Herb|Symptom,PRESERVE_CONTEXT
+स्वेद हस्त,Herb|Symptom,PRESERVE_CONTEXT
+हतत्व ओजस,Herb|Symptom,PRESERVE_CONTEXT
+हिक्का,Herb|Symptom,PRESERVE_CONTEXT
+हृदयरोग,Herb|Symptom,PRESERVE_CONTEXT
+शर्करा,Other_Unclassified|Symptom,SYMPTOM_SOURCE_PRIORITY
+क्षीर,Sub_Formulation|Vehicle,PRESERVE_CONTEXT

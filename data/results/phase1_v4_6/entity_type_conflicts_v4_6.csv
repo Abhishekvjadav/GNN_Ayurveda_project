@@ -1,0 +1,200 @@
+﻿entity,types,num_types
+-,Herb | Quality,2
+अग्नि,Ayurvedic_Concept | Group | Herb,3
+अग्नि दीपन,Herb | Symptom,2
+अग्निकर्म,Herb | Symptom,2
+अग्निमांद्य,Herb | Symptom,2
+अजीर्ण,Herb | Symptom,2
+अतिसार,Herb | Symptom,2
+अतिसार रक्तज,Herb | Symptom,2
+अधिक निद्रा,Ayurvedic_Concept | Herb,2
+अपस्मार,Disease | Symptom,2
+अभिवृद्धि क्लोम,Herb | Symptom,2
+अमृतप्राश घृत,Compound | Sub_Formulation,2
+अम्ल,Ayurvedic_Concept | Herb,2
+अम्लपित्त,Disease | Symptom,2
+अरुचि,Herb | Symptom,2
+अरोचक,Disease | Symptom,2
+अर्क,Compound | Herb,2
+अर्ति,Herb | Symptom,2
+अर्शस् रक्तज,Herb | Symptom,2
+अवलेह,Compound | Sub_Formulation,2
+अशोकारिष्ट,Compound | Herb,2
+अश्मरी,Disease | Symptom,2
+आध्मान,Herb | Symptom,2
+आलस्य,Ayurvedic_Concept | Herb,2
+उत्क्लेश,Herb | Symptom,2
+उत्थान न मेढ्र,Herb | Symptom,2
+उदररोग उदकोदर,Herb | Symptom,2
+उदावर्त,Herb | Symptom,2
+उन्माद,Disease | Symptom,2
+उपदंश,Disease | Symptom,2
+उरस्तोय,Disease | Herb | Symptom,3
+उशीर चूर्ण,Compound | Sub_Formulation,2
+उष्ण,Herb | Quality,2
+ऊरुस्तम्भ,Disease | Symptom,2
+औपसर्गिकमेह,Disease | Symptom,2
+कटु,Ayurvedic_Concept | Herb,2
+कण्डू,Herb | Symptom,2
+कफ,Ayurvedic_Concept | Symptom,2
+कम्प हृत,Herb | Symptom,2
+कर्णरोग,Disease | Symptom,2
+कषाय,Ayurvedic_Concept | Group | Herb | Quality,4
+कामला,Herb | Symptom,2
+कास,Herb | Symptom,2
+कुशाद्य घृत,Compound | Sub_Formulation,2
+कुष्ठ,Disease | Herb | Symptom,3
+कृमि,Herb | Symptom,2
+कृमिघ्न,Group | Herb,2
+कृशत्व,Herb | Symptom,2
+केशर,Herb | Quality,2
+क्रोध,Ayurvedic_Concept | Herb,2
+क्लैब्य,Herb | Symptom,2
+क्लोमरोग,Disease | Symptom,2
+क्षत मनस् रिरंसु,Herb | Symptom,2
+क्षय बल,Herb | Symptom,2
+क्षय शुक्र,Herb | Symptom,2
+क्षार,Compound | Herb,2
+क्षीर,Compound | Vehicle,2
+खञ्जनिका,Disease | Symptom,2
+गरविष,Herb | Symptom,2
+गाढत्व पुरीष,Herb | Symptom,2
+गुरु,Herb | Quality,2
+गुल्मरोग,Disease | Symptom,2
+ग्रन्थि,Herb | Symptom,2
+चूर्ण,Compound | Herb,2
+चोपचिनी,Compound | Herb,2
+छर्दि,Disease | Herb | Symptom,3
+छर्दि रक्त,Herb | Symptom,2
+छाया,Herb | Symptom,2
+जल,Ayurvedic_Concept | Vehicle,2
+जीवनीय,Group | Herb,2
+ज्वर,Herb | Symptom,2
+तन्द्रा,Herb | Symptom,2
+ताण्डवरोग,Disease | Symptom,2
+ताप,Herb | Symptom,2
+तिक्त,Ayurvedic_Concept | Group | Herb,3
+तीक्ष्ण,Herb | Quality,2
+तृणपंचमूळ,Group | Herb,2
+तृष्णा,Disease | Herb | Symptom,3
+तृष्णा दुर्बलत्व अति,Herb | Symptom,2
+तृष्णा रूक्षत्व अति,Herb | Symptom,2
+त्रिफला,Group | Sub_Formulation,2
+दाह,Ayurvedic_Concept | Herb | Symptom,3
+दाह अङ्ग,Herb | Symptom,2
+दाहरोग,Disease | Symptom,2
+दीपन,Herb | Quality,2
+दुर्गन्ध,Herb | Symptom,2
+दुर्बलत्व,Herb | Symptom,2
+देवदार्व्यारिष्ट,Compound | Herb,2
+दोष,Ayurvedic_Concept | Symptom,2
+दौर्बल्य,Herb | Symptom,2
+ध्वजभङ्ग,Disease | Herb | Symptom,3
+नागपुष्प,Group | Herb,2
+नारिकेल,Group | Herb,2
+नाश निद्रा,Herb | Symptom,2
+नाश बल,Herb | Symptom,2
+नासारोग,Disease | Symptom,2
+निष्ठीवन रक्त,Herb | Symptom,2
+नेत्ररोग,Herb | Symptom,2
+पलित,Herb | Symptom,2
+पाक,Compound | Herb,2
+पाचन,Herb | Quality,2
+पाण्डुरोग,Disease | Symptom,2
+पिच्छल,Herb | Quality,2
+पिच्छिल,Herb | Quality,2
+पिडका,Herb | Symptom,2
+पित्त,Ayurvedic_Concept | Herb | Symptom,3
+पूयमेह,Herb | Symptom,2
+प्रतिश्याय,Herb | Symptom,2
+प्रमेह चिकित्सा औषध,Herb | Symptom,2
+प्रमेहपिडका,Disease | Symptom,2
+प्लीहरोग,Herb | Symptom,2
+फिरङ्गरोग,Disease | Symptom,2
+बल्य,Group | Herb,2
+बहुमूत्ररोग,Disease | Symptom,2
+बृंहण,Group | Herb,2
+भगन्दर,Disease | Symptom,2
+भूनिम्बादि क्वाथ,Compound | Sub_Formulation,2
+मद,Herb | Symptom,2
+मदात्यय,Disease | Symptom,2
+मधुर,Ayurvedic_Concept | Group | Herb,3
+मन्दत्व अग्नि,Herb | Symptom,2
+मल,Ayurvedic_Concept | Herb,2
+मांस,Ayurvedic_Concept | Herb,2
+मुखरोग,Disease | Symptom,2
+मुस्तादि क्वाथ,Compound | Sub_Formulation,2
+मूत्र,Ayurvedic_Concept | Herb,2
+मूत्रकृच्छ्र,Ayurvedic_Concept | Disease | Herb | Symptom,4
+मूत्राघात,Disease | Symptom,2
+मूर्च्छा,Disease | Herb | Symptom,3
+मृत्यु,Herb | Symptom,2
+मृदु,Herb | Quality,2
+मृदुत्व क्लोम,Herb | Symptom,2
+मृदू,Herb | Quality,2
+मेद,Ayurvedic_Concept | Symptom,2
+मोह,Herb | Symptom,2
+यकृत् रोग,Herb | Symptom,2
+रक्त,Ayurvedic_Concept | Symptom,2
+रक्त स्राव,Herb | Symptom,2
+रक्तदोष,Herb | Symptom,2
+रक्तपित्त,Ayurvedic_Concept | Disease | Herb | Symptom,4
+रक्तपित्त ऊर्ध्वग,Herb | Symptom,2
+रसायन,Herb | Symptom,2
+राजयक्ष्मा,Disease | Herb | Symptom,3
+रुचिकर,Herb | Quality,2
+रुजा,Herb | Symptom,2
+रूक्ष,Herb | Quality,2
+रोग सर्व,Herb | Symptom,2
+लघु,Herb | Quality,2
+लवण,Ayurvedic_Concept | Herb,2
+लसीकामेह,Disease | Symptom,2
+लेखन,Group | Herb,2
+लेप,Compound | Herb,2
+वमन,Group | Herb,2
+वरुणाद्य तैल,Compound | Sub_Formulation,2
+वर्ण्य,Group | Herb,2
+वर्धन अग्नि,Herb | Symptom,2
+वात,Ayurvedic_Concept | Herb | Symptom,3
+विद्रधि कफज,Herb | Symptom,2
+विद्रधि क्लोम,Herb | Symptom,2
+विबन्ध,Herb | Symptom,2
+विबन्ध पुरीष,Herb | Symptom,2
+विरेचन,Group | Herb,2
+विष,Herb | Symptom,2
+विसर्प,Disease | Symptom,2
+विस्फोट,Disease | Symptom,2
+वृक्करोग,Disease | Herb | Symptom,3
+वृद्ध,Herb | Symptom,2
+वृद्धिरोग,Disease | Symptom,2
+व्रण,Herb | Symptom,2
+व्रण शोधन,Group | Herb,2
+शतावरी घृत,Compound | Sub_Formulation,2
+शर्करा,Herb | Symptom,2
+शीत,Herb | Quality,2
+शीतत्व हस्त आदि,Herb | Symptom,2
+शुक्र,Ayurvedic_Concept | Herb,2
+शुक्रमेह,Disease | Symptom,2
+शूल,Ayurvedic_Concept | Herb | Symptom,3
+शूल शिरस,Herb | Symptom,2
+शोथ,Disease | Herb | Symptom,3
+शोष तालु,Herb | Symptom,2
+श्रम,Herb | Symptom,2
+सन्ताप,Herb | Symptom,2
+समशर्कर चूर्ण,Compound | Sub_Formulation,2
+सारस्वत चूर्ण,Compound | Sub_Formulation,2
+सितोपलादि चूर्ण,Compound | Sub_Formulation,2
+स्खालित्यरोग,Disease | Symptom,2
+स्नायुकरोग,Disease | Symptom,2
+स्नायुरोग,Disease | Symptom,2
+स्निग्ध,Herb | Quality,2
+स्राव गलगण्ड,Herb | Symptom,2
+स्राव रक्त,Herb | Symptom,2
+स्वरभेद,Disease | Symptom,2
+स्वेद,Ayurvedic_Concept | Herb | Symptom,3
+स्वेद हस्त,Herb | Symptom,2
+हतत्व ओजस,Herb | Symptom,2
+हिक्का,Herb | Symptom,2
+हृदयरोग,Herb | Symptom,2
+हृद्य,Group | Herb | Quality,3
+हेमगर्भ,Compound | Herb,2

@@ -1,0 +1,236 @@
+﻿compound,target,source_type,resolved_node_type,match_source
+अगस्तीप्राश,राजयक्ष्मा,व्याधी,Disease,COMPOUND_TREATS_TYPE_DISEASE
+अगस्तीप्राश,हलीमक,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अभयावलेह,अम्लपित्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अभयावलेह,हलीमक,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतप्राश घृत,उर:क्षत,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतप्राश घृत,क्षतक्षीण,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतागुग्गुल,गृध्रसी,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतागुग्गुल,संधिगतवात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतागुग्गुल,वातरक्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतागुग्गुल,वातव्याधि,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अभयारिष्ट,अम्लपित्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अभयारिष्ट,आध्मान,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अभयारिष्ट,उदर,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अभयारिष्ट,प्रत्याध्मान,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अभयारिष्ट,मलावंष्टभ,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अभयावलेह,अम्लपित्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अभयावलेह,हलीमक,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतधारा,उदावर्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतधारा,हिक्का,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतधारा,प्रतितूनी,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतधारा,तूनी,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतधारा,छर्दि,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतप्राश घृत जीवक,उरःक्षत,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतप्राश घृत जीवक,क्षतक्षीण,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अभयावलेह,अम्लपित्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अभयावलेह,हलीमक.,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतागुग्गुलु,गृध्रसी,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतागुग्गुलु,संधिगतवात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतागुग्गुलु,वातव्याधि,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अमृतागुग्गुलु,वातरक्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अष्टांग लवण चूर्ण,अग्निमांद्य,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अष्टांग लवण चूर्ण,अरोचक,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अश्वकंचुकी,उदर,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+क्षारताम्ररस,ग्रहणी,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+अहिफेनासव,निद्रानाश,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हृदयार्णव रस,हृद्रोग,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हेमाभ्रसिंदूर,शोथ,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हेमाभ्रसिंदूर,हृद्रोग,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हेमाभ्रकर्पूर,श्वास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हेमाभ्रकर्पूर,हृद्रोग,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हेमशिलाजतु,शोथ,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हेमशिलाजतु,हृद्रोग,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हेमगर्भ,"आक्षेपक,",लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हेमगर्भ,पार्श्वशूल,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हेमगर्भ,राजयक्ष्मा,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हेमगर्भ,वातव्याधि,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हेमगर्भ,सिरागतवात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हेमगर्भ,हृद्रोग,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हिंग्वाष्टक चूर्ण,अग्निमांद्य,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हिंग्वाष्टक चूर्ण,कास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हिंग्वाष्टक चूर्ण,अजीर्ण,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हिंग्वाष्टक चूर्ण,गुल्म,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हिंग्वाष्टक चूर्ण,वातनिरोधज उदावर्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हिंग्वाष्टक चूर्ण,वातव्याधि,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हिंग्वाष्टक चूर्ण,शूल (वातज - कफज),लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हिंग्वाष्टक चूर्ण,श्वास (तमक),लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हिंग्वादि घृत,उन्माद,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हरिद्रादि घृत,कामला,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हरिद्रादि घृत,पांडु,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हरिद्राखंड योग,शीतपित्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हरताल मिश्रण,कुष्ठ,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हरताल मिश्रण,क्षुद्ररोग,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हरितक्यावलेह,कास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हरितक्यावलेह,श्वास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हरमलपोट्टली,हृद्रोग,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+हपुषादि घृत,गुल्म,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+स्वायंभुव गुग्गुलु,महाकुष्ठ,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+स्वादिष्टविरेचन चूर्ण,मृदु अनुलोमक,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+स्त्रंसन चूर्ण,अम्लपित्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+स्मृती सागर,अपस्मार,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+स्मृती सागर,बुद्धिमांद्य,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सूक्ष्म त्रिफळा,उपदंश,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सूक्ष्म त्रिफळा,कृमिज शिरोरोग,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सूक्ष्म त्रिफळा,फिरंग,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सूक्ष्म त्रिफळा,पाषाणगर्दभ,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सूक्ष्म त्रिफळा,क्षुद्ररोग,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,अम्लपित्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,अपस्मार,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,उदर,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,उन्माद,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,कामला,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,छर्दि,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,ज्वर,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,तृष्णा,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,दाह,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,धमनीप्रतिचय,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,पांडु,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,भ्रम,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,मूर्च्छा,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,शीतपित्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,हिक्का,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णसूतशेखर,हृद्रोग,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णमालिनी वसंत,कास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णमालिनी वसंत,कार्श्य,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णमालिनी वसंत,जीर्णज्वर,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णमालिनी वसंत,पार्श्वशूल,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णमालिनी वसंत,फक्क,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णमालिनी वसंत,राजयक्ष्मा,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णपर्पटी,ग्रहणी,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सुवर्णपर्पटी,राजयक्ष्मा,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सिंहनाद गुग्गुलु,आमवात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सिंहनाद गुग्गुलु,वातरक्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सिंहनाद गुग्गुलु,वातव्याधि,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सितोपलादि चूर्ण,उपेक्षित,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सितोपलादि चूर्ण,कास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सितोपलादि चूर्ण,राजयक्ष्मा,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सितोपलादि चूर्ण,श्वास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सितोपलादि चूर्ण,क्षतक्षीण,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सारिवाद्यासव,कुष्ठ,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सारिवाद्यासव,मूत्राघात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सारिवाद्यासव,वातरक्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सारिवाद्यासव,विसर्प,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सारिवाद्यासव,क्षुद्ररोग,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सारस्वत चूर्ण,मानसदोष,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सारस्वत चूर्ण,मिन मिन,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सारस्वत चूर्ण,मूक,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सामुद्रादी चूर्ण,आध्मान,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सामुद्रादी चूर्ण,कफजशूल,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सामुद्रादी चूर्ण,प्रत्याध्मान,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+संशमनी गुटी,ज्वर,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+संशमनी गुटी,वातरक्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+संततज्वर वटी,संततज्वर,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+संजीवनी गुटी,अतिसार,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+संजीवनी गुटी,कफजशूल कृमि,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+संजीवनी गुटी,ग्रहणी,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+संजीवनी गुटी,ज्वर,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+संजीवनी गुटी,प्रतिश्याय,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+संजीवनी गुटी,प्रवाहिका,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+संजीवनी गुटी,विसूचिका,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सहचर गुग्गुलु,आमवात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सहचर गुग्गुलु,वातरक्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+सर्वांगसुंदर वटी,कुष्ठ,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,अर्दित,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,उन्माद,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,कास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,गृध्रसी,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,पक्षाघात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,पाददाह,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,पादहर्ष,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,पार्श्वशूल,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,फिरंग,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,भ्रम,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,मज्जागत ज्वर,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,मिन् मिन् वाक,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,मूक,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,वातरक्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,वातव्याधि,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,विषमज्वर,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,शीतपित्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,श्वास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समीरपन्नग,संधिगतवात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समंगादि चूर्ण,अतिसार,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समशर्कर चूर्ण,अर्श,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समशर्कर चूर्ण,कास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+समशर्कर चूर्ण,श्वास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+श्रीफलकुसुम वटी,राजयक्ष्मा,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+श्लेष्मांतक रस,कास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+श्लेष्मांतक रस,श्वास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+श्वित्रहरवर्ती,श्वित्र,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+श्लीपदारि क्वाथ,श्लीपद,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+श्वास चिंतामणि,श्वास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+श्वास चिंतामणि,कास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+श्वास कुठार,अपस्मार,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+श्वास कुठार,श्वास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शृंग्यादि क्वाथ,हृद्रोग,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शूलहरवटी,कफज शूल,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शुंठ्यादिचूर्ण,अतिसार,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शुंठी घृत,वातजग्रहणी,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शंखोदर,अतिसार,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शंखोदर,आमवात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शंखोदर,निद्रानाश,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शंखोदर,प्रवाहिका,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शंखोदर,विसूचिका,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शंखवटी,अग्निमांद्य,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शंखवटी,अजीर्ण,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शंखवटी,आध्मान,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शंखवटी,कफजशूल,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शंखवटी,कोष्ठगतवात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शंखवटी,वातज शूल,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शतावर्यादि क्वाथ,अम्लपित्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शतावर्यादि क्वाथ,पित्तजशूल,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शतावरी मंडुर,आम्लपित्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शतावरी मंडुर,पांडुरोग,व्याधी,Disease,COMPOUND_TREATS_TYPE_DISEASE
+शतावरी घृत,आम्लपित्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शतावरी कल्प,आम्लपित्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शतावरी कल्प,जराशोष,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शतावरी कल्प,पांडुरोग,व्याधी,Disease,COMPOUND_TREATS_TYPE_DISEASE
+शतावरी कल्प,संधीगतवात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शतावरी कल्प,स्तन्यदोष,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शतावरी कल्प,वातव्याधी,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शतावरी कज्जली,आम्लपित्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शतधौतघृत,कुष्ठ,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शतधौतघृत,कक्षा,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शतधौतघृत,गुदपाक,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शतधौतघृत,दाह,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+शतधौतघृत,वातरक्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+षडंगोदक,ज्वर,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+षट्बिंदू तैल,पक्षाघात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+षट्पल घृत,गुल्म,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+व्याधिहरण रस,उपदंश,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+व्याधिहरण रस,फिरंग,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+व्याघ्री हरितकी,वाताजकास,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+वृष्यवटी,क्लैब्य,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+वृष्यवटी,व्यवायशोष,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+वृद्धदारूक योग,श्लीपद,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+वृद्ध गंगाधर चूर्ण,अतिसार,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+वृद्ध गंगाधर चूर्ण,प्रवाहिका,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+व्रणशोधन तैल,अरुंषिका,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+व्रणशोधन तैल,इंद्रलुप्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+व्रणशोधन तैल,कुष्ठ,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+व्रणशोधन तैल,दारुणक,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+व्रणशोधन तैल,विसर्प,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+व्रणशोधन तैल,क्षुद्रकुष्ठ,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+व्रणरोपण तैल,व्रण,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+वैश्वानर चूर्ण,अग्निमांद्य,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+वैश्वानर चूर्ण,अजीर्ण,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+वैश्वानर चूर्ण,आध्यान,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+वीरतर्वादि क्वाथ,मुत्रकृच्छ,व्याधी,Disease,COMPOUND_TREATS_TYPE_DISEASE
+वीरतर्वादि क्वाथ,मूत्राघात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विषाणभस्म योग,पार्श्वशूल,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विषतींदुक वटी,अलसक,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विषतींदुक वटी,कलायखंज,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विषतींदुक वटी,मूत्राघात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विषतींदुक वटी,वातनिरोधज उदावर्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विषतींदुक वटी,विलंबिका,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विषगर्भ तैल,गृध्रसी,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विषगर्भ तैल,मांसगतवात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विषगर्भ तैल,संधिगतवात,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विषगर्भ तैल,वातव्याधि,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विरेचन क्वाथ,आम्लपित्त,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विरेचन क्वाथ,मृदुविरेचक,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विडंगासव,कृमी,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विडंगासव,श्वित्र,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विडंगारिष्ट,कृमी,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM
+विडंगारिष्ट,श्वित्र,लक्षण,Symptom,COMPOUND_TREATS_TYPE_SYMPTOM

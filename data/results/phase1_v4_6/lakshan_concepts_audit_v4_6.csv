@@ -1,0 +1,953 @@
+﻿source_row,source_column,value
+2,Name,वात
+2,Parameter,दोष
+2,Lakshan,रूक्षता
+2,Reference संदर्भ,च. सं. सूत्रस्थान 20/11
+2,Lakshan in English ,Dryness
+3,Name,वात
+3,Parameter,दोष
+3,Lakshan,लघुता
+3,Reference संदर्भ,च. सं. सूत्रस्थान 20/11
+3,Lakshan in English ,Lightness in body
+4,Name,वात
+4,Parameter,दोष
+4,Lakshan,शीघ्र गति
+4,Reference संदर्भ,च. सं. सूत्रस्थान 20/11
+4,Lakshan in English ,Quick movements / restlessness
+5,Name,वात
+5,Parameter,दोष
+5,Lakshan,कम्पन
+5,Reference संदर्भ,च. सं. सूत्रस्थान 20/11
+5,Lakshan in English ,Tremors
+6,Name,वात
+6,Parameter,दोष
+6,Lakshan,शुष्क त्वचा
+6,Reference संदर्भ,च. सं. सूत्रस्थान 20/11
+6,Lakshan in English ,Dry skin
+7,Name,वात
+7,Parameter,दोष
+7,Lakshan,शूल
+7,Reference संदर्भ,च. सं. सूत्रस्थान 20/11
+7,Lakshan in English ,"Pain, especially shifting"
+8,Name,वात
+8,Parameter,दोष
+8,Lakshan,स्तम्भ
+8,Reference संदर्भ,च. सं. सूत्रस्थान 20/11
+8,Lakshan in English ,Stiffness
+9,Name,वात
+9,Parameter,दोष
+9,Lakshan,स्पर्शासह्यता
+9,Reference संदर्भ,च. सं. सूत्रस्थान 20/11
+9,Lakshan in English ,Sensitivity to touch
+9,Unnamed: 8,मधुर रस
+9,Unnamed: 9,Sweet Taste
+10,Name,वात
+10,Parameter,दोष
+10,Lakshan,अल्प निद्रा
+10,Reference संदर्भ,च. सं. सूत्रस्थान 20/11
+10,Lakshan in English ,Reduced sleep
+10,Unnamed: 8,अम्ल रस
+10,Unnamed: 9,Sour Taste
+11,Name,पित्त
+11,Parameter,दोष
+11,Lakshan,दाह
+11,Reference संदर्भ,च. सं. सूत्रस्थान 20/12
+11,Lakshan in English ,Burning sensation
+11,Unnamed: 8,लवण रस
+11,Unnamed: 9,Salty Taste
+12,Name,पित्त
+12,Parameter,दोष
+12,Lakshan,तृषा
+12,Reference संदर्भ,च. सं. सूत्रस्थान 20/12
+12,Lakshan in English ,Excessive thirst
+12,Unnamed: 8,कटु रस
+12,Unnamed: 9,Pungent Taste
+13,Name,पित्त
+13,Parameter,दोष
+13,Lakshan,स्वेद अधिकता
+13,Reference संदर्भ,च. सं. सूत्रस्थान 20/12
+13,Lakshan in English ,Excess sweating
+13,Unnamed: 8,तिक्त रस
+13,Unnamed: 9,Bitter Taste
+14,Name,पित्त
+14,Parameter,दोष
+14,Lakshan,पीत वर्णता
+14,Reference संदर्भ,च. सं. सूत्रस्थान 20/12
+14,Lakshan in English ,"Yellow discoloration of skin, urine, eyes"
+14,Unnamed: 8,कषाय रस
+14,Unnamed: 9,Astringent Taste
+15,Name,पित्त
+15,Parameter,दोष
+15,Lakshan,अम्ल उग्र गंध
+15,Reference संदर्भ,च. सं. सूत्रस्थान 20/12
+15,Lakshan in English ,"Sour, strong smell from sweat/stool"
+16,Name,पित्त
+16,Parameter,दोष
+16,Lakshan,क्रोध
+16,Reference संदर्भ,च. सं. सूत्रस्थान 20/12
+16,Lakshan in English ,Irritability/anger
+17,Name,पित्त
+17,Parameter,दोष
+17,Lakshan,अतृप्ति
+17,Reference संदर्भ,च. सं. सूत्रस्थान 20/12
+17,Lakshan in English ,Insatiable hunger
+18,Name,पित्त
+18,Parameter,दोष
+18,Lakshan,गात्र दाह
+18,Reference संदर्भ,च. सं. सूत्रस्थान 20/12
+18,Lakshan in English ,Burning of body parts
+19,Name,कफ
+19,Parameter,दोष
+19,Lakshan,स्थैर्य
+19,Reference संदर्भ,च. सं. सूत्रस्थान 20/13
+19,Lakshan in English ,Stability / Sluggishness
+20,Name,कफ
+20,Parameter,दोष
+20,Lakshan,गुरुता
+20,Reference संदर्भ,च. सं. सूत्रस्थान 20/13
+20,Lakshan in English ,Heaviness
+21,Name,कफ
+21,Parameter,दोष
+21,Lakshan,शीतलता
+21,Reference संदर्भ,च. सं. सूत्रस्थान 20/13
+21,Lakshan in English ,Coldness
+22,Name,कफ
+22,Parameter,दोष
+22,Lakshan,मंद जठराग्नि
+22,Reference संदर्भ,च. सं. सूत्रस्थान 20/13
+22,Lakshan in English ,Weak digestion
+23,Name,कफ
+23,Parameter,दोष
+23,Lakshan,आलस्य
+23,Reference संदर्भ,च. सं. सूत्रस्थान 20/13
+23,Lakshan in English ,Laziness/lethargy
+24,Name,कफ
+24,Parameter,दोष
+24,Lakshan,स्निग्धता
+24,Reference संदर्भ,च. सं. सूत्रस्थान 20/13
+24,Lakshan in English ,"Oily, moist skin"
+25,Name,कफ
+25,Parameter,दोष
+25,Lakshan,अधिक निद्रा
+25,Reference संदर्भ,च. सं. सूत्रस्थान 20/13
+25,Lakshan in English ,Excess sleep
+26,Name,कफ
+26,Parameter,दोष
+26,Lakshan,मन्द वाणी
+26,Reference संदर्भ,च. सं. सूत्रस्थान 20/13
+26,Lakshan in English ,Slow speech
+27,Name,कफ
+27,Parameter,दोष
+27,Lakshan,श्लेष्म अधिकता
+27,Reference संदर्भ,च. सं. सूत्रस्थान 20/13
+27,Lakshan in English ,"Mucus excess, congestion"
+28,Effect on other Parameter values,"Decreases Vata, Pitta"
+28,Effect on other Parameter values.1,Increases Kapha
+28,Name,मधुर
+28,Parameter,षड्रस
+28,Lakshan,गुरुता
+28,Reference संदर्भ,च. सं. सूत्रस्थान 26/40
+28,Lakshan in English ,Heaviness
+29,Effect on other Parameter values,"Decreases Vata, Pitta"
+29,Effect on other Parameter values.1,Increases Kapha
+29,Name,मधुर
+29,Parameter,षड्रस
+29,Lakshan,श्लेष्म वृद्धि
+29,Reference संदर्भ,च. सं. सूत्रस्थान 26/40
+29,Lakshan in English ,Increased mucus
+30,Effect on other Parameter values,"Decreases Vata, Pitta"
+30,Effect on other Parameter values.1,Increases Kapha
+30,Name,मधुर
+30,Parameter,षड्रस
+30,Lakshan,मंद जठराग्नि
+30,Reference संदर्भ,च. सं. सूत्रस्थान 26/40
+30,Lakshan in English ,Weak digestion
+31,Effect on other Parameter values,"Decreases Vata, Pitta"
+31,Effect on other Parameter values.1,Increases Kapha
+31,Name,मधुर
+31,Parameter,षड्रस
+31,Lakshan,आलस्य
+31,Reference संदर्भ,च. सं. सूत्रस्थान 26/40
+31,Lakshan in English ,Lethargy
+32,Effect on other Parameter values,"Decreases Vata, Pitta"
+32,Effect on other Parameter values.1,Increases Kapha
+32,Name,मधुर
+32,Parameter,षड्रस
+32,Lakshan,अत्यधिक निद्रा
+32,Reference संदर्भ,च. सं. सूत्रस्थान 26/40
+32,Lakshan in English ,Excessive sleep
+33,Effect on other Parameter values,"Decreases Vata, Pitta"
+33,Effect on other Parameter values.1,Increases Kapha
+33,Name,मधुर
+33,Parameter,षड्रस
+33,Lakshan,त्वचा स्निग्धता
+33,Reference संदर्भ,च. सं. सूत्रस्थान 26/40
+33,Lakshan in English ,Oily skin
+34,Effect on other Parameter values,Decreases Vata
+34,Effect on other Parameter values.1,Increases Pitta and Kapha
+34,Name,अम्ल
+34,Parameter,षड्रस
+34,Lakshan,दाह
+34,Reference संदर्भ,च. सं. सूत्रस्थान 26/42
+34,Lakshan in English ,Burning sensation
+35,Effect on other Parameter values,Decreases Vata
+35,Effect on other Parameter values.1,Increases Pitta and Kapha
+35,Name,अम्ल
+35,Parameter,षड्रस
+35,Lakshan,तृषा
+35,Reference संदर्भ,च. सं. सूत्रस्थान 26/42
+35,Lakshan in English ,Excessive thirst
+36,Effect on other Parameter values,Decreases Vata
+36,Effect on other Parameter values.1,Increases Pitta and Kapha
+36,Name,अम्ल
+36,Parameter,षड्रस
+36,Lakshan,अधिक स्वेद
+36,Reference संदर्भ,च. सं. सूत्रस्थान 26/42
+36,Lakshan in English ,Sweating
+37,Effect on other Parameter values,Decreases Vata
+37,Effect on other Parameter values.1,Increases Pitta and Kapha
+37,Name,अम्ल
+37,Parameter,षड्रस
+37,Lakshan,अम्ल उद्गार
+37,Reference संदर्भ,च. सं. सूत्रस्थान 26/42
+37,Lakshan in English ,Sour belching
+38,Effect on other Parameter values,Decreases Vata
+38,Effect on other Parameter values.1,Increases Pitta and Kapha
+38,Name,अम्ल
+38,Parameter,षड्रस
+38,Lakshan,त्वचा पर पीत वर्णता
+38,Reference संदर्भ,च. सं. सूत्रस्थान 26/42
+38,Lakshan in English ,Yellowish skin
+39,Effect on other Parameter values,Decreases Vata
+39,Effect on other Parameter values.1,Increases Pitta and Kapha
+39,Name,अम्ल
+39,Parameter,षड्रस
+39,Lakshan,मुख में अम्लता
+39,Reference संदर्भ,च. सं. सूत्रस्थान 26/42
+39,Lakshan in English ,Sourness in mouth
+40,Effect on other Parameter values,Decreases Vata
+40,Effect on other Parameter values.1,Increases Pitta and Kapha
+40,Name,लवण
+40,Parameter,षड्रस
+40,Lakshan,दाह
+40,Reference संदर्भ,च. सं. सूत्रस्थान 26/43
+40,Lakshan in English ,Heat/burning
+41,Effect on other Parameter values,Decreases Vata
+41,Effect on other Parameter values.1,Increases Pitta and Kapha
+41,Name,लवण
+41,Parameter,षड्रस
+41,Lakshan,जलन
+41,Reference संदर्भ,च. सं. सूत्रस्थान 26/43
+41,Lakshan in English ,Irritation
+42,Effect on other Parameter values,Decreases Vata
+42,Effect on other Parameter values.1,Increases Pitta and Kapha
+42,Name,लवण
+42,Parameter,षड्रस
+42,Lakshan,त्वचा में खुजली या लालिमा
+42,Reference संदर्भ,च. सं. सूत्रस्थान 26/43
+42,Lakshan in English ,Itching or redness
+43,Effect on other Parameter values,Decreases Vata
+43,Effect on other Parameter values.1,Increases Pitta and Kapha
+43,Name,लवण
+43,Parameter,षड्रस
+43,Lakshan,तृषा अधिकता
+43,Reference संदर्भ,च. सं. सूत्रस्थान 26/43
+43,Lakshan in English ,Increased thirst
+44,Effect on other Parameter values,Decreases Vata
+44,Effect on other Parameter values.1,Increases Pitta and Kapha
+44,Name,लवण
+44,Parameter,षड्रस
+44,Lakshan,स्निग्धता
+44,Reference संदर्भ,च. सं. सूत्रस्थान 26/43
+44,Lakshan in English ,Moistness
+45,Effect on other Parameter values,Decreases Pitta and Kapha
+45,Effect on other Parameter values.1,Increases Vata
+45,Name,कषाय
+45,Parameter,षड्रस
+45,Lakshan,रूक्षता
+45,Reference संदर्भ,च. सं. सूत्रस्थान 26/47
+45,Lakshan in English ,Dryness
+46,Effect on other Parameter values,Decreases Pitta and Kapha
+46,Effect on other Parameter values.1,Increases Vata
+46,Name,कषाय
+46,Parameter,षड्रस
+46,Lakshan,मंद त्वचा स्निग्धता
+46,Reference संदर्भ,च. सं. सूत्रस्थान 26/47
+46,Lakshan in English ,Reduced skin oil
+47,Effect on other Parameter values,Decreases Pitta and Kapha
+47,Effect on other Parameter values.1,Increases Vata
+47,Name,कषाय
+47,Parameter,षड्रस
+47,Lakshan,कब्ज
+47,Reference संदर्भ,च. सं. सूत्रस्थान 26/47
+47,Lakshan in English ,Constipation
+48,Effect on other Parameter values,Decreases Pitta and Kapha
+48,Effect on other Parameter values.1,Increases Vata
+48,Name,कषाय
+48,Parameter,षड्रस
+48,Lakshan,स्तम्भ
+48,Reference संदर्भ,च. सं. सूत्रस्थान 26/47
+48,Lakshan in English ,Stiffness
+49,Effect on other Parameter values,Decreases Pitta and Kapha
+49,Effect on other Parameter values.1,Increases Vata
+49,Name,कषाय
+49,Parameter,षड्रस
+49,Lakshan,स्वर मंदता
+49,Reference संदर्भ,च. सं. सूत्रस्थान 26/47
+49,Lakshan in English ,Dull/low voice
+50,Effect on other Parameter values,Decreases Pitta and Kapha
+50,Effect on other Parameter values.1,Increases Vata
+50,Name,कषाय
+50,Parameter,षड्रस
+50,Lakshan,त्वचा में खिचाव
+50,Reference संदर्भ,च. सं. सूत्रस्थान 26/47
+50,Lakshan in English ,Tightness in skin
+51,Effect on other Parameter values,Decreases Kapha
+51,Effect on other Parameter values.1,Increases Vata and Pitta
+51,Name,कटु
+51,Parameter,षड्रस
+51,Lakshan,मुख में जलन
+51,Reference संदर्भ,च. सं. सूत्रस्थान 26/45
+51,Lakshan in English ,Burning in mouth
+52,Effect on other Parameter values,Decreases Kapha
+52,Effect on other Parameter values.1,Increases Vata and Pitta
+52,Name,कटु
+52,Parameter,षड्रस
+52,Lakshan,दाह
+52,Reference संदर्भ,च. सं. सूत्रस्थान 26/45
+52,Lakshan in English ,Heat sensations
+53,Effect on other Parameter values,Decreases Kapha
+53,Effect on other Parameter values.1,Increases Vata and Pitta
+53,Name,कटु
+53,Parameter,षड्रस
+53,Lakshan,रुक्षता
+53,Reference संदर्भ,च. सं. सूत्रस्थान 26/45
+53,Lakshan in English ,Dryness
+54,Effect on other Parameter values,Decreases Kapha
+54,Effect on other Parameter values.1,Increases Vata and Pitta
+54,Name,कटु
+54,Parameter,षड्रस
+54,Lakshan,त्वचा में जलन
+54,Reference संदर्भ,च. सं. सूत्रस्थान 26/45
+54,Lakshan in English ,Skin irritation
+55,Effect on other Parameter values,Decreases Kapha
+55,Effect on other Parameter values.1,Increases Vata and Pitta
+55,Name,कटु
+55,Parameter,षड्रस
+55,Lakshan,ह्रदय क्षेत्र में जलन
+55,Reference संदर्भ,च. सं. सूत्रस्थान 26/45
+55,Lakshan in English ,Heartburn
+56,Effect on other Parameter values,Decreases Pitta and Kapha
+56,Effect on other Parameter values.1,Increases Vata
+56,Name,तिक्त
+56,Parameter,षड्रस
+56,Lakshan,अल्प भूख
+56,Reference संदर्भ,च. सं. सूत्रस्थान 26/46
+56,Lakshan in English ,Reduced hunger
+57,Effect on other Parameter values,Decreases Pitta and Kapha
+57,Effect on other Parameter values.1,Increases Vata
+57,Name,तिक्त
+57,Parameter,षड्रस
+57,Lakshan,रूक्षता
+57,Reference संदर्भ,च. सं. सूत्रस्थान 26/46
+57,Lakshan in English ,Dryness
+58,Effect on other Parameter values,Decreases Pitta and Kapha
+58,Effect on other Parameter values.1,Increases Vata
+58,Name,तिक्त
+58,Parameter,षड्रस
+58,Lakshan,त्वचा शुष्कता
+58,Reference संदर्भ,च. सं. सूत्रस्थान 26/46
+58,Lakshan in English ,Dry skin
+59,Effect on other Parameter values,Decreases Pitta and Kapha
+59,Effect on other Parameter values.1,Increases Vata
+59,Name,तिक्त
+59,Parameter,षड्रस
+59,Lakshan,स्वर मंदता
+59,Reference संदर्भ,च. सं. सूत्रस्थान 26/46
+59,Lakshan in English ,Low energy in voice
+60,Effect on other Parameter values,Decreases Pitta and Kapha
+60,Effect on other Parameter values.1,Increases Vata
+60,Name,तिक्त
+60,Parameter,षड्रस
+60,Lakshan,मलमूत्र में कमी
+60,Reference संदर्भ,च. सं. सूत्रस्थान 26/46
+60,Lakshan in English ,Reduced urination/stool
+61,Effect on other Parameter values,Increases Pitta
+61,Effect on other Parameter values.1,"Craving for Sweet, Bitter Rasa due to Pitta vitiation"
+61,Name,रक्त
+61,Parameter,धातु
+61,Lakshan,रक्तपित्त
+61,Reference संदर्भ,च. सं. चिकित्सास्थान 4/7
+61,Lakshan in English ,Bleeding
+62,Effect on other Parameter values,Increases Pitta
+62,Effect on other Parameter values.1,"Craving for Sweet, Bitter Rasa due to Pitta vitiation"
+62,Name,रक्त
+62,Parameter,धातु
+62,Lakshan,दाह
+62,Reference संदर्भ,च. सं. चिकित्सास्थान 4/7
+62,Lakshan in English ,Burning sensation
+63,Effect on other Parameter values,Increases Pitta
+63,Effect on other Parameter values.1,"Craving for Sweet, Bitter Rasa due to Pitta vitiation"
+63,Name,रक्त
+63,Parameter,धातु
+63,Lakshan,त्वचा लालिमा
+63,Reference संदर्भ,च. सं. चिकित्सास्थान 4/7
+63,Lakshan in English ,Redness of skin
+64,Effect on other Parameter values,Increases Pitta
+64,Effect on other Parameter values.1,"Craving for Sweet, Bitter Rasa due to Pitta vitiation"
+64,Name,रक्त
+64,Parameter,धातु
+64,Lakshan,अतिस्वेद
+64,Reference संदर्भ,च. सं. चिकित्सास्थान 4/7
+64,Lakshan in English ,Excess sweating
+65,Effect on other Parameter values,Increases Pitta
+65,Effect on other Parameter values.1,"Craving for Sweet, Bitter Rasa due to Pitta vitiation"
+65,Name,रक्त
+65,Parameter,धातु
+65,Lakshan,खाज
+65,Reference संदर्भ,च. सं. चिकित्सास्थान 4/7
+65,Lakshan in English ,Itching
+66,Effect on other Parameter values,Increases Pitta
+66,Effect on other Parameter values.1,"Craving for Sweet, Bitter Rasa due to Pitta vitiation"
+66,Name,रक्त
+66,Parameter,धातु
+66,Lakshan,त्वचा पांडु
+66,Reference संदर्भ,च. सं. चिकित्सास्थान 4/7
+66,Lakshan in English ,Paleness if vitiated
+67,Effect on other Parameter values,Increases Kapha
+67,Effect on other Parameter values.1,"Aversion to Madhura (Sweet) and inclination towards Katu (Pungent), Tikta (Bitter) tastes"
+67,Name,मांस
+67,Parameter,धातु
+67,Lakshan,गुरुता
+67,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+67,Lakshan in English ,Heaviness
+68,Effect on other Parameter values,Increases Kapha
+68,Effect on other Parameter values.1,"Aversion to Madhura (Sweet) and inclination towards Katu (Pungent), Tikta (Bitter) tastes"
+68,Name,मांस
+68,Parameter,धातु
+68,Lakshan,स्थूलता
+68,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+68,Lakshan in English ,Obesity
+69,Effect on other Parameter values,Increases Kapha
+69,Effect on other Parameter values.1,"Aversion to Madhura (Sweet) and inclination towards Katu (Pungent), Tikta (Bitter) tastes"
+69,Name,मांस
+69,Parameter,धातु
+69,Lakshan,शिथिलत्व
+69,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+69,Lakshan in English ,Looseness
+70,Effect on other Parameter values,Increases Kapha
+70,Effect on other Parameter values.1,"Aversion to Madhura (Sweet) and inclination towards Katu (Pungent), Tikta (Bitter) tastes"
+70,Name,मांस
+70,Parameter,धातु
+70,Lakshan,त्वचा मोटी होना
+70,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+70,Lakshan in English ,Thickening of skin
+71,Effect on other Parameter values,Increases Kapha
+71,Effect on other Parameter values.1,"Aversion to Madhura (Sweet) and inclination towards Katu (Pungent), Tikta (Bitter) tastes"
+71,Name,मांस
+71,Parameter,धातु
+71,Lakshan,अधिक पसीना
+71,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+71,Lakshan in English ,Sweating
+72,Effect on other Parameter values,Increases Kapha
+72,Effect on other Parameter values.1,"Aversion to Madhura (Sweet) and inclination towards Katu (Pungent), Tikta (Bitter) tastes"
+72,Name,मांस
+72,Parameter,धातु
+72,Lakshan,स्निग्धता
+72,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+72,Lakshan in English ,Oily skin
+73,Effect on other Parameter values,Kapha aggravation
+73,Effect on other Parameter values.1,"Preference for Pungent, Bitter, Astringent (Katu, Tikta, Kashaya)"
+73,Name,मेद
+73,Parameter,धातु
+73,Lakshan,आलस्य
+73,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+73,Lakshan in English ,Laziness
+74,Effect on other Parameter values,Kapha aggravation
+74,Effect on other Parameter values.1,"Preference for Pungent, Bitter, Astringent (Katu, Tikta, Kashaya)"
+74,Name,मेद
+74,Parameter,धातु
+74,Lakshan,अधिक स्वेद
+74,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+74,Lakshan in English ,Sweating
+75,Effect on other Parameter values,Kapha aggravation
+75,Effect on other Parameter values.1,"Preference for Pungent, Bitter, Astringent (Katu, Tikta, Kashaya)"
+75,Name,मेद
+75,Parameter,धातु
+75,Lakshan,गुरुता
+75,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+75,Lakshan in English ,Heaviness
+76,Effect on other Parameter values,Kapha aggravation
+76,Effect on other Parameter values.1,"Preference for Pungent, Bitter, Astringent (Katu, Tikta, Kashaya)"
+76,Name,मेद
+76,Parameter,धातु
+76,Lakshan,मंद जठराग्नि
+76,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+76,Lakshan in English ,Weak digestion
+77,Effect on other Parameter values,Kapha aggravation
+77,Effect on other Parameter values.1,"Preference for Pungent, Bitter, Astringent (Katu, Tikta, Kashaya)"
+77,Name,मेद
+77,Parameter,धातु
+77,Lakshan,स्थूलता
+77,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+77,Lakshan in English ,Obesity
+78,Effect on other Parameter values,Increases Vata
+78,Effect on other Parameter values.1,Desire for Madhura (Sweet) taste (Vata balancing)
+78,Name,अस्थि
+78,Parameter,धातु
+78,Lakshan,दन्त-नख कठोरता
+78,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+78,Lakshan in English ,Hardening of teeth/nails
+79,Effect on other Parameter values,Increases Vata
+79,Effect on other Parameter values.1,Desire for Madhura (Sweet) taste (Vata balancing)
+79,Name,अस्थि
+79,Parameter,धातु
+79,Lakshan,अति रूक्ष त्वचा
+79,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+79,Lakshan in English ,Dryness
+80,Effect on other Parameter values,Increases Vata
+80,Effect on other Parameter values.1,Desire for Madhura (Sweet) taste (Vata balancing)
+80,Name,अस्थि
+80,Parameter,धातु
+80,Lakshan,कटु रुचि
+80,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+80,Lakshan in English ,Preference for spicy
+81,Effect on other Parameter values,Increases Vata
+81,Effect on other Parameter values.1,Desire for Madhura (Sweet) taste (Vata balancing)
+81,Name,अस्थि
+81,Parameter,धातु
+81,Lakshan,कम्पन
+81,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+81,Lakshan in English ,Tremors if vitiated
+82,Effect on other Parameter values,Increases Vata
+82,Effect on other Parameter values.1,Desire for Madhura (Sweet) taste (Vata balancing)
+82,Name,अस्थि
+82,Parameter,धातु
+82,Lakshan,शूल
+82,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+82,Lakshan in English ,Bone pain
+83,Effect on other Parameter values,Increases Kapha
+83,Effect on other Parameter values.1,"Aversion to Sweet, craving for Pungent/Bitter"
+83,Name,मज्जा
+83,Parameter,धातु
+83,Lakshan,स्निग्धता
+83,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+83,Lakshan in English ,Oiliness
+84,Effect on other Parameter values,Increases Kapha
+84,Effect on other Parameter values.1,"Aversion to Sweet, craving for Pungent/Bitter"
+84,Name,मज्जा
+84,Parameter,धातु
+84,Lakshan,गुरुता
+84,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+84,Lakshan in English ,Heaviness
+85,Effect on other Parameter values,Increases Kapha
+85,Effect on other Parameter values.1,"Aversion to Sweet, craving for Pungent/Bitter"
+85,Name,मज्जा
+85,Parameter,धातु
+85,Lakshan,अत्यधिक सुख भावना
+85,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+85,Lakshan in English ,Sense of contentment
+86,Effect on other Parameter values,Increases Kapha
+86,Effect on other Parameter values.1,"Aversion to Sweet, craving for Pungent/Bitter"
+86,Name,मज्जा
+86,Parameter,धातु
+86,Lakshan,मंद अग्नि
+86,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+86,Lakshan in English ,Weak digestion
+87,Effect on other Parameter values,Increases Kapha
+87,Effect on other Parameter values.1,Sweet taste predominance
+87,Name,शुक्र
+87,Parameter,धातु
+87,Lakshan,बल वृद्धि
+87,Reference संदर्भ,च. सं. चिकित्सास्थान 30/142
+87,Lakshan in English ,Increased strength
+88,Effect on other Parameter values,Increases Kapha
+88,Effect on other Parameter values.1,Sweet taste predominance
+88,Name,शुक्र
+88,Parameter,धातु
+88,Lakshan,स्निग्धता
+88,Reference संदर्भ,च. सं. चिकित्सास्थान 30/142
+88,Lakshan in English ,Oiliness
+89,Effect on other Parameter values,Increases Kapha
+89,Effect on other Parameter values.1,Sweet taste predominance
+89,Name,शुक्र
+89,Parameter,धातु
+89,Lakshan,कांति
+89,Reference संदर्भ,च. सं. चिकित्सास्थान 30/142
+89,Lakshan in English ,Radiance
+90,Effect on other Parameter values,Increases Kapha
+90,Effect on other Parameter values.1,Sweet taste predominance
+90,Name,शुक्र
+90,Parameter,धातु
+90,Lakshan,सुख भावना
+90,Reference संदर्भ,च. सं. चिकित्सास्थान 30/142
+90,Lakshan in English ,Pleasure
+91,Effect on other Parameter values,Increases Kapha
+91,Effect on other Parameter values.1,Sweet taste predominance
+91,Name,शुक्र
+91,Parameter,धातु
+91,Lakshan,अति रतिकामना
+91,Reference संदर्भ,च. सं. चिकित्सास्थान 30/142
+91,Lakshan in English ,Increased sexual desire if aggravated
+92,Effect on other Parameter values,"Initial effect on Kapha, Vata disturbance"
+92,Effect on other Parameter values.1,"Loss of Madhura (Sweet) taste, inclination towards Lavana (Salty), Amla (Sour)"
+92,Name,रस
+92,Parameter,धातु
+92,Lakshan,स्वाद भ्रंश
+92,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+92,Lakshan in English ,Taste disturbances
+93,Effect on other Parameter values,"Initial effect on Kapha, Vata disturbance"
+93,Effect on other Parameter values.1,"Loss of Madhura (Sweet) taste, inclination towards Lavana (Salty), Amla (Sour)"
+93,Name,रस
+93,Parameter,धातु
+93,Lakshan,तृषा
+93,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+93,Lakshan in English ,Thirst
+94,Effect on other Parameter values,"Initial effect on Kapha, Vata disturbance"
+94,Effect on other Parameter values.1,"Loss of Madhura (Sweet) taste, inclination towards Lavana (Salty), Amla (Sour)"
+94,Name,रस
+94,Parameter,धातु
+94,Lakshan,शीतकामिता
+94,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+94,Lakshan in English ,Craving for cold things
+95,Effect on other Parameter values,"Initial effect on Kapha, Vata disturbance"
+95,Effect on other Parameter values.1,"Loss of Madhura (Sweet) taste, inclination towards Lavana (Salty), Amla (Sour)"
+95,Name,रस
+95,Parameter,धातु
+95,Lakshan,त्वचा शोष
+95,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+95,Lakshan in English ,Skin dryness
+96,Effect on other Parameter values,"Initial effect on Kapha, Vata disturbance"
+96,Effect on other Parameter values.1,"Loss of Madhura (Sweet) taste, inclination towards Lavana (Salty), Amla (Sour)"
+96,Name,रस
+96,Parameter,धातु
+96,Lakshan,गुरुता
+96,Reference संदर्भ,च. सं. चिकित्सास्थान 15/44
+96,Lakshan in English ,Heaviness
+97,Effect on other Parameter values,Increases Vata
+97,Effect on other Parameter values.1,"Desire for Madhura (Sweet), Lavana (Salty)"
+97,Name,आकाश
+97,Parameter,पंचमहाभूत
+97,Lakshan,शून्यता भावना
+97,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+97,Lakshan in English ,Feeling of emptiness
+98,Effect on other Parameter values,Increases Vata
+98,Effect on other Parameter values.1,"Desire for Madhura (Sweet), Lavana (Salty)"
+98,Name,आकाश
+98,Parameter,पंचमहाभूत
+98,Lakshan,कम्पन
+98,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+98,Lakshan in English ,Tremors
+99,Effect on other Parameter values,Increases Vata
+99,Effect on other Parameter values.1,"Desire for Madhura (Sweet), Lavana (Salty)"
+99,Name,आकाश
+99,Parameter,पंचमहाभूत
+99,Lakshan,शरीर लाघव
+99,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+99,Lakshan in English ,Lightness
+100,Effect on other Parameter values,Increases Vata
+100,Effect on other Parameter values.1,"Desire for Madhura (Sweet), Lavana (Salty)"
+100,Name,आकाश
+100,Parameter,पंचमहाभूत
+100,Lakshan,आवाज में गूंज
+100,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+100,Lakshan in English ,Echo-like voice
+101,Effect on other Parameter values,Increases Vata
+101,Effect on other Parameter values.1,"Desire for Madhura (Sweet), Lavana (Salty)"
+101,Name,आकाश
+101,Parameter,पंचमहाभूत
+101,Lakshan,स्वर मंदता
+101,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+101,Lakshan in English ,Weak voice
+102,Effect on other Parameter values,Increases Vata
+102,Effect on other Parameter values.1,"Desire for Madhura (Sweet), Lavana (Salty)"
+102,Name,आकाश
+102,Parameter,पंचमहाभूत
+102,Lakshan,वात मार्गों में अत्यधिक विस्तार
+102,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+103,Effect on other Parameter values,Increases Vata
+103,Effect on other Parameter values.1,Craving for Sweet
+103,Name,वायु
+103,Parameter,पंचमहाभूत
+103,Lakshan,रूक्षता
+103,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+103,Lakshan in English ,Dryness
+104,Effect on other Parameter values,Increases Vata
+104,Effect on other Parameter values.1,Craving for Sweet
+104,Name,वायु
+104,Parameter,पंचमहाभूत
+104,Lakshan,त्वचा में खिचाव
+104,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+104,Lakshan in English ,Tightness
+105,Effect on other Parameter values,Increases Vata
+105,Effect on other Parameter values.1,Craving for Sweet
+105,Name,वायु
+105,Parameter,पंचमहाभूत
+105,Lakshan,हिलना-डुलना
+105,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+105,Lakshan in English ,Excessive motion/restlessness
+106,Effect on other Parameter values,Increases Vata
+106,Effect on other Parameter values.1,Craving for Sweet
+106,Name,वायु
+106,Parameter,पंचमहाभूत
+106,Lakshan,कंप
+106,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+106,Lakshan in English ,Tremors
+107,Effect on other Parameter values,Increases Vata
+107,Effect on other Parameter values.1,Craving for Sweet
+107,Name,वायु
+107,Parameter,पंचमहाभूत
+107,Lakshan,वेग से वाणी या गति
+107,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+108,Effect on other Parameter values,Increases Pitta
+108,Effect on other Parameter values.1,"Desire for Sweet, Bitter, Astringent"
+108,Name,अग्नि
+108,Parameter,पंचमहाभूत
+108,Lakshan,दाह
+108,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+108,Lakshan in English ,Burning sensation
+109,Effect on other Parameter values,Increases Pitta
+109,Effect on other Parameter values.1,"Desire for Sweet, Bitter, Astringent"
+109,Name,अग्नि
+109,Parameter,पंचमहाभूत
+109,Lakshan,तीव्र प्यास
+109,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+109,Lakshan in English ,Excessive thirst
+110,Effect on other Parameter values,Increases Pitta
+110,Effect on other Parameter values.1,"Desire for Sweet, Bitter, Astringent"
+110,Name,अग्नि
+110,Parameter,पंचमहाभूत
+110,Lakshan,त्वचा लालिमा
+110,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+110,Lakshan in English ,Redness of skin
+111,Effect on other Parameter values,Increases Pitta
+111,Effect on other Parameter values.1,"Desire for Sweet, Bitter, Astringent"
+111,Name,अग्नि
+111,Parameter,पंचमहाभूत
+111,Lakshan,असहनीय गर्मी
+111,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+111,Lakshan in English ,Intolerance to heat
+112,Effect on other Parameter values,Increases Pitta
+112,Effect on other Parameter values.1,"Desire for Sweet, Bitter, Astringent"
+112,Name,अग्नि
+112,Parameter,पंचमहाभूत
+112,Lakshan,चिड़चिड़ापन
+112,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+112,Lakshan in English ,Irritability
+113,Effect on other Parameter values,Increases Pitta
+113,Effect on other Parameter values.1,"Desire for Sweet, Bitter, Astringent"
+113,Name,अग्नि
+113,Parameter,पंचमहाभूत
+113,Lakshan,तीव्र पाचन
+113,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+113,Lakshan in English ,Rapid digestion
+114,Effect on other Parameter values,Increases Kapha
+114,Effect on other Parameter values.1,"Desire for Pungent, Bitter, Astringent"
+114,Name,जल
+114,Parameter,पंचमहाभूत
+114,Lakshan,स्निग्धता
+114,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+114,Lakshan in English ,Oily skin
+115,Effect on other Parameter values,Increases Kapha
+115,Effect on other Parameter values.1,"Desire for Pungent, Bitter, Astringent"
+115,Name,जल
+115,Parameter,पंचमहाभूत
+115,Lakshan,गुरुता
+115,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+115,Lakshan in English ,Heaviness
+116,Effect on other Parameter values,Increases Kapha
+116,Effect on other Parameter values.1,"Desire for Pungent, Bitter, Astringent"
+116,Name,जल
+116,Parameter,पंचमहाभूत
+116,Lakshan,अधिक स्वेद
+116,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+116,Lakshan in English ,Excessive sweating
+117,Effect on other Parameter values,Increases Kapha
+117,Effect on other Parameter values.1,"Desire for Pungent, Bitter, Astringent"
+117,Name,जल
+117,Parameter,पंचमहाभूत
+117,Lakshan,आलस्य
+117,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+117,Lakshan in English ,Lethargy
+118,Effect on other Parameter values,Increases Kapha
+118,Effect on other Parameter values.1,"Desire for Pungent, Bitter, Astringent"
+118,Name,जल
+118,Parameter,पंचमहाभूत
+118,Lakshan,निस्तेज त्वचा
+118,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+118,Lakshan in English ,Pale / oily skin
+119,Effect on other Parameter values,Increases Kapha
+119,Effect on other Parameter values.1,"Desire for Pungent, Bitter, Astringent"
+119,Name,जल
+119,Parameter,पंचमहाभूत
+119,Lakshan,मूत्र अधिकता
+119,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+119,Lakshan in English ,Excess urination
+120,Effect on other Parameter values,Increases Kapha
+120,Effect on other Parameter values.1,"Preference for Pungent, Bitter, Astringent"
+120,Name,पृथ्वी
+120,Parameter,पंचमहाभूत
+120,Lakshan,स्थूलता
+120,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+120,Lakshan in English ,Obesity
+121,Effect on other Parameter values,Increases Kapha
+121,Effect on other Parameter values.1,"Preference for Pungent, Bitter, Astringent"
+121,Name,पृथ्वी
+121,Parameter,पंचमहाभूत
+121,Lakshan,शरीर की कठोरता
+121,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+121,Lakshan in English ,Body hardness / stability
+122,Effect on other Parameter values,Increases Kapha
+122,Effect on other Parameter values.1,"Preference for Pungent, Bitter, Astringent"
+122,Name,पृथ्वी
+122,Parameter,पंचमहाभूत
+122,Lakshan,स्थिरता
+122,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+122,Lakshan in English ,Inactivity
+123,Effect on other Parameter values,Increases Kapha
+123,Effect on other Parameter values.1,"Preference for Pungent, Bitter, Astringent"
+123,Name,पृथ्वी
+123,Parameter,पंचमहाभूत
+123,Lakshan,भारीपन
+123,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+123,Lakshan in English ,Heaviness
+124,Effect on other Parameter values,Increases Kapha
+124,Effect on other Parameter values.1,"Preference for Pungent, Bitter, Astringent"
+124,Name,पृथ्वी
+124,Parameter,पंचमहाभूत
+124,Lakshan,जड़ता
+124,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+124,Lakshan in English ,Sluggishness
+125,Effect on other Parameter values,Increases Kapha
+125,Effect on other Parameter values.1,"Preference for Pungent, Bitter, Astringent"
+125,Name,पृथ्वी
+125,Parameter,पंचमहाभूत
+125,Lakshan,मंदता
+125,Reference संदर्भ,च. सं. सूत्रस्थान 1/49
+125,Lakshan in English ,Slowness in speech / mind
+126,Effect on other Parameter values,"Pitta vruddhi (if yellow, hot urine) Vata vruddhi (if obstructed)"
+126,Effect on other Parameter values.1,Craving for Sweet and Bitter tastes (due to Pitta aggravation)
+126,Name,मूत्र
+126,Parameter,मल
+126,Lakshan,मूत्र अधिकता
+126,Reference संदर्भ,च. सं. चि. 15/40-41
+126,Lakshan in English ,Frequent urination
+127,Effect on other Parameter values,"Pitta vruddhi (if yellow, hot urine) Vata vruddhi (if obstructed)"
+127,Effect on other Parameter values.1,Craving for Sweet and Bitter tastes (due to Pitta aggravation)
+127,Name,मूत्र
+127,Parameter,मल
+127,Lakshan,मूत्रकृच्छ्र
+127,Reference संदर्भ,च. सं. चि. 15/40-41
+127,Lakshan in English ,Painful urination
+128,Effect on other Parameter values,"Pitta vruddhi (if yellow, hot urine) Vata vruddhi (if obstructed)"
+128,Effect on other Parameter values.1,Craving for Sweet and Bitter tastes (due to Pitta aggravation)
+128,Name,मूत्र
+128,Parameter,मल
+128,Lakshan,मूत्रावरोध
+128,Reference संदर्भ,च. सं. चि. 15/40-41
+128,Lakshan in English ,Retention of urine
+129,Effect on other Parameter values,"Pitta vruddhi (if yellow, hot urine) Vata vruddhi (if obstructed)"
+129,Effect on other Parameter values.1,Craving for Sweet and Bitter tastes (due to Pitta aggravation)
+129,Name,मूत्र
+129,Parameter,मल
+129,Lakshan,मूत्र पीतता
+129,Reference संदर्भ,च. सं. चि. 15/40-41
+129,Lakshan in English ,Yellowish urine
+130,Effect on other Parameter values,"Pitta vruddhi (if yellow, hot urine) Vata vruddhi (if obstructed)"
+130,Effect on other Parameter values.1,Craving for Sweet and Bitter tastes (due to Pitta aggravation)
+130,Name,मूत्र
+130,Parameter,मल
+130,Lakshan,मूत्र दुर्गंध
+130,Reference संदर्भ,च. सं. चि. 15/40-41
+130,Lakshan in English ,Foul smell in urine
+131,Effect on other Parameter values,"Pitta vruddhi (if yellow, hot urine) Vata vruddhi (if obstructed)"
+131,Effect on other Parameter values.1,Craving for Sweet and Bitter tastes (due to Pitta aggravation)
+131,Name,मूत्र
+131,Parameter,मल
+131,Lakshan,प्यास अधिकता
+131,Reference संदर्भ,च. सं. चि. 15/40-41
+131,Lakshan in English ,Excessive thirst
+132,Effect on other Parameter values,"Vata vruddhi (Due to obstruction and dryness), Kapha vruddhi (If sticky, heavy stools)"
+132,Effect on other Parameter values.1,Craving for Pungent and Astringent tastes to relieve heaviness
+132,Name,पुरिष
+132,Parameter,मल
+132,Lakshan,उदरगौरव
+132,Reference संदर्भ,च. सं. चि. 15/40-41
+132,Lakshan in English ,Heaviness in abdomen
+133,Effect on other Parameter values,"Vata vruddhi (Due to obstruction and dryness), Kapha vruddhi (If sticky, heavy stools)"
+133,Effect on other Parameter values.1,Craving for Pungent and Astringent tastes to relieve heaviness
+133,Name,पुरिष
+133,Parameter,मल
+133,Lakshan,शूल
+133,Reference संदर्भ,च. सं. चि. 15/40-41
+133,Lakshan in English ,Abdominal pain
+134,Effect on other Parameter values,"Vata vruddhi (Due to obstruction and dryness), Kapha vruddhi (If sticky, heavy stools)"
+134,Effect on other Parameter values.1,Craving for Pungent and Astringent tastes to relieve heaviness
+134,Name,पुरिष
+134,Parameter,मल
+134,Lakshan,मल बन्ध
+134,Reference संदर्भ,च. सं. चि. 15/40-41
+134,Lakshan in English ,Constipation
+135,Effect on other Parameter values,"Vata vruddhi (Due to obstruction and dryness), Kapha vruddhi (If sticky, heavy stools)"
+135,Effect on other Parameter values.1,Craving for Pungent and Astringent tastes to relieve heaviness
+135,Name,पुरिष
+135,Parameter,मल
+135,Lakshan,आम गंधयुक्त मल
+135,Reference संदर्भ,च. सं. चि. 15/40-41
+135,Lakshan in English ,Foul-smelling stools
+136,Effect on other Parameter values,"Vata vruddhi (Due to obstruction and dryness), Kapha vruddhi (If sticky, heavy stools)"
+136,Effect on other Parameter values.1,Craving for Pungent and Astringent tastes to relieve heaviness
+136,Name,पुरिष
+136,Parameter,मल
+136,Lakshan,पेट फूलना
+136,Reference संदर्भ,च. सं. चि. 15/40-41
+136,Lakshan in English ,Bloating
+137,Effect on other Parameter values,"Vata vruddhi (Due to obstruction and dryness), Kapha vruddhi (If sticky, heavy stools)"
+137,Effect on other Parameter values.1,Craving for Pungent and Astringent tastes to relieve heaviness
+137,Name,पुरिष
+137,Parameter,मल
+137,Lakshan,अपक्वता
+137,Reference संदर्भ,च. सं. चि. 15/40-41
+137,Lakshan in English ,Incomplete digestion
+138,Effect on other Parameter values,Pitta and Kapha vruddhi
+138,Effect on other Parameter values.1,Desire for Bitter and Astringent tastes
+138,Name,स्वेद
+138,Parameter,मल
+138,Lakshan,अत्यधिक स्वेद
+138,Reference संदर्भ,च. सं. चि. 15/40-41
+138,Lakshan in English ,Excess sweating
+139,Effect on other Parameter values,Pitta and Kapha vruddhi
+139,Effect on other Parameter values.1,Desire for Bitter and Astringent tastes
+139,Name,स्वेद
+139,Parameter,मल
+139,Lakshan,दुर्गंधयुक्त स्वेद
+139,Reference संदर्भ,च. सं. चि. 15/40-41
+139,Lakshan in English ,Foul-smelling sweat
+140,Effect on other Parameter values,Pitta and Kapha vruddhi
+140,Effect on other Parameter values.1,Desire for Bitter and Astringent tastes
+140,Name,स्वेद
+140,Parameter,मल
+140,Lakshan,स्निग्धता
+140,Reference संदर्भ,च. सं. चि. 15/40-41
+140,Lakshan in English ,Oily skin
+141,Effect on other Parameter values,Pitta and Kapha vruddhi
+141,Effect on other Parameter values.1,Desire for Bitter and Astringent tastes
+141,Name,स्वेद
+141,Parameter,मल
+141,Lakshan,त्वचा चिपचिपापन
+141,Reference संदर्भ,च. सं. चि. 15/40-41
+141,Lakshan in English ,Sticky skin
+142,Effect on other Parameter values,Pitta and Kapha vruddhi
+142,Effect on other Parameter values.1,Desire for Bitter and Astringent tastes
+142,Name,स्वेद
+142,Parameter,मल
+142,Lakshan,दाह
+142,Reference संदर्भ,च. सं. चि. 15/40-41
+142,Lakshan in English ,Burning sensation
+143,Effect on other Parameter values,Pitta and Kapha vruddhi
+143,Effect on other Parameter values.1,Desire for Bitter and Astringent tastes
+143,Name,स्वेद
+143,Parameter,मल
+143,Lakshan,लवण गंध
+143,Reference संदर्भ,च. सं. चि. 15/40-41
+143,Lakshan in English ,Salty odour

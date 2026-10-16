@@ -1,0 +1,1932 @@
+﻿entity,types,num_types
+-,Herb | Quality,2
+अग्नि,Ayurvedic_Concept | Group | Herb,3
+अग्नि दीपन,Herb | Other_Unclassified | Symptom,3
+अग्नि विषम,Other_Unclassified | Symptom,2
+अग्निकर्म,Herb | Other_Unclassified | Symptom,3
+अग्निमांद्य,Herb | Other_Unclassified | Symptom,3
+अग्निमाद्य,Other_Unclassified | Symptom,2
+अग्निमान्द्य,Other_Unclassified | Symptom,2
+अग्निमान्द्य अनुत्पत्ति,Other_Unclassified | Symptom,2
+अग्निमान्द्य आदि,Other_Unclassified | Symptom,2
+अग्निमान्द्य दारुण अति,Other_Unclassified | Symptom,2
+अग्निमान्द्य सतत,Other_Unclassified | Symptom,2
+अग्निमान्द्य सुदुस्तर,Other_Unclassified | Symptom,2
+अग्निमान्द्यज रोग,Other_Unclassified | Symptom,2
+अग्निसाद,Other_Unclassified | Symptom,2
+अग्र मांस,Other_Unclassified | Symptom,2
+अग्रमांस,Other_Unclassified | Symptom,2
+अङ्कुर गुद,Other_Unclassified | Symptom,2
+अङ्ग साद,Other_Unclassified | Symptom,2
+अजीर्ण,Herb | Other_Unclassified | Symptom,3
+अजीर्ण आमाजीर्ण,Other_Unclassified | Symptom,2
+अजीर्ण सर्व,Other_Unclassified | Symptom,2
+अजीर्ण सुदुस्तर,Other_Unclassified | Symptom,2
+अतिसार,Herb | Other_Unclassified | Symptom,3
+अतिसार अतिबहु,Other_Unclassified | Symptom,2
+अतिसार रक्तज,Herb | Other_Unclassified | Symptom,3
+अतिसार रक्तज उल्बण,Other_Unclassified | Symptom,2
+अतिसार रक्तातिसार,Other_Unclassified | Symptom,2
+अधिक निद्रा,Ayurvedic_Concept | Herb,2
+अनुवासनार्ह,Other_Unclassified | Symptom,2
+अन्त्रदाह सुदारुण,Other_Unclassified | Symptom,2
+अन्त्ररोग,Other_Unclassified | Symptom,2
+अन्त्ररोग निखिल,Other_Unclassified | Symptom,2
+अन्त्ररोध,Other_Unclassified | Symptom,2
+अन्न द्वेष दारुण,Other_Unclassified | Symptom,2
+अन्न द्वेष सुदारुण,Other_Unclassified | Symptom,2
+अपची,Other_Unclassified | Symptom,2
+अपची अतिदुस्तर,Other_Unclassified | Symptom,2
+अपची कृच्छ्र,Other_Unclassified | Symptom,2
+अपतन्त्र,Other_Unclassified | Symptom,2
+अपस्मार,Disease | Other_Unclassified | Symptom,3
+अपस्मार आगन्तु ग्रहज,Other_Unclassified | Symptom,2
+अपस्मार उद्धत,Other_Unclassified | Symptom,2
+अपस्मार कफज,Other_Unclassified | Symptom,2
+अपस्मार पित्तज,Other_Unclassified | Symptom,2
+अपस्मार महाघोर,Other_Unclassified | Symptom,2
+अपस्मार महाघोर सुचिरोत्थ,Other_Unclassified | Symptom,2
+अपस्मार वातज,Other_Unclassified | Symptom,2
+अपस्मार सर्व,Other_Unclassified | Symptom,2
+अभिघात,Other_Unclassified | Symptom,2
+अभिन्यास,Other_Unclassified | Symptom,2
+अभिवृद्धि क्लोम,Herb | Other_Unclassified | Symptom,3
+अभ्यङ्ग दूर्वाद्य घृत,Sub_Formulation | Symptom,2
+अमृतप्राश घृत,Compound | Sub_Formulation,2
+अम्ल,Ayurvedic_Concept | Herb,2
+अम्लपित्त,Disease | Other_Unclassified | Symptom,3
+अम्लपित्त अधोग,Other_Unclassified | Symptom,2
+अम्लपित्त अनेकरूप सुदारुण,Other_Unclassified | Symptom,2
+अम्लपित्त असाध्य,Other_Unclassified | Symptom,2
+अम्लपित्त आदि रोग,Other_Unclassified | Symptom,2
+अम्लपित्त ऊर्ध्वग,Other_Unclassified | Symptom,2
+अम्लपित्त कफोल्बण,Other_Unclassified | Symptom,2
+अम्लपित्त चिरोद्भूत,Other_Unclassified | Symptom,2
+अम्लपित्त विविध,Other_Unclassified | Symptom,2
+अम्लपित्त वैद्यशतत्यक्त,Other_Unclassified | Symptom,2
+अम्लपित्त शूल,Other_Unclassified | Symptom,2
+अम्लपित्त संसर्गज,Other_Unclassified | Symptom,2
+अम्लपित्त सर्व उपद्रव सहित,Other_Unclassified | Symptom,2
+अम्लपित्त सुदारुणअम्लपित्त सुदारुण,Other_Unclassified | Symptom,2
+अरुचि,Herb | Other_Unclassified | Symptom,3
+अरूचि,Other_Unclassified | Symptom,2
+अरोचक,Disease | Other_Unclassified | Symptom,3
+अरोचक असाध्य,Other_Unclassified | Symptom,2
+अरोचक कफज,Other_Unclassified | Symptom,2
+अरोचक गन्धज,Other_Unclassified | Symptom,2
+अरोचक त्रिदोषज,Other_Unclassified | Symptom,2
+अरोचक पित्तज,Other_Unclassified | Symptom,2
+अरोचक मनोघ्नज,Other_Unclassified | Symptom,2
+अरोचक महादारुण,Other_Unclassified | Symptom,2
+अरोचक वातज,Other_Unclassified | Symptom,2
+अरोचक सर्व,Other_Unclassified | Symptom,2
+अर्क,Compound | Herb,2
+अर्ति,Herb | Other_Unclassified | Symptom,3
+अर्ति गुद,Other_Unclassified | Symptom,2
+अर्ति मुख,Other_Unclassified | Symptom,2
+अर्ति शिरस,Other_Unclassified | Symptom,2
+अर्दित,Other_Unclassified | Symptom,2
+अर्द्धभेद,Other_Unclassified | Symptom,2
+अर्द्धभेद प्रकोप,Other_Unclassified | Symptom,2
+अर्बुद,Other_Unclassified | Symptom,2
+अर्बुद आदि,Other_Unclassified | Symptom,2
+अर्बुद कफज,Other_Unclassified | Symptom,2
+अर्बुद कफज पक्व,Other_Unclassified | Symptom,2
+अर्बुद दुष्ट,Other_Unclassified | Symptom,2
+अर्बुद पित्तज,Other_Unclassified | Symptom,2
+अर्बुद पुनर्भव,Other_Unclassified | Symptom,2
+अर्बुद मर्मज,Other_Unclassified | Symptom,2
+अर्बुद मेदोज,Other_Unclassified | Symptom,2
+अर्बुद वातज,Other_Unclassified | Symptom,2
+अर्श,Other_Unclassified | Symptom,2
+अर्शस,Other_Unclassified | Symptom,2
+अर्शस् अतिवृद्ध,Other_Unclassified | Symptom,2
+अर्शस् अशेष,Other_Unclassified | Symptom,2
+अर्शस् असाध्य,Other_Unclassified | Symptom,2
+अर्शस् आदि,Other_Unclassified | Symptom,2
+अर्शस् आर्द्र,Other_Unclassified | Symptom,2
+अर्शस् कठिन,Other_Unclassified | Symptom,2
+अर्शस् कफज,Other_Unclassified | Symptom,2
+अर्शस् गुदकील,Other_Unclassified | Symptom,2
+अर्शस् चिरजात लिङ्गे,Other_Unclassified | Symptom,2
+अर्शस् छेदन,Other_Unclassified | Symptom,2
+अर्शस् त्रिदोषज,Other_Unclassified | Symptom,2
+अर्शस् दुर्नाम गुदज गुदाङ्कुर,Other_Unclassified | Symptom,2
+अर्शस् द्वंद्वज,Other_Unclassified | Symptom,2
+अर्शस् पतन,Other_Unclassified | Symptom,2
+अर्शस् पायुगद,Other_Unclassified | Symptom,2
+अर्शस् पित्तज,Other_Unclassified | Symptom,2
+अर्शस् महत,Other_Unclassified | Symptom,2
+अर्शस् महत् तनुमूल बलिनि,Other_Unclassified | Symptom,2
+अर्शस् रक्त स्राव पतन,Other_Unclassified | Symptom,2
+अर्शस् रक्तज,Herb | Other_Unclassified | Symptom,3
+अर्शस् रक्तज शूल,Other_Unclassified | Symptom,2
+अर्शस् रक्तज स्राव रक्त,Other_Unclassified | Symptom,2
+अर्शस् रुजा,Other_Unclassified | Symptom,2
+अर्शस् लिङ्गे,Other_Unclassified | Symptom,2
+अर्शस् वातज,Other_Unclassified | Symptom,2
+अर्शस् विबन्ध पुरीष,Other_Unclassified | Symptom,2
+अर्शस् विविध,Other_Unclassified | Symptom,2
+अर्शस् शुष्क,Other_Unclassified | Symptom,2
+अर्शस् शूल,Other_Unclassified | Symptom,2
+अर्शस् षट,Other_Unclassified | Symptom,2
+अर्शस् सन्निपातज,Other_Unclassified | Symptom,2
+अर्शस् सर्व,Other_Unclassified | Symptom,2
+अर्शस् सहज,Other_Unclassified | Symptom,2
+अर्शस् सान्निपातज,Other_Unclassified | Symptom,2
+अर्शस् स्राव रक्त,Other_Unclassified | Symptom,2
+अर्शस् स्राव रक्त प्रबल,Other_Unclassified | Symptom,2
+अलक्ष्मी,Other_Unclassified | Symptom,2
+अल्पत्व शुक्र,Other_Unclassified | Symptom,2
+अल्पत्व शुक्र पुरुष,Other_Unclassified | Symptom,2
+अल्पपुष्प तरूणी,Other_Unclassified | Symptom,2
+अवलेह,Compound | Sub_Formulation,2
+अशीति वातज रोग,Other_Unclassified | Symptom,2
+अशोकारिष्ट,Compound | Herb,2
+अश्मरी,Disease | Other_Unclassified | Symptom,3
+अश्मरी कफज,Other_Unclassified | Symptom,2
+अश्मरी घोर,Other_Unclassified | Symptom,2
+अश्मरी चतुर्विध,Other_Unclassified | Symptom,2
+अश्मरी दारुण,Other_Unclassified | Symptom,2
+अश्मरी पित्तज,Other_Unclassified | Symptom,2
+अश्मरी पीडा,Other_Unclassified | Symptom,2
+अश्मरी रक्तज,Other_Unclassified | Symptom,2
+अश्मरी रुजा,Other_Unclassified | Symptom,2
+अश्मरी वातज,Other_Unclassified | Symptom,2
+अश्मरी वातज चिरकालानुबन्धिन,Other_Unclassified | Symptom,2
+अश्मरी वातज पूर्वरूप,Other_Unclassified | Symptom,2
+अश्मरी वृक्क,Other_Unclassified | Symptom,2
+अश्मरी शूल,Other_Unclassified | Symptom,2
+अश्मरी सर्व दुःसाध्य,Other_Unclassified | Symptom,2
+अश्रुपात,Other_Unclassified | Symptom,2
+अष्ठीला,Other_Unclassified | Symptom,2
+अष्ठीलिका,Other_Unclassified | Symptom,2
+अष्ठीलिका सुकठिन,Other_Unclassified | Symptom,2
+आगन्तुमेह,Other_Unclassified | Symptom,2
+आढ्यवात,Other_Unclassified | Symptom,2
+आध्मान,Herb | Other_Unclassified | Symptom,3
+आनाह,Other_Unclassified | Symptom,2
+आनाह साम,Other_Unclassified | Symptom,2
+आन्त्रवृद्धि,Other_Unclassified | Symptom,2
+आन्ध्य,Other_Unclassified | Symptom,2
+आम,Other_Unclassified | Symptom,2
+आम अन्वय,Other_Unclassified | Symptom,2
+आमय रोग,Other_Unclassified | Symptom,2
+आमरोग,Other_Unclassified | Symptom,2
+आमरोग सर्व,Other_Unclassified | Symptom,2
+आमवात,Other_Unclassified | Symptom,2
+आमवात चिरजात,Other_Unclassified | Symptom,2
+आमवात सुदारुण,Other_Unclassified | Symptom,2
+आमाशयरोग सर्व,Other_Unclassified | Symptom,2
+आयाम वातपित्तज,Other_Unclassified | Symptom,2
+आर्तव दोष,Other_Unclassified | Symptom,2
+आलस्य,Ayurvedic_Concept | Herb,2
+आस्यगद मुखरोग,Other_Unclassified | Symptom,2
+उच्चटितत्व ओष्ठ,Other_Unclassified | Symptom,2
+उत्कोठ,Other_Unclassified | Symptom,2
+उत्क्लेश,Herb | Other_Unclassified | Symptom,3
+उत्क्लेश कफ,Other_Unclassified | Symptom,2
+उत्क्लेश पित्त,Other_Unclassified | Symptom,2
+उत्क्लेश वात,Other_Unclassified | Symptom,2
+उत्थान न मेढ्र,Herb | Other_Unclassified | Symptom,3
+उदर प्लीहोदर,Other_Unclassified | Symptom,2
+उदरररोग,Other_Unclassified | Symptom,2
+उदररोग,Other_Unclassified | Symptom,2
+उदररोग अष्ट,Other_Unclassified | Symptom,2
+उदररोग अष्ट चिरभव,Other_Unclassified | Symptom,2
+उदररोग अष्टविध,Other_Unclassified | Symptom,2
+उदररोग आदि,Other_Unclassified | Symptom,2
+उदररोग आयम्यमत,Other_Unclassified | Symptom,2
+उदररोग उदकोदर,Herb | Other_Unclassified | Symptom,3
+उदररोग उदकोदर उग्र,Other_Unclassified | Symptom,2
+उदररोग घोर अत्युग्र,Other_Unclassified | Symptom,2
+उदररोग जलोदर,Other_Unclassified | Symptom,2
+उदररोग ज्वर आदि सहित आध्मान सहित,Other_Unclassified | Symptom,2
+उदररोग दूष्योदर,Other_Unclassified | Symptom,2
+उदररोग पथ्य,Other_Unclassified | Symptom,2
+उदररोग प्लीहरोग,Other_Unclassified | Symptom,2
+उदररोग प्लीहोदर,Other_Unclassified | Symptom,2
+उदररोग महोदर,Other_Unclassified | Symptom,2
+उदररोग यकृतोदर,Other_Unclassified | Symptom,2
+उदररोग सर्व,Other_Unclassified | Symptom,2
+उदररोग सर्व चिरोत्थित,Other_Unclassified | Symptom,2
+उदररोग सुजीर्ण,Other_Unclassified | Symptom,2
+उदर्द,Other_Unclassified | Symptom,2
+उदर्द सर्वशरीरज,Other_Unclassified | Symptom,2
+उदावर्त,Herb | Other_Unclassified | Symptom,3
+उदावर्त अधोवातवेगरोधज,Other_Unclassified | Symptom,2
+उदावर्त अश्रुवेगरोधज,Other_Unclassified | Symptom,2
+उदावर्त उद्गारवेगरोधज,Other_Unclassified | Symptom,2
+उदावर्त क्षववेगरोधज,Other_Unclassified | Symptom,2
+उदावर्त क्षुधावेगरोधज,Other_Unclassified | Symptom,2
+उदावर्त छर्दिवेगरोधज,Other_Unclassified | Symptom,2
+उदावर्त जृम्भावेगरोधज,Other_Unclassified | Symptom,2
+उदावर्त तृष्णावेगरोधज,Other_Unclassified | Symptom,2
+उदावर्त निद्रावेगरोधज,Other_Unclassified | Symptom,2
+उदावर्त पुरीषज,Other_Unclassified | Symptom,2
+उदावर्त पुरीषविघातज,Other_Unclassified | Symptom,2
+उदावर्त मूत्रवेगरोधज,Other_Unclassified | Symptom,2
+उदावर्त वातज,Other_Unclassified | Symptom,2
+उदावर्त विबन्ध पुरीष,Other_Unclassified | Symptom,2
+उदावर्त शुक्रवेगरोधज,Other_Unclassified | Symptom,2
+उदावर्त श्रमश्वासवेगरोधज,Other_Unclassified | Symptom,2
+उद्गार,Other_Unclassified | Symptom,2
+उन्माद,Disease | Other_Unclassified | Symptom,3
+उन्माद अत्युग्र,Other_Unclassified | Symptom,2
+उन्माद आगन्तु,Other_Unclassified | Symptom,2
+उन्माद आगन्तु असुरग्रहज,Other_Unclassified | Symptom,2
+उन्माद आगन्तु ऋषिज,Other_Unclassified | Symptom,2
+उन्माद आगन्तु गन्धर्वज,Other_Unclassified | Symptom,2
+उन्माद आगन्तु जाङ्गलज,Other_Unclassified | Symptom,2
+उन्माद आगन्तु देवग्रहज,Other_Unclassified | Symptom,2
+उन्माद आगन्तु देवज,Other_Unclassified | Symptom,2
+उन्माद आगन्तु पितृग्रहज,Other_Unclassified | Symptom,2
+उन्माद आगन्तु पितृज,Other_Unclassified | Symptom,2
+उन्माद आगन्तु पिशाचज,Other_Unclassified | Symptom,2
+उन्माद आगन्तु भूतज,Other_Unclassified | Symptom,2
+उन्माद आगन्तु भूतज सर्व,Other_Unclassified | Symptom,2
+उन्माद आगन्तु यक्षज,Other_Unclassified | Symptom,2
+उन्माद आगन्तु राक्षसज,Other_Unclassified | Symptom,2
+उन्माद आगन्तु सर्पज,Other_Unclassified | Symptom,2
+उन्माद आगन्तु स्कन्दज,Other_Unclassified | Symptom,2
+उन्माद इष्टद्रव्यविनाशज,Other_Unclassified | Symptom,2
+उन्माद ईर्ष्याज,Other_Unclassified | Symptom,2
+उन्माद कफज,Other_Unclassified | Symptom,2
+उन्माद कामज,Other_Unclassified | Symptom,2
+उन्माद क्रोधज,Other_Unclassified | Symptom,2
+उन्माद दारुण,Other_Unclassified | Symptom,2
+उन्माद दोषज,Other_Unclassified | Symptom,2
+उन्माद पित्तज,Other_Unclassified | Symptom,2
+उन्माद भयज,Other_Unclassified | Symptom,2
+उन्माद लोभज,Other_Unclassified | Symptom,2
+उन्माद वातज,Other_Unclassified | Symptom,2
+उन्माद वातपित्तज,Other_Unclassified | Symptom,2
+उन्माद शोकज,Other_Unclassified | Symptom,2
+उन्माद सकल,Other_Unclassified | Symptom,2
+उन्माद सन्निपातज,Other_Unclassified | Symptom,2
+उन्माद हर्षज,Other_Unclassified | Symptom,2
+उपदंश,Disease | Other_Unclassified | Symptom,3
+उपदंश महाघोर,Other_Unclassified | Symptom,2
+उपद्रव,Other_Unclassified | Symptom,2
+उपहतत्व चेतस,Other_Unclassified | Symptom,2
+उपहतत्व चेतस् भूतैः,Other_Unclassified | Symptom,2
+उपहतत्व दोष चित्त,Other_Unclassified | Symptom,2
+उपहतत्व दोष मनस,Other_Unclassified | Symptom,2
+उरःक्षत,Other_Unclassified | Symptom,2
+उरस्तोय,Disease | Herb | Other_Unclassified | Symptom,4
+उरस्तोय तृष्णा,Other_Unclassified | Symptom,2
+उरुस्तम्भ,Other_Unclassified | Symptom,2
+उरोग्रह,Other_Unclassified | Symptom,2
+उरोरोग,Other_Unclassified | Symptom,2
+उशीर चूर्ण,Compound | Sub_Formulation,2
+उष्ण,Herb | Quality,2
+ऊरुस्तम्भ,Disease | Other_Unclassified | Symptom,3
+ऊरुस्तम्भ दुर्जय,Other_Unclassified | Symptom,2
+ऊर्ध्वजत्रुगत रोग,Other_Unclassified | Symptom,2
+ऊर्ध्वजत्रुगतरोग सर्व,Other_Unclassified | Symptom,2
+ऊर्ध्ववात,Other_Unclassified | Symptom,2
+एकाङ्गवात,Other_Unclassified | Symptom,2
+ओजोमेह,Other_Unclassified | Symptom,2
+ओजोमेह अतिघोर,Other_Unclassified | Symptom,2
+ओजोमेह अन्य कृच्छ्रसाध्य,Other_Unclassified | Symptom,2
+ओजोमेह असाध्य,Other_Unclassified | Symptom,2
+ओजोमेह वातज,Other_Unclassified | Symptom,2
+औपसर्गिकमेह,Disease | Other_Unclassified | Symptom,3
+औपसर्गिकमेह दारुण,Other_Unclassified | Symptom,2
+औपासर्गिकमेह,Other_Unclassified | Symptom,2
+कच्छुरिका आदि,Other_Unclassified | Symptom,2
+कटु,Ayurvedic_Concept | Herb,2
+कण्ठरोग,Other_Unclassified | Symptom,2
+कण्डू,Herb | Other_Unclassified | Symptom,3
+कण्डू आदि,Other_Unclassified | Symptom,2
+कण्डू गात्र,Other_Unclassified | Symptom,2
+कण्डू गुद,Other_Unclassified | Symptom,2
+कण्डू दन्त,Other_Unclassified | Symptom,2
+कण्डू बद्धमूल,Other_Unclassified | Symptom,2
+कफ,Ayurvedic_Concept | Other_Unclassified | Symptom,3
+कफ गल तालु जिह्वा दन्तमूल आश्रित,Other_Unclassified | Symptom,2
+कफ रोग,Other_Unclassified | Symptom,2
+कफज तृष्णा,Other_Unclassified | Symptom,2
+कफज सोमरोग,Other_Unclassified | Symptom,2
+कफरोग,Other_Unclassified | Symptom,2
+कफरोग आदि,Other_Unclassified | Symptom,2
+कफरोग ध्रुवम,Other_Unclassified | Symptom,2
+कफरोग पित्तान्वित,Other_Unclassified | Symptom,2
+कफरोग विंशति,Other_Unclassified | Symptom,2
+कफरोग विंसति,Other_Unclassified | Symptom,2
+कफरोग शरीर ऊर्ध्वज,Other_Unclassified | Symptom,2
+कफरोग सर्व,Other_Unclassified | Symptom,2
+कम्प,Other_Unclassified | Symptom,2
+कम्प अङ्ग विशेषतः,Other_Unclassified | Symptom,2
+कम्प शिरस,Other_Unclassified | Symptom,2
+कम्प हस्त,Other_Unclassified | Symptom,2
+कम्प हृत,Herb | Other_Unclassified | Symptom,3
+कम्परोग,Other_Unclassified | Symptom,2
+कर्णपाली छिन्न,Other_Unclassified | Symptom,2
+कर्णपाली छिन्न कफदूषित,Other_Unclassified | Symptom,2
+कर्णपाली छिन्न रक्तपित्तदूषित,Other_Unclassified | Symptom,2
+कर्णपाली छिन्न वातदूषित,Other_Unclassified | Symptom,2
+कर्णरोग,Disease | Other_Unclassified | Symptom,3
+कर्णरोग कर्णकण्डूसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग कर्णक्ष्वेडसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग कर्णक्ष्वेडसंज्ञ भयङ्कर,Other_Unclassified | Symptom,2
+कर्णरोग कर्णगूथकसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग कर्णनाडीसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग कर्णनादसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग कर्णपाकसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग कर्णप्रतीनाहसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग कर्णशूलसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग कर्णशूलसंज्ञ क्लेद स्राव,Other_Unclassified | Symptom,2
+कर्णरोग कर्णशूलसंज्ञ वेदना बहु,Other_Unclassified | Symptom,2
+कर्णरोग कर्णशूलसंज्ञ शब्द सहितत्व,Other_Unclassified | Symptom,2
+कर्णरोग कर्णशूलसंज्ञ शूल तीव्र,Other_Unclassified | Symptom,2
+कर्णरोग कर्णशोथसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग कर्णसंस्रावसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग कर्णस्रावसंज्ञ दारुण,Other_Unclassified | Symptom,2
+कर्णरोग कृमिकर्णकसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग कृमिकर्णसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग निखिल,Other_Unclassified | Symptom,2
+कर्णरोग पालीशोषसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग पूतिकर्णकसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग पूतिकर्णसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग पूतिकर्णसंज्ञ चिरोत्थ स्राव सहित,Other_Unclassified | Symptom,2
+कर्णरोग प्रतीनाहसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग बाधिर्यसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग विद्रधिसंज्ञ,Other_Unclassified | Symptom,2
+कर्णरोग सर्व कर्णनाद आदि,Other_Unclassified | Symptom,2
+कर्षितत्व धनुषा,Other_Unclassified | Symptom,2
+कर्षितत्व धनुस,Other_Unclassified | Symptom,2
+कर्षितत्व भार,Other_Unclassified | Symptom,2
+कर्षितत्व भारेण,Other_Unclassified | Symptom,2
+कर्षितत्व भृशम् मद्येन,Other_Unclassified | Symptom,2
+कर्षितत्व भृशम् व्यवायेन,Other_Unclassified | Symptom,2
+कर्षितत्व मद्येन,Other_Unclassified | Symptom,2
+कर्षितत्व व्यवाय,Other_Unclassified | Symptom,2
+कर्षितत्व व्यवायेन,Other_Unclassified | Symptom,2
+कषाय,Ayurvedic_Concept | Group | Herb | Quality,4
+कामला,Herb | Other_Unclassified | Symptom,3
+कामला उद्धत,Other_Unclassified | Symptom,2
+कामला दारुण,Other_Unclassified | Symptom,2
+कार्श्य,Other_Unclassified | Symptom,2
+कास,Herb | Other_Unclassified | Symptom,3
+कास आदि,Other_Unclassified | Symptom,2
+कास कफज,Other_Unclassified | Symptom,2
+कास कफपित्तज,Other_Unclassified | Symptom,2
+कास क्षयज,Other_Unclassified | Symptom,2
+कास दुर्जय,Other_Unclassified | Symptom,2
+कास दुस्तर,Other_Unclassified | Symptom,2
+कास पञ्च,Other_Unclassified | Symptom,2
+कास पञ्चविध,Other_Unclassified | Symptom,2
+कास पित्तकफज,Other_Unclassified | Symptom,2
+कास पित्तज,Other_Unclassified | Symptom,2
+कास वातकफज,Other_Unclassified | Symptom,2
+कास वातज,Other_Unclassified | Symptom,2
+कास वैद्यविवर्जित,Other_Unclassified | Symptom,2
+कास सर्व,Other_Unclassified | Symptom,2
+कास सर्वोपद्रवसहित,Other_Unclassified | Symptom,2
+कास सुदुस्तर,Other_Unclassified | Symptom,2
+किलास,Other_Unclassified | Symptom,2
+कीट वृद्धि,Other_Unclassified | Symptom,2
+कुम्भकामला,Other_Unclassified | Symptom,2
+कुशाद्य घृत,Compound | Sub_Formulation,2
+कुष्ठ,Disease | Herb | Other_Unclassified | Symptom,4
+कुष्ठ अरुस्संज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ अलससंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ अल्प,Other_Unclassified | Symptom,2
+कुष्ठ अष्टादश,Other_Unclassified | Symptom,2
+कुष्ठ अस्थिगत,Other_Unclassified | Symptom,2
+कुष्ठ उदुम्बरसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ उपद्रव,Other_Unclassified | Symptom,2
+कुष्ठ ऋष्यजिह्वसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ एक दोष उल्बण,Other_Unclassified | Symptom,2
+कुष्ठ औदुम्बरसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ कच्छूसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ कच्छूसंज्ञ उग्र,Other_Unclassified | Symptom,2
+कुष्ठ कच्छूसंज्ञ दुःसाध्य,Other_Unclassified | Symptom,2
+कुष्ठ कपालसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ कपालसंज्ञ विषम,Other_Unclassified | Symptom,2
+कुष्ठ कफज,Other_Unclassified | Symptom,2
+कुष्ठ कफपित्तज,Other_Unclassified | Symptom,2
+कुष्ठ कफाधिक,Other_Unclassified | Symptom,2
+कुष्ठ काकणसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ कापालसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ किटिमसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ किट्टिमसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ कृमि अर्दितत्व,Other_Unclassified | Symptom,2
+कुष्ठ कृमिज,Other_Unclassified | Symptom,2
+कुष्ठ क्षरण रक्त,Other_Unclassified | Symptom,2
+कुष्ठ गलत,Other_Unclassified | Symptom,2
+कुष्ठ गलत्कुष्ठ,Other_Unclassified | Symptom,2
+कुष्ठ गलित,Other_Unclassified | Symptom,2
+कुष्ठ गलित कूर्प सन्धि,Other_Unclassified | Symptom,2
+कुष्ठ गलित पाद अङ्गुली,Other_Unclassified | Symptom,2
+कुष्ठ गलित सन्धि,Other_Unclassified | Symptom,2
+कुष्ठ गलित हस्त अङ्गुली,Other_Unclassified | Symptom,2
+कुष्ठ चर्मदलसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ चर्मसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ चलन मांस,Other_Unclassified | Symptom,2
+कुष्ठ तीव्र,Other_Unclassified | Symptom,2
+कुष्ठ दद्रुसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ दद्रुसंज्ञ महत,Other_Unclassified | Symptom,2
+कुष्ठ दोष अधिक,Other_Unclassified | Symptom,2
+कुष्ठ द्वि दोष उल्बण,Other_Unclassified | Symptom,2
+कुष्ठ नाना वर्ण,Other_Unclassified | Symptom,2
+कुष्ठ निबद्धत्व मूल,Other_Unclassified | Symptom,2
+कुष्ठ पतन कृमि,Other_Unclassified | Symptom,2
+कुष्ठ पद्मसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ पामासंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ पित्तज,Other_Unclassified | Symptom,2
+कुष्ठ पित्ताधिक,Other_Unclassified | Symptom,2
+कुष्ठ पुण्डरीकसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ प्रकुपित विविध,Other_Unclassified | Symptom,2
+कुष्ठ भिन्नत्व गल,Other_Unclassified | Symptom,2
+कुष्ठ मज्जगत,Other_Unclassified | Symptom,2
+कुष्ठ मण्डलसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ मण्डलसंज्ञ ताम्र,Other_Unclassified | Symptom,2
+कुष्ठ मण्डलसंज्ञ रक्त अत्त्युग्र,Other_Unclassified | Symptom,2
+कुष्ठ मण्डलसंज्ञ रक्त वर्ण,Other_Unclassified | Symptom,2
+कुष्ठ मण्डलसंज्ञ रक्तवर्ण,Other_Unclassified | Symptom,2
+कुष्ठ महत,Other_Unclassified | Symptom,2
+कुष्ठ महपद्मसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ रक्त वर्ण,Other_Unclassified | Symptom,2
+कुष्ठ रूप अधिक,Other_Unclassified | Symptom,2
+कुष्ठ वातज,Other_Unclassified | Symptom,2
+कुष्ठ वाताधिक,Other_Unclassified | Symptom,2
+कुष्ठ विचर्चिकसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ विचर्चिकासंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ विचर्चिकासंज्ञ अतिदारुण,Other_Unclassified | Symptom,2
+कुष्ठ विचर्चिकासंज्ञ आदि,Other_Unclassified | Symptom,2
+कुष्ठ विपादिकसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ विपादिकासंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ विपादिकासंज्ञ चिरकालानुबन्धिन,Other_Unclassified | Symptom,2
+कुष्ठ विपुल,Other_Unclassified | Symptom,2
+कुष्ठ विशीर्णत्व अङ्गुली,Other_Unclassified | Symptom,2
+कुष्ठ विशीर्णत्व कर्ण,Other_Unclassified | Symptom,2
+कुष्ठ विशीर्णत्व नासिका,Other_Unclassified | Symptom,2
+कुष्ठ विशीर्णत्व पाद,Other_Unclassified | Symptom,2
+कुष्ठ विशीर्णत्व हस्त,Other_Unclassified | Symptom,2
+कुष्ठ शतारुसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ शरीर भिन्नत्व,Other_Unclassified | Symptom,2
+कुष्ठ श्वेत वर्ण,Other_Unclassified | Symptom,2
+कुष्ठ सन्धिगत,Other_Unclassified | Symptom,2
+कुष्ठ सन्निपातज,Other_Unclassified | Symptom,2
+कुष्ठ सर्व,Other_Unclassified | Symptom,2
+कुष्ठ सर्वविध,Other_Unclassified | Symptom,2
+कुष्ठ सिध्मसंज्ञ,Other_Unclassified | Symptom,2
+कुष्ठ सिध्मसंज्ञ बहुवार्षिक,Other_Unclassified | Symptom,2
+कुष्ठ सुदारुण,Other_Unclassified | Symptom,2
+कुष्ठ स्फुटित,Other_Unclassified | Symptom,2
+कुष्ठ स्राव पूय,Other_Unclassified | Symptom,2
+कुष्ठरोग विचर्चिकासंज्ञ,Other_Unclassified | Symptom,2
+कृच्छ्ररोग,Other_Unclassified | Symptom,2
+कृच्छ्रश्वास,Other_Unclassified | Symptom,2
+कृत्या,Other_Unclassified | Symptom,2
+कृमि,Herb | Other_Unclassified | Symptom,3
+कृमि कर्ण,Other_Unclassified | Symptom,2
+कृमि कोष्ठ,Other_Unclassified | Symptom,2
+कृमि विंशति,Other_Unclassified | Symptom,2
+कृमि वृद्धि,Other_Unclassified | Symptom,2
+कृमिघ्न,Group | Herb,2
+कृमिज ताण्डवरोग,Other_Unclassified | Symptom,2
+कृमिरोग,Other_Unclassified | Symptom,2
+कृमिरोग गुदज,Other_Unclassified | Symptom,2
+कृमीरोग,Other_Unclassified | Symptom,2
+कृशत्व,Herb | Other_Unclassified | Symptom,3
+कृशत्व अङ्ग,Other_Unclassified | Symptom,2
+कृशाङ्गता,Other_Unclassified | Symptom,2
+केशर,Herb | Quality,2
+कोठ,Other_Unclassified | Symptom,2
+कोप दारुण मूत्रातिसार,Other_Unclassified | Symptom,2
+कोप मूत्रातिसार,Other_Unclassified | Symptom,2
+कोषवृद्धि,Other_Unclassified | Symptom,2
+कोष्ठगतरोग,Other_Unclassified | Symptom,2
+कोष्ठरोग,Other_Unclassified | Symptom,2
+क्रोध,Ayurvedic_Concept | Herb,2
+क्लम,Other_Unclassified | Symptom,2
+क्लीबत्व,Other_Unclassified | Symptom,2
+क्लेद,Other_Unclassified | Symptom,2
+क्लैब्य,Herb | Other_Unclassified | Symptom,3
+क्लैब्य उपघातज,Other_Unclassified | Symptom,2
+क्लैब्य चिरकालिक,Other_Unclassified | Symptom,2
+क्लैब्य तात्कालिक,Other_Unclassified | Symptom,2
+क्लैब्य पित्तज,Other_Unclassified | Symptom,2
+क्लैब्य मानस,Other_Unclassified | Symptom,2
+क्लैब्य मेढ्ररोगज,Other_Unclassified | Symptom,2
+क्लैब्य शुक्रक्षयज,Other_Unclassified | Symptom,2
+क्लैब्य शुक्रस्तम्भज,Other_Unclassified | Symptom,2
+क्लैब्य सहज,Other_Unclassified | Symptom,2
+क्लैब्य साध्य,Other_Unclassified | Symptom,2
+क्लोमरोग,Disease | Other_Unclassified | Symptom,3
+क्लोमरोग सर्व,Other_Unclassified | Symptom,2
+क्षत,Other_Unclassified | Symptom,2
+क्षत मनस् रिरंसु,Herb | Other_Unclassified | Symptom,3
+क्षत मुख,Other_Unclassified | Symptom,2
+क्षत सुदारुण,Other_Unclassified | Symptom,2
+क्षतक्षय,Other_Unclassified | Symptom,2
+क्षतक्षीण,Other_Unclassified | Symptom,2
+क्षय,Other_Unclassified | Symptom,2
+क्षय उद्धत,Other_Unclassified | Symptom,2
+क्षय एकादशविध,Other_Unclassified | Symptom,2
+क्षय कफज,Other_Unclassified | Symptom,2
+क्षय क्षतज,Other_Unclassified | Symptom,2
+क्षय त्रिदोषज,Other_Unclassified | Symptom,2
+क्षय धातु,Other_Unclassified | Symptom,2
+क्षय पित्तज,Other_Unclassified | Symptom,2
+क्षय बल,Herb | Other_Unclassified | Symptom,3
+क्षय मेढ्र गुह्यरोग उपदंशसंज्ञ,Other_Unclassified | Symptom,2
+क्षय यकृत,Other_Unclassified | Symptom,2
+क्षय रक्त,Other_Unclassified | Symptom,2
+क्षय रुजा,Other_Unclassified | Symptom,2
+क्षय रोग,Other_Unclassified | Symptom,2
+क्षय रोग सर्व,Other_Unclassified | Symptom,2
+क्षय वातज,Other_Unclassified | Symptom,2
+क्षय वातपित्तज,Other_Unclassified | Symptom,2
+क्षय शुक्र,Herb | Other_Unclassified | Symptom,3
+क्षय सर्वरूप,Other_Unclassified | Symptom,2
+क्षय स्वर,Other_Unclassified | Symptom,2
+क्षयरोग,Other_Unclassified | Symptom,2
+क्षार,Compound | Herb,2
+क्षारदग्ध सम्यक,Other_Unclassified | Symptom,2
+क्षीणत्व,Other_Unclassified | Symptom,2
+क्षीणत्व कफ लङ्घनेन,Other_Unclassified | Symptom,2
+क्षीणत्व शुक्र,Other_Unclassified | Symptom,2
+क्षीणशुक्र,Other_Unclassified | Symptom,2
+क्षीर,Compound | Vehicle,2
+क्षुद्ररोग,Other_Unclassified | Symptom,2
+क्षुद्ररोग गुदभ्रंशसंज्ञ,Other_Unclassified | Symptom,2
+क्षुद्ररोग चर्मकीलसंज्ञ,Other_Unclassified | Symptom,2
+क्षुद्ररोग पलितसंज्ञ अकाल,Other_Unclassified | Symptom,2
+क्षुद्ररोग शर्करार्बुदसंज्ञ,Other_Unclassified | Symptom,2
+खञ्जत्व,Other_Unclassified | Symptom,2
+खञ्जनिका,Disease | Other_Unclassified | Symptom,3
+खञ्जनिका घोर,Other_Unclassified | Symptom,2
+खञ्जवात,Other_Unclassified | Symptom,2
+गण्डमाला,Other_Unclassified | Symptom,2
+गण्डमाला चिरकालानुबन्धि,Other_Unclassified | Symptom,2
+गण्डमाला चिरकालोत्थित,Other_Unclassified | Symptom,2
+गण्डमाला सर्व,Other_Unclassified | Symptom,2
+गण्डमाला सुदारुण,Other_Unclassified | Symptom,2
+गद्गद,Other_Unclassified | Symptom,2
+गद्गदत्व वाक,Other_Unclassified | Symptom,2
+गर,Other_Unclassified | Symptom,2
+गर दोष,Other_Unclassified | Symptom,2
+गरविष,Herb | Other_Unclassified | Symptom,3
+गर्दभिका,Other_Unclassified | Symptom,2
+गर्भ दोष,Other_Unclassified | Symptom,2
+गलगण्ड,Other_Unclassified | Symptom,2
+गलगण्ड उग्र,Other_Unclassified | Symptom,2
+गलगण्ड कफज,Other_Unclassified | Symptom,2
+गलगण्ड चिरोत्थ,Other_Unclassified | Symptom,2
+गलगण्ड तरुण,Other_Unclassified | Symptom,2
+गलगण्ड मेदोज,Other_Unclassified | Symptom,2
+गलगण्ड वातज,Other_Unclassified | Symptom,2
+गलगण्ड व्रण,Other_Unclassified | Symptom,2
+गलग्रह,Other_Unclassified | Symptom,2
+गलरोग,Other_Unclassified | Symptom,2
+गाढत्व पुरीष,Herb | Other_Unclassified | Symptom,3
+गाढत्व पुरीष कफज,Other_Unclassified | Symptom,2
+गाढत्व पुरीष पित्तज,Other_Unclassified | Symptom,2
+गुदभ्रंश,Other_Unclassified | Symptom,2
+गुदरोग,Other_Unclassified | Symptom,2
+गुदरोग अखिल,Other_Unclassified | Symptom,2
+गुदरोग सर्व,Other_Unclassified | Symptom,2
+गुरु,Herb | Quality,2
+गुल्म,Other_Unclassified | Symptom,2
+गुल्म आदि,Other_Unclassified | Symptom,2
+गुल्म कफज,Other_Unclassified | Symptom,2
+गुल्म कफज चिरोत्थित,Other_Unclassified | Symptom,2
+गुल्म कफज मन्दत्व अग्नि,Other_Unclassified | Symptom,2
+गुल्म कफज मूढत्व वात,Other_Unclassified | Symptom,2
+गुल्म कफजव वमनार्ह,Other_Unclassified | Symptom,2
+गुल्म कफवातज,Other_Unclassified | Symptom,2
+गुल्म गुल्मित अन्त्र,Other_Unclassified | Symptom,2
+गुल्म दाह,Other_Unclassified | Symptom,2
+गुल्म दुस्तर,Other_Unclassified | Symptom,2
+गुल्म द्वंद्वज,Other_Unclassified | Symptom,2
+गुल्म पक्व व्रण शुद्ध,Other_Unclassified | Symptom,2
+गुल्म पञ्च,Other_Unclassified | Symptom,2
+गुल्म पञ्चविध,Other_Unclassified | Symptom,2
+गुल्म पित्तज,Other_Unclassified | Symptom,2
+गुल्म पित्तज रूक्षेन उष्णेन,Other_Unclassified | Symptom,2
+गुल्म पित्तज स्निग्धेन उष्णेन,Other_Unclassified | Symptom,2
+गुल्म रक्त स्त्री,Other_Unclassified | Symptom,2
+गुल्म रक्तज,Other_Unclassified | Symptom,2
+गुल्म रक्तज स्त्री,Other_Unclassified | Symptom,2
+गुल्म रक्तज स्राव अति रक्त,Other_Unclassified | Symptom,2
+गुल्म रक्तदुष्टि,Other_Unclassified | Symptom,2
+गुल्म रुजा,Other_Unclassified | Symptom,2
+गुल्म वातकफज,Other_Unclassified | Symptom,2
+गुल्म वातज,Other_Unclassified | Symptom,2
+गुल्म वातज कफ वृद्ध,Other_Unclassified | Symptom,2
+गुल्म वातज पित्त वृद्ध,Other_Unclassified | Symptom,2
+गुल्म वातज रुजा,Other_Unclassified | Symptom,2
+गुल्म विदह्यमान,Other_Unclassified | Symptom,2
+गुल्म विशाल,Other_Unclassified | Symptom,2
+गुल्म शूल,Other_Unclassified | Symptom,2
+गुल्म सन्निपातज,Other_Unclassified | Symptom,2
+गुल्म सर्व,Other_Unclassified | Symptom,2
+गुल्म सर्वोपद्रव सहित,Other_Unclassified | Symptom,2
+गुल्म सुदुस्तर,Other_Unclassified | Symptom,2
+गुल्मरोग,Disease | Other_Unclassified | Symptom,3
+गुल्मरोग विशाल,Other_Unclassified | Symptom,2
+गुह्यरोग,Other_Unclassified | Symptom,2
+गुह्यरोग अर्बुदसंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग अर्बुदसंज्ञ मांसज,Other_Unclassified | Symptom,2
+गुह्यरोग अर्बुदसंज्ञ रक्तज,Other_Unclassified | Symptom,2
+गुह्यरोग अलजीसंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग अवमन्थसंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग अष्ठीलासंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग उत्तमासंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंश पिडका,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ कण्डू,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ कर्मज,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ कर्मज व्रण,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ दाह सहित,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ दोषज,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ दोषज व्रण,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ पाक मेढ्र,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ पाक सहित,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ पिडका,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ पित्तज,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ रक्तज,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ राग सहित,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ रुजा,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ वातज,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ वेदना उत्कट,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ व्रण,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ शीरण मेढ्र मांस मुष्क शेषत्व,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ शोथ,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ सर्व,Other_Unclassified | Symptom,2
+गुह्यरोग उपदंशसंज्ञ स्राव सहित,Other_Unclassified | Symptom,2
+गुह्यरोग कण्डू,Other_Unclassified | Symptom,2
+गुह्यरोग कुम्भिकसंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग कुम्भिकसंज्ञ पक्व,Other_Unclassified | Symptom,2
+गुह्यरोग कुम्भिकसंज्ञ व्रण,Other_Unclassified | Symptom,2
+गुह्यरोग ग्रथितसंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग तिलकालकसंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग त्वक्पाकसंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग पुष्करिकासंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग पूय पूति,Other_Unclassified | Symptom,2
+गुह्यरोग मांसपाकसंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग मूढपिडकासंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग मृदितसंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग विद्रधिसंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग व्रण,Other_Unclassified | Symptom,2
+गुह्यरोग शतपोनकसंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग शूल,Other_Unclassified | Symptom,2
+गुह्यरोग शोथ,Other_Unclassified | Symptom,2
+गुह्यरोग सर्व,Other_Unclassified | Symptom,2
+गुह्यरोग सर्षपीसंज्ञ,Other_Unclassified | Symptom,2
+गुह्यरोग सर्षपीसंज्ञ व्रण,Other_Unclassified | Symptom,2
+गुह्यरोग स्पर्शहानिसंज्ञ,Other_Unclassified | Symptom,2
+गृध्रसी,Other_Unclassified | Symptom,2
+गौणोपदंश,Other_Unclassified | Symptom,2
+ग्रन्थि,Herb | Other_Unclassified | Symptom,3
+ग्रन्थि अमर्मज अपक्व,Other_Unclassified | Symptom,2
+ग्रन्थि आदि,Other_Unclassified | Symptom,2
+ग्रन्थि आम,Other_Unclassified | Symptom,2
+ग्रन्थि कक्षा,Other_Unclassified | Symptom,2
+ग्रन्थि कफज,Other_Unclassified | Symptom,2
+ग्रन्थि कर्ण,Other_Unclassified | Symptom,2
+ग्रन्थि गल,Other_Unclassified | Symptom,2
+ग्रन्थि पक्व,Other_Unclassified | Symptom,2
+ग्रन्थि पित्तज,Other_Unclassified | Symptom,2
+ग्रन्थि वातज,Other_Unclassified | Symptom,2
+ग्रन्थिशोथ,Other_Unclassified | Symptom,2
+ग्रन्थी,Other_Unclassified | Symptom,2
+ग्रह,Other_Unclassified | Symptom,2
+ग्रह अङ्ग,Other_Unclassified | Symptom,2
+ग्रह उरस,Other_Unclassified | Symptom,2
+ग्रह कटी,Other_Unclassified | Symptom,2
+ग्रह दोष,Other_Unclassified | Symptom,2
+ग्रह पुरीष,Other_Unclassified | Symptom,2
+ग्रह मूत्र,Other_Unclassified | Symptom,2
+ग्रह वाक,Other_Unclassified | Symptom,2
+ग्रह शिरस,Other_Unclassified | Symptom,2
+ग्रह सर्व,Other_Unclassified | Symptom,2
+ग्रह हृदय,Other_Unclassified | Symptom,2
+ग्रहणी,Other_Unclassified | Symptom,2
+ग्रहणी चिरज,Other_Unclassified | Symptom,2
+ग्रहणी चिरज शोथ सहित,Other_Unclassified | Symptom,2
+ग्रहणी दुस्तर,Other_Unclassified | Symptom,2
+ग्रहणी रोग ज्वर,Other_Unclassified | Symptom,2
+ग्रहणीदोष,Other_Unclassified | Symptom,2
+ग्रहणीरोग,Other_Unclassified | Symptom,2
+ग्रहणीरोग अतिदुस्तर,Other_Unclassified | Symptom,2
+ग्रहणीरोग असाध्य,Other_Unclassified | Symptom,2
+ग्रहणीरोग कफज प्रवृद्ध,Other_Unclassified | Symptom,2
+ग्रहणीरोग चिरकालिक,Other_Unclassified | Symptom,2
+ग्रहणीरोग पित्तज प्रवृद्ध,Other_Unclassified | Symptom,2
+चक्षुःशूल शूल$नेत्र,Other_Unclassified | Symptom,2
+चर्मकील,Other_Unclassified | Symptom,2
+चर्मोत्थ$रोग त्वग्रोग,Other_Unclassified | Symptom,2
+चूर्ण,Compound | Herb,2
+चोपचिनी,Compound | Herb,2
+छर्दि,Disease | Herb | Other_Unclassified | Symptom,4
+छर्दि अन्न विदाहज,Other_Unclassified | Symptom,2
+छर्दि अम्लपित्तज,Other_Unclassified | Symptom,2
+छर्दि कफज,Other_Unclassified | Symptom,2
+छर्दि चिरोत्थित,Other_Unclassified | Symptom,2
+छर्दि त्रि,Other_Unclassified | Symptom,2
+छर्दि त्रिदोषज,Other_Unclassified | Symptom,2
+छर्दि पित्तज,Other_Unclassified | Symptom,2
+छर्दि पित्तज उल्बण,Other_Unclassified | Symptom,2
+छर्दि पित्तज पित्त वृद्ध अतिमात्र कफाशयस्थ,Other_Unclassified | Symptom,2
+छर्दि रक्त,Herb | Other_Unclassified | Symptom,3
+छर्दि रक्तज,Other_Unclassified | Symptom,2
+छर्दि वातज,Other_Unclassified | Symptom,2
+छर्दि शूल सहित,Other_Unclassified | Symptom,2
+छर्दि सकल,Other_Unclassified | Symptom,2
+छर्दि सर्व,Other_Unclassified | Symptom,2
+छाया,Herb | Other_Unclassified | Symptom,3
+जठर,Other_Unclassified | Symptom,2
+जडत्व,Other_Unclassified | Symptom,2
+जडत्व वाक,Other_Unclassified | Symptom,2
+जल,Ayurvedic_Concept | Vehicle,2
+जिह्वाजाड्य चिरज,Other_Unclassified | Symptom,2
+जिह्वास्तम्भ,Other_Unclassified | Symptom,2
+जीर्णज्वर,Other_Unclassified | Symptom,2
+जीवन पुरुष,Other_Unclassified | Symptom,2
+जीवनीय,Group | Herb,2
+ज्वर,Herb | Other_Unclassified | Symptom,3
+ज्वर अष्टविध,Other_Unclassified | Symptom,2
+ज्वर अष्टविध साध्य असाध्य,Other_Unclassified | Symptom,2
+ज्वर असाध्य,Other_Unclassified | Symptom,2
+ज्वर आदि,Other_Unclassified | Symptom,2
+ज्वर उग्र,Other_Unclassified | Symptom,2
+ज्वर एकाहिक,Other_Unclassified | Symptom,2
+ज्वर घोर,Other_Unclassified | Symptom,2
+ज्वर चतुर्थक,Other_Unclassified | Symptom,2
+ज्वर चातुराहिक,Other_Unclassified | Symptom,2
+ज्वर चातुर्थक,Other_Unclassified | Symptom,2
+ज्वर चिर,Other_Unclassified | Symptom,2
+ज्वर चिरकालिक,Other_Unclassified | Symptom,2
+ज्वर चिरज,Other_Unclassified | Symptom,2
+ज्वर जल दोषज,Other_Unclassified | Symptom,2
+ज्वर जीर्ण,Other_Unclassified | Symptom,2
+ज्वर जीर्णघोर,Other_Unclassified | Symptom,2
+ज्वर तृतीयक,Other_Unclassified | Symptom,2
+ज्वर त्र्याहिक,Other_Unclassified | Symptom,2
+ज्वर दारुण,Other_Unclassified | Symptom,2
+ज्वर द्व्याहिक,Other_Unclassified | Symptom,2
+ज्वर नव,Other_Unclassified | Symptom,2
+ज्वर नानादोषोद्भव,Other_Unclassified | Symptom,2
+ज्वर पित्तकफज,Other_Unclassified | Symptom,2
+ज्वर पित्तज,Other_Unclassified | Symptom,2
+ज्वर बहुविध,Other_Unclassified | Symptom,2
+ज्वर मज्जगत,Other_Unclassified | Symptom,2
+ज्वर महत,Other_Unclassified | Symptom,2
+ज्वर वातपित्तज घोर,Other_Unclassified | Symptom,2
+ज्वर विरुद्ध औषधज,Other_Unclassified | Symptom,2
+ज्वर विविध,Other_Unclassified | Symptom,2
+ज्वर विषम,Other_Unclassified | Symptom,2
+ज्वर विषम जीर्ण,Other_Unclassified | Symptom,2
+ज्वर विषम दारुण,Other_Unclassified | Symptom,2
+ज्वर विषमज्वर,Other_Unclassified | Symptom,2
+ज्वर विषमज्वर विविध,Other_Unclassified | Symptom,2
+ज्वर शुक्रगत,Other_Unclassified | Symptom,2
+ज्वर श्वास सहित,Other_Unclassified | Symptom,2
+ज्वर सन्निपातज,Other_Unclassified | Symptom,2
+ज्वर सर्व,Other_Unclassified | Symptom,2
+ज्वर साध्य,Other_Unclassified | Symptom,2
+ज्वरातिसार,Other_Unclassified | Symptom,2
+डाकिन्यादि दोष,Other_Unclassified | Symptom,2
+तन्द्रा,Herb | Other_Unclassified | Symptom,3
+तम,Other_Unclassified | Symptom,2
+तमकश्वास,Other_Unclassified | Symptom,2
+ताण्डवरोग,Disease | Other_Unclassified | Symptom,3
+ताप,Herb | Other_Unclassified | Symptom,3
+ताप महत,Other_Unclassified | Symptom,2
+तालुशोष,Other_Unclassified | Symptom,2
+तास,Other_Unclassified | Symptom,2
+तिक्त,Ayurvedic_Concept | Group | Herb,3
+तिमिर वातज,Other_Unclassified | Symptom,2
+तिलकालक,Other_Unclassified | Symptom,2
+तीक्ष्ण,Herb | Quality,2
+तृणपंचमूळ,Group | Herb,2
+तृष्णा,Disease | Herb | Other_Unclassified | Symptom,4
+तृष्णा अन्न गुरुजाता,Other_Unclassified | Symptom,2
+तृष्णा कफज,Other_Unclassified | Symptom,2
+तृष्णा क्षतज,Other_Unclassified | Symptom,2
+तृष्णा क्षयज,Other_Unclassified | Symptom,2
+तृष्णा चिरोत्थित,Other_Unclassified | Symptom,2
+तृष्णा दारुण,Other_Unclassified | Symptom,2
+तृष्णा दुर्बलत्व अति,Herb | Other_Unclassified | Symptom,3
+तृष्णा दुर्वार,Other_Unclassified | Symptom,2
+तृष्णा पित्तज,Other_Unclassified | Symptom,2
+तृष्णा भृशम,Other_Unclassified | Symptom,2
+तृष्णा महत,Other_Unclassified | Symptom,2
+तृष्णा रूक्षत्व अति,Herb | Other_Unclassified | Symptom,3
+तृष्णा वातज,Other_Unclassified | Symptom,2
+त्रिदोष,Other_Unclassified | Symptom,2
+त्रिफला,Group | Sub_Formulation,2
+त्वक् दोष,Other_Unclassified | Symptom,2
+त्वक् दोष सर्व,Other_Unclassified | Symptom,2
+त्वक् रोग निखिल,Other_Unclassified | Symptom,2
+त्वग्रोग,Other_Unclassified | Symptom,2
+त्वग्रोग सर्व,Other_Unclassified | Symptom,2
+दंश जन्तु,Other_Unclassified | Symptom,2
+दंश सर्प,Other_Unclassified | Symptom,2
+दग्धत्व मुख,Other_Unclassified | Symptom,2
+दग्धत्व मुख दाह,Other_Unclassified | Symptom,2
+दग्धत्व मुख पाक,Sub_Formulation | Symptom,2
+दण्डक,Other_Unclassified | Symptom,2
+दद्रु,Other_Unclassified | Symptom,2
+दन्तरोग,Other_Unclassified | Symptom,2
+दर्प स्त्री,Other_Unclassified | Symptom,2
+दाह,Ayurvedic_Concept | Herb | Other_Unclassified | Symptom,4
+दाह अङ्ग,Herb | Other_Unclassified | Symptom,3
+दाह अन्तर्दाह,Other_Unclassified | Symptom,2
+दाह कण्ठ,Other_Unclassified | Symptom,2
+दाह कुक्षि,Other_Unclassified | Symptom,2
+दाह चूर्णेन,Other_Unclassified | Symptom,2
+दाह नयन,Other_Unclassified | Symptom,2
+दाह नेत्र,Other_Unclassified | Symptom,2
+दाह पाद,Other_Unclassified | Symptom,2
+दाह बाह्य,Other_Unclassified | Symptom,2
+दाह महत,Other_Unclassified | Symptom,2
+दाह योनि,Other_Unclassified | Symptom,2
+दाह शिरस,Other_Unclassified | Symptom,2
+दाह हस्त,Other_Unclassified | Symptom,2
+दाह हृदय,Other_Unclassified | Symptom,2
+दाहरोग,Disease | Other_Unclassified | Symptom,3
+दाहरोग परम उल्बण,Other_Unclassified | Symptom,2
+दाहरोग महाबल,Other_Unclassified | Symptom,2
+दीपन,Herb | Quality,2
+दुर्गन्ध,Herb | Other_Unclassified | Symptom,3
+दुर्नाम,Other_Unclassified | Symptom,2
+दुर्बलत्व,Herb | Other_Unclassified | Symptom,3
+दुर्बलत्व ऊरु,Other_Unclassified | Symptom,2
+दुर्बलत्व कटि,Other_Unclassified | Symptom,2
+दुर्बलत्व ग्रहणी,Other_Unclassified | Symptom,2
+दुर्बलत्व देह,Other_Unclassified | Symptom,2
+दुर्बलत्व पष्ठ,Other_Unclassified | Symptom,2
+दुष्टि गुद वलि,Other_Unclassified | Symptom,2
+देवदार्व्यारिष्ट,Compound | Herb,2
+दोष,Ayurvedic_Concept | Other_Unclassified | Symptom,3
+दोष ग्रहणी अन्य,Other_Unclassified | Symptom,2
+दोष त्वक,Other_Unclassified | Symptom,2
+दोष दृष्टि,Other_Unclassified | Symptom,2
+दोष मूत्र,Other_Unclassified | Symptom,2
+दोष मूत्र सर्व,Other_Unclassified | Symptom,2
+दोष योनि,Other_Unclassified | Symptom,2
+दोष योनि संहत स्त्री,Other_Unclassified | Symptom,2
+दोष रक्त,Other_Unclassified | Symptom,2
+दोष रक्त स्त्री,Other_Unclassified | Symptom,2
+दोष शुक्र,Other_Unclassified | Symptom,2
+दोष शुक्र कफज,Other_Unclassified | Symptom,2
+दोष शुक्र ग्रन्थिसंज्ञ,Other_Unclassified | Symptom,2
+दोष शुक्र पित्तज,Other_Unclassified | Symptom,2
+दोष शुक्र रक्तज,Other_Unclassified | Symptom,2
+दोष शुक्र वातज,Other_Unclassified | Symptom,2
+दोष सर्व,Other_Unclassified | Symptom,2
+दौर्बल्य,Herb | Other_Unclassified | Symptom,3
+धनुर्वात,Other_Unclassified | Symptom,2
+धातु क्षय,Other_Unclassified | Symptom,2
+धातु नाश अति व्यवायात,Other_Unclassified | Symptom,2
+ध्वजभङ्ग,Disease | Herb | Other_Unclassified | Symptom,4
+ध्वजभङ्ग क्लैब्य,Other_Unclassified | Symptom,2
+नयनगद नेत्ररोग,Other_Unclassified | Symptom,2
+नष्टत्व शुक्र,Other_Unclassified | Symptom,2
+नागपुष्प,Group | Herb,2
+नाडीरोग,Other_Unclassified | Symptom,2
+नाडीव्रण,Other_Unclassified | Symptom,2
+नाडीव्रण प्रदुष्ट,Other_Unclassified | Symptom,2
+नाडीव्रण मर्माश्रित,Other_Unclassified | Symptom,2
+नारिकेल,Group | Herb,2
+नाश अग्नि चिर,Other_Unclassified | Symptom,2
+नाश आर्तव स्त्री,Other_Unclassified | Symptom,2
+नाश निद्रा,Herb | Other_Unclassified | Symptom,3
+नाश बल,Herb | Other_Unclassified | Symptom,3
+नाश वीर्य,Other_Unclassified | Symptom,2
+नाश शरीर अनुदिन भूरिपरिश्रमात,Other_Unclassified | Symptom,2
+नासारोग,Disease | Other_Unclassified | Symptom,3
+नासारोग अपीनससंज्ञ,Other_Unclassified | Symptom,2
+नासारोग कृमिसंज्ञ,Other_Unclassified | Symptom,2
+नासारोग क्षवथुसंज्ञ,Other_Unclassified | Symptom,2
+नासारोग दाहसंज्ञ,Other_Unclassified | Symptom,2
+नासारोग दीप्तिसंज्ञ,Other_Unclassified | Symptom,2
+नासारोग नासापाकसंज्ञ,Other_Unclassified | Symptom,2
+नासारोग नासार्शसंज्ञ,Other_Unclassified | Symptom,2
+नासारोग पीनससंज्ञ,Other_Unclassified | Symptom,2
+नासारोग पीनससंज्ञ आदि,Other_Unclassified | Symptom,2
+नासारोग पीनससंज्ञ दुस्तर,Other_Unclassified | Symptom,2
+नासारोग पीनससंज्ञ पक्व,Other_Unclassified | Symptom,2
+नासारोग पीनससंज्ञ सर्व,Other_Unclassified | Symptom,2
+नासारोग पुटकसंज्ञ,Other_Unclassified | Symptom,2
+नासारोग पूतिनस्यसंज्ञ,Other_Unclassified | Symptom,2
+नासारोग पूतिनाससंज्ञ,Other_Unclassified | Symptom,2
+नासारोग पूयरक्तसंज्ञ,Other_Unclassified | Symptom,2
+नासारोग प्रतिश्यायसंज्ञ,Other_Unclassified | Symptom,2
+नासारोग प्रतिश्यायसंज्ञ कफ पक्व,Other_Unclassified | Symptom,2
+नासारोग प्रतिश्यायसंज्ञ कफज,Other_Unclassified | Symptom,2
+नासारोग प्रतिश्यायसंज्ञ चिरकालज,Other_Unclassified | Symptom,2
+नासारोग प्रतिश्यायसंज्ञ त्रिदोषज,Other_Unclassified | Symptom,2
+नासारोग प्रतिश्यायसंज्ञ नव,Other_Unclassified | Symptom,2
+नासारोग प्रतिश्यायसंज्ञ पित्तज,Other_Unclassified | Symptom,2
+नासारोग प्रतिश्यायसंज्ञ रक्तज,Other_Unclassified | Symptom,2
+नासारोग प्रतिश्यायसंज्ञ वातज,Other_Unclassified | Symptom,2
+नासारोग प्रतिश्यायसंज्ञ सर्व,Other_Unclassified | Symptom,2
+निद्रानाश चिर,Other_Unclassified | Symptom,2
+निष्ठीवन रक्त,Herb | Other_Unclassified | Symptom,3
+नीलिका,Other_Unclassified | Symptom,2
+नीली,Other_Unclassified | Symptom,2
+नेत्ररोग,Herb | Other_Unclassified | Symptom,3
+नेत्ररोग सर्व,Other_Unclassified | Symptom,2
+पक्षाघात,Other_Unclassified | Symptom,2
+पङ्गुत्व,Other_Unclassified | Symptom,2
+परमद,Other_Unclassified | Symptom,2
+परिस्रव,Other_Unclassified | Symptom,2
+पलित,Herb | Other_Unclassified | Symptom,3
+पाक,Compound | Herb,2
+पाक व्रण,Other_Unclassified | Symptom,2
+पाचन,Herb | Quality,2
+पाण्डु,Other_Unclassified | Symptom,2
+पाण्डुरोग,Disease | Other_Unclassified | Symptom,3
+पाण्डुरोग कफज,Other_Unclassified | Symptom,2
+पाण्डुरोग चिरकालानुबन्धिन,Other_Unclassified | Symptom,2
+पाण्डुरोग चिरोद्भव,Other_Unclassified | Symptom,2
+पाण्डुरोग जीर्ण,Other_Unclassified | Symptom,2
+पाण्डुरोग ज्वर आदि सहित अजीर्ण सहित,Other_Unclassified | Symptom,2
+पाण्डुरोग ज्वरातीसार सहित उपद्रव सर्व सहित,Other_Unclassified | Symptom,2
+पाण्डुरोग त्रिदोषज,Other_Unclassified | Symptom,2
+पाण्डुरोग पित्तज,Other_Unclassified | Symptom,2
+पाण्डुरोग मृद्भक्षणज,Other_Unclassified | Symptom,2
+पाण्डुरोग वातज,Other_Unclassified | Symptom,2
+पाण्डुरोग साध्य,Other_Unclassified | Symptom,2
+पानविभ्रम अत्युग्र,Other_Unclassified | Symptom,2
+पानाजीर्ण,Other_Unclassified | Symptom,2
+पाप,Other_Unclassified | Symptom,2
+पामा,Other_Unclassified | Symptom,2
+पारदविकार,Other_Unclassified | Symptom,2
+पार्श्व रोग,Other_Unclassified | Symptom,2
+पार्श्वशूल,Other_Unclassified | Symptom,2
+पिच्छल,Herb | Quality,2
+पिच्छिल,Herb | Quality,2
+पिडका,Herb | Other_Unclassified | Symptom,3
+पिडका भागन्दरी,Other_Unclassified | Symptom,2
+पिडका सर्व,Other_Unclassified | Symptom,2
+पित्त,Ayurvedic_Concept | Herb | Other_Unclassified | Symptom,4
+पित्त कोष्ठ आश्रित,Other_Unclassified | Symptom,2
+पित्त प्रकोप,Other_Unclassified | Symptom,2
+पित्त बहुरूप,Other_Unclassified | Symptom,2
+पित्त रोग,Other_Unclassified | Symptom,2
+पित्त रोग सर्व,Other_Unclassified | Symptom,2
+पित्त शाखा आश्रित,Other_Unclassified | Symptom,2
+पित्त सर्वविध,Other_Unclassified | Symptom,2
+पित्तकफवातरोग,Other_Unclassified | Symptom,2
+पित्तज सोमरोग,Other_Unclassified | Symptom,2
+पित्तरोग,Other_Unclassified | Symptom,2
+पित्तरोग अशेष,Other_Unclassified | Symptom,2
+पित्तरोग चत्वारिंशत,Other_Unclassified | Symptom,2
+पित्तरोग विविध,Other_Unclassified | Symptom,2
+पित्तरोग सर्व,Other_Unclassified | Symptom,2
+पिष्टमेह,Other_Unclassified | Symptom,2
+पीडा हृदय,Other_Unclassified | Symptom,2
+पीनस,Other_Unclassified | Symptom,2
+पीनस आदि,Other_Unclassified | Symptom,2
+पूतिगन्ध अति मुख,Other_Unclassified | Symptom,2
+पूतित्व शरीर,Other_Unclassified | Symptom,2
+पूय पुरीष,Other_Unclassified | Symptom,2
+पूय मूत्र,Other_Unclassified | Symptom,2
+पूयमेह,Herb | Other_Unclassified | Symptom,3
+प्रकोप वात,Other_Unclassified | Symptom,2
+प्रकोप वात अर्ति,Other_Unclassified | Symptom,2
+प्रकोप वात निद्रा नाश,Other_Unclassified | Symptom,2
+प्रतिरुद्धत्व वात,Other_Unclassified | Symptom,2
+प्रतिश्याय,Herb | Other_Unclassified | Symptom,3
+प्रदर,Other_Unclassified | Symptom,2
+प्रदर अङ्गमर्द,Other_Unclassified | Symptom,2
+प्रदर अतिबल,Other_Unclassified | Symptom,2
+प्रदर अरूण,Other_Unclassified | Symptom,2
+प्रदर असाध्य,Other_Unclassified | Symptom,2
+प्रदर असित,Other_Unclassified | Symptom,2
+प्रदर उग्र अति,Other_Unclassified | Symptom,2
+प्रदर उपद्रव सहित सर्वसम्भवज,Other_Unclassified | Symptom,2
+प्रदर कृष्ण,Other_Unclassified | Symptom,2
+प्रदर चतुर्विध,Other_Unclassified | Symptom,2
+प्रदर दुःसाध्य,Other_Unclassified | Symptom,2
+प्रदर दुर्ज्जय,Other_Unclassified | Symptom,2
+प्रदर दुस्तर,Other_Unclassified | Symptom,2
+प्रदर द्विविध,Other_Unclassified | Symptom,2
+प्रदर नानावर्ण,Other_Unclassified | Symptom,2
+प्रदर नील,Other_Unclassified | Symptom,2
+प्रदर पाण्डुज,Other_Unclassified | Symptom,2
+प्रदर पित्तज,Other_Unclassified | Symptom,2
+प्रदर पीत,Other_Unclassified | Symptom,2
+प्रदर रक्त,Other_Unclassified | Symptom,2
+प्रदर रक्तज,Other_Unclassified | Symptom,2
+प्रदर रक्तज तीव्र,Other_Unclassified | Symptom,2
+प्रदर रक्तज शूल,Other_Unclassified | Symptom,2
+प्रदर वातज,Other_Unclassified | Symptom,2
+प्रदर विलोहित,Other_Unclassified | Symptom,2
+प्रदर वेदना सहित,Other_Unclassified | Symptom,2
+प्रदर शुक्ल,Other_Unclassified | Symptom,2
+प्रदर शूल सहित,Other_Unclassified | Symptom,2
+प्रदर श्याव,Other_Unclassified | Symptom,2
+प्रदर श्वेत,Other_Unclassified | Symptom,2
+प्रदर सर्व,Other_Unclassified | Symptom,2
+प्रदर सर्व दोषज,Other_Unclassified | Symptom,2
+प्रदर सित,Other_Unclassified | Symptom,2
+प्रदर स्त्री,Other_Unclassified | Symptom,2
+प्रभूत मूत्र/बहुमूत्र,Other_Unclassified | Symptom,2
+प्रमेह,Other_Unclassified | Symptom,2
+प्रमेह अस्रमेह,Other_Unclassified | Symptom,2
+प्रमेह इक्षुमेह,Other_Unclassified | Symptom,2
+प्रमेह उपद्रव सहित,Other_Unclassified | Symptom,2
+प्रमेह ओजोमेह,Other_Unclassified | Symptom,2
+प्रमेह चिकित्सा औषध,Herb | Other_Unclassified | Symptom,3
+प्रमेह त्रिदोषज,Other_Unclassified | Symptom,2
+प्रमेह नानाविध,Other_Unclassified | Symptom,2
+प्रमेह निखिल,Other_Unclassified | Symptom,2
+प्रमेह पिच्छिलमेह,Other_Unclassified | Symptom,2
+प्रमेह पूय,Other_Unclassified | Symptom,2
+प्रमेह बहुदोष,Other_Unclassified | Symptom,2
+प्रमेह बहुविध,Other_Unclassified | Symptom,2
+प्रमेह मञ्जिष्ठामेह,Other_Unclassified | Symptom,2
+प्रमेह मधुमेह,Other_Unclassified | Symptom,2
+प्रमेह रक्त,Other_Unclassified | Symptom,2
+प्रमेह लसीका आदि,Other_Unclassified | Symptom,2
+प्रमेह लालामेह,Other_Unclassified | Symptom,2
+प्रमेह विंशति,Other_Unclassified | Symptom,2
+प्रमेह विविध,Other_Unclassified | Symptom,2
+प्रमेह शुक्रमेह,Other_Unclassified | Symptom,2
+प्रमेह समूह,Other_Unclassified | Symptom,2
+प्रमेह सर्व,Other_Unclassified | Symptom,2
+प्रमेह हस्तिमेह,Other_Unclassified | Symptom,2
+प्रमेहपिडका,Disease | Other_Unclassified | Symptom,3
+प्रमेहपिडका दश,Other_Unclassified | Symptom,2
+प्रमेहपिडका व्रण,Other_Unclassified | Symptom,2
+प्रमेहपिडका शराविका आदि सर्व,Other_Unclassified | Symptom,2
+प्रमेहपिडका सर्व,Other_Unclassified | Symptom,2
+प्रवाहिका,Other_Unclassified | Symptom,2
+प्रवृत्ति पुरीष बहुशः,Other_Unclassified | Symptom,2
+प्रसुप्ति,Other_Unclassified | Symptom,2
+प्रसेक,Other_Unclassified | Symptom,2
+प्लीह कठोर,Other_Unclassified | Symptom,2
+प्लीह रोग,Other_Unclassified | Symptom,2
+प्लीह वृद्धि,Other_Unclassified | Symptom,2
+प्लीहरोग,Herb | Other_Unclassified | Symptom,3
+प्लीहरोग अतिदारुण,Other_Unclassified | Symptom,2
+प्लीहरोग असाध्य,Other_Unclassified | Symptom,2
+प्लीहरोग आदि,Other_Unclassified | Symptom,2
+प्लीहरोग उग्र,Other_Unclassified | Symptom,2
+प्लीहरोग कफज,Other_Unclassified | Symptom,2
+प्लीहरोग कफवातज,Other_Unclassified | Symptom,2
+प्लीहरोग कूर्मसदृश,Other_Unclassified | Symptom,2
+प्लीहरोग दारुण,Other_Unclassified | Symptom,2
+प्लीहरोग दुस्तर,Other_Unclassified | Symptom,2
+प्लीहरोग वातज,Other_Unclassified | Symptom,2
+प्लीहरोग षट,Other_Unclassified | Symptom,2
+प्लीहारोग,Other_Unclassified | Symptom,2
+प्लीहोदर,Other_Unclassified | Symptom,2
+फिरङ्गरोग,Disease | Other_Unclassified | Symptom,3
+फिरङ्गरोग आभ्यन्तर,Other_Unclassified | Symptom,2
+फिरङ्गरोग उपद्रव सहित,Other_Unclassified | Symptom,2
+फिरङ्गरोग क्षीणे,Other_Unclassified | Symptom,2
+फिरङ्गरोग जीर्ण,Other_Unclassified | Symptom,2
+फिरङ्गरोग बहिरन्तर्भव,Other_Unclassified | Symptom,2
+फिरङ्गरोग बाह्य,Other_Unclassified | Symptom,2
+फिरङ्गरोग बाह्य नवीन उपद्रवरहित,Other_Unclassified | Symptom,2
+फिरङ्गरोग व्रण,Other_Unclassified | Symptom,2
+बद्धत्व पुरीष,Other_Unclassified | Symptom,2
+बल पुरुष,Other_Unclassified | Symptom,2
+बलास कफ,Other_Unclassified | Symptom,2
+बल्य,Group | Herb,2
+बस्तिरोग,Other_Unclassified | Symptom,2
+बहुमूत्र,Other_Unclassified | Symptom,2
+बहुमूत्र अपथ्य,Other_Unclassified | Symptom,2
+बहुमूत्र उक्त पथ्य,Other_Unclassified | Symptom,2
+बहुमूत्र उक्त हेतु,Other_Unclassified | Symptom,2
+बहुमूत्र रोग,Other_Unclassified | Symptom,2
+बहुमूत्र रोग चिरकालज,Other_Unclassified | Symptom,2
+बहुमूत्र रोग जनित रोग,Other_Unclassified | Symptom,2
+बहुमूत्र रोग तृष्णा अधिक,Other_Unclassified | Symptom,2
+बहुमूत्र रोग दुर्जय,Other_Unclassified | Symptom,2
+बहुमूत्र रोग सर्वज,Other_Unclassified | Symptom,2
+बहुमूत्र रोग सुदारुण,Other_Unclassified | Symptom,2
+बहुमूत्ररोग,Disease | Other_Unclassified | Symptom,3
+बाल रोग,Other_Unclassified | Symptom,2
+बाल हित कर,Other_Unclassified | Symptom,2
+बालरोग आगन्तुज,Other_Unclassified | Symptom,2
+बालरोग दोषज,Other_Unclassified | Symptom,2
+बृंहण,Group | Herb,2
+ब्रध्न,Other_Unclassified | Symptom,2
+ब्रध्न रुजा,Other_Unclassified | Symptom,2
+ब्रध्न शूल,Other_Unclassified | Symptom,2
+ब्रध्नरोग,Other_Unclassified | Symptom,2
+ब्रह्महत्या,Other_Unclassified | Symptom,2
+भगन्दर,Disease | Other_Unclassified | Symptom,3
+भगन्दर असाध्य,Other_Unclassified | Symptom,2
+भगन्दर आम,Other_Unclassified | Symptom,2
+भगन्दर चिरोत्थ,Other_Unclassified | Symptom,2
+भगन्दर दुःसाध्य,Other_Unclassified | Symptom,2
+भगन्दर पक्व,Other_Unclassified | Symptom,2
+भगन्दर पक्व कृमि सहित,Other_Unclassified | Symptom,2
+भगन्दर षट,Other_Unclassified | Symptom,2
+भगन्दर सर्व,Other_Unclassified | Symptom,2
+भगन्दर सुदारुण,Other_Unclassified | Symptom,2
+भग्न,Other_Unclassified | Symptom,2
+भय भूत,Other_Unclassified | Symptom,2
+भस्मक,Other_Unclassified | Symptom,2
+भार कर्शितत्व,Other_Unclassified | Symptom,2
+भूनिम्बादि क्वाथ,Compound | Sub_Formulation,2
+भेकसदृशत्व शरीर त्वक,Other_Unclassified | Symptom,2
+भेदन गुल्म शूल सहित उपद्रव सहित,Other_Unclassified | Symptom,2
+भ्रम,Other_Unclassified | Symptom,2
+मञ्जिष्ठमेह,Other_Unclassified | Symptom,2
+मण्डल,Other_Unclassified | Symptom,2
+मण्डल रक्त,Other_Unclassified | Symptom,2
+मति भ्रंश,Other_Unclassified | Symptom,2
+मत्रकृच्छ्र,Other_Unclassified | Symptom,2
+मद,Herb | Other_Unclassified | Symptom,3
+मद न,Other_Unclassified | Symptom,2
+मदात्यय,Disease | Other_Unclassified | Symptom,3
+मदात्यय आदि,Other_Unclassified | Symptom,2
+मदात्यय कफज,Other_Unclassified | Symptom,2
+मदात्यय कफपित्तज,Other_Unclassified | Symptom,2
+मदात्यय कोद्रवज,Other_Unclassified | Symptom,2
+मदात्यय त्रिदोषज,Other_Unclassified | Symptom,2
+मदात्यय धस्तूरज,Other_Unclassified | Symptom,2
+मदात्यय पित्तज,Other_Unclassified | Symptom,2
+मदात्यय पूगीफलज,Other_Unclassified | Symptom,2
+मदात्यय मदनज,Other_Unclassified | Symptom,2
+मदात्यय वातज,Other_Unclassified | Symptom,2
+मधुर,Ayurvedic_Concept | Group | Herb,3
+मध्यम वयस् हित कर,Other_Unclassified | Symptom,2
+मनस् रोग,Other_Unclassified | Symptom,2
+मनस् विचेतस्त्व,Other_Unclassified | Symptom,2
+मन्दत्व अग्नि,Herb | Other_Unclassified | Symptom,3
+मन्दत्व दृष्टि,Other_Unclassified | Symptom,2
+मल,Ayurvedic_Concept | Herb,2
+मसूरिका,Other_Unclassified | Symptom,2
+महागद अष्ट,Other_Unclassified | Symptom,2
+महारोग,Other_Unclassified | Symptom,2
+महारोग 8,Other_Unclassified | Symptom,2
+महारोग अष्ट,Other_Unclassified | Symptom,2
+महारोग योगशतैः अपि अजित,Other_Unclassified | Symptom,2
+मांस,Ayurvedic_Concept | Herb,2
+मांस अधिक गात्रे,Other_Unclassified | Symptom,2
+मुखरोग,Disease | Other_Unclassified | Symptom,3
+मुखरोग ओष्ठगत,Other_Unclassified | Symptom,2
+मुखरोग ओष्ठगत ओष्ठकोपसंज्ञ अभिघातज,Other_Unclassified | Symptom,2
+मुखरोग ओष्ठगत ओष्ठकोपसंज्ञ कफज,Other_Unclassified | Symptom,2
+मुखरोग ओष्ठगत ओष्ठकोपसंज्ञ पित्तज,Other_Unclassified | Symptom,2
+मुखरोग ओष्ठगत ओष्ठकोपसंज्ञ मेदोज,Other_Unclassified | Symptom,2
+मुखरोग ओष्ठगत ओष्ठकोपसंज्ञ रक्तज,Other_Unclassified | Symptom,2
+मुखरोग ओष्ठगत ओष्ठकोपसंज्ञ वातज,Other_Unclassified | Symptom,2
+मुखरोग कण्ठगत,Other_Unclassified | Symptom,2
+मुखरोग कण्ठगत अधिजिह्वसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग कण्ठगत एकवृन्दसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग कण्ठगत गलविद्रधिसंज्ञ अमर्मस्थ सुपक्व,Other_Unclassified | Symptom,2
+मुखरोग कण्ठगत गिलायुसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग कण्ठगत रोहिणीसंज्ञ कफज,Other_Unclassified | Symptom,2
+मुखरोग कण्ठगत रोहिणीसंज्ञ पित्तज,Other_Unclassified | Symptom,2
+मुखरोग कण्ठगत रोहिणीसंज्ञ रक्तज,Other_Unclassified | Symptom,2
+मुखरोग कण्ठगत रोहिणीसंज्ञ वातज,Other_Unclassified | Symptom,2
+मुखरोग कण्ठगत रोहिणीसंज्ञ साध्य,Other_Unclassified | Symptom,2
+मुखरोग कण्ठगत शालूकसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग जिह्वागत उपजिह्वसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग जिह्वागत कण्टकसंज्ञ कफज,Other_Unclassified | Symptom,2
+मुखरोग जिह्वागत कण्टकसंज्ञ पित्तज,Other_Unclassified | Symptom,2
+मुखरोग जिह्वागत कण्टकसंज्ञ वातज,Other_Unclassified | Symptom,2
+मुखरोग तालुगत अध्रुषसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग तालुगत कच्छपसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग तालुगत गलशुण्डिकासंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग तालुगत तालुपाकसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग तालुगत तालुपुप्पुटसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग तालुगत तालुशोषसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग तालुगत तुण्डिकेरीसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग तालुगत मांससङ्घातसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत अधिदन्तसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत कपालिकासंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत कृमिदन्तकसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत कृमिदन्तकसंज्ञ दन्त अचल,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत कृमिदन्तकसंज्ञ दन्त चल,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत कृमिदन्तकसंज्ञ वेदना,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत कृमिदन्तकसंज्ञ शूल,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत चालसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत दन्ततोदसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत दन्तशब्दसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत दन्तशर्करासंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत दन्तशूलसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत दन्तहर्षसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत शीतादसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत सुषिरसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तगत हनुमोक्षसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तमूलगत अधिमांसकसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तमूलगत उपकुशसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तमूलगत दन्तनाडीसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तमूलगत दन्तनाडीसंज्ञ दन्त ऊर्ध्व,Other_Unclassified | Symptom,2
+मुखरोग दन्तमूलगत दन्तनाडीसंज्ञ दन्ते अधोदन्ते,Other_Unclassified | Symptom,2
+मुखरोग दन्तमूलगत दन्तपुप्पुटसंज्ञ तरुण,Other_Unclassified | Symptom,2
+मुखरोग दन्तमूलगत दन्तवेष्टसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तमूलगत परिदरसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तमूलगत विदर्भसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग दन्तमूलगत सुषिरसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग मुखपाकसंज्ञ,Other_Unclassified | Symptom,2
+मुखरोग सर्वसरसंज्ञ कफज,Other_Unclassified | Symptom,2
+मुखरोग सर्वसरसंज्ञ पित्तज,Other_Unclassified | Symptom,2
+मुखरोग सर्वसरसंज्ञ वातज,Other_Unclassified | Symptom,2
+मुष्कवृद्धि,Other_Unclassified | Symptom,2
+मुस्तादि क्वाथ,Compound | Sub_Formulation,2
+मूकत्व,Other_Unclassified | Symptom,2
+मूढवात,Other_Unclassified | Symptom,2
+मूत्र,Ayurvedic_Concept | Herb,2
+मूत्र दोष दारुण,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र,Ayurvedic_Concept | Disease | Herb | Other_Unclassified | Symptom,5
+मूत्रकृच्छ्र अभिघातज,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र अश्मरीज,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र अष्ट,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र असाध्य,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र उष्णवात,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र कफज,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र त्रिदोषज,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र त्रिदोषज कफाधिक,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र त्रिदोषज पित्ताधिक,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र त्रिदोषज वाताधिक,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र दारुण,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र दाह,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र दुःसह,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र पित्तज,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र पित्तज सर्व,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र पुरीषज,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र मूत्रशर्कराज,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र रक्त सहित,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र रक्तज,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र रक्तज मेढ्रग,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र रुजा,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र वातज,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र वातज शूल,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र विबन्ध,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र शुक्रविबन्धज,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र सर्व,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र साध्य,Other_Unclassified | Symptom,2
+मूत्रकृच्छ्र सुदारुण,Other_Unclassified | Symptom,2
+मूत्रकृछ्र,Other_Unclassified | Symptom,2
+मूत्रतिसार,Other_Unclassified | Symptom,2
+मूत्रदोष,Other_Unclassified | Symptom,2
+मूत्ररोग,Other_Unclassified | Symptom,2
+मूत्ररोग अशेष,Other_Unclassified | Symptom,2
+मूत्रशर्करा,Other_Unclassified | Symptom,2
+मूत्राघात,Disease | Other_Unclassified | Symptom,3
+मूत्राघात अष्ठीला,Other_Unclassified | Symptom,2
+मूत्राघात उष्णवात,Other_Unclassified | Symptom,2
+मूत्राघात क्षतज,Other_Unclassified | Symptom,2
+मूत्राघात घोर,Other_Unclassified | Symptom,2
+मूत्राघात त्रयोदश,Other_Unclassified | Symptom,2
+मूत्राघात पित्तज,Other_Unclassified | Symptom,2
+मूत्राघात मूत्रजठर,Other_Unclassified | Symptom,2
+मूत्राघात मूत्रातीत,Other_Unclassified | Symptom,2
+मूत्राघात वातकुण्डलिका,Other_Unclassified | Symptom,2
+मूत्राघात वातबस्ति,Other_Unclassified | Symptom,2
+मूत्राघात शल्यज,Other_Unclassified | Symptom,2
+मूत्राघात सर्व,Other_Unclassified | Symptom,2
+मूत्राघात सुदारूण,Other_Unclassified | Symptom,2
+मूत्रातिसार,Other_Unclassified | Symptom,2
+मूत्रातिसार उल्बण,Other_Unclassified | Symptom,2
+मूर्च्छा,Disease | Herb | Other_Unclassified | Symptom,4
+मूर्च्छा पित्तज,Other_Unclassified | Symptom,2
+मूर्च्छा मद्यज,Other_Unclassified | Symptom,2
+मूर्च्छा रक्तज,Other_Unclassified | Symptom,2
+मूर्च्छा विषज,Other_Unclassified | Symptom,2
+मूर्च्छा सर्व,Other_Unclassified | Symptom,2
+मृत्यु,Herb | Other_Unclassified | Symptom,3
+मृत्यु जलेन,Other_Unclassified | Symptom,2
+मृदु,Herb | Quality,2
+मृदुत्व क्लोम,Herb | Other_Unclassified | Symptom,3
+मृदू,Herb | Quality,2
+मेद,Ayurvedic_Concept | Other_Unclassified | Symptom,3
+मेदोरोग,Other_Unclassified | Symptom,2
+मेधा दुर्मेधा,Other_Unclassified | Symptom,2
+मेह प्रमेह,Other_Unclassified | Symptom,2
+मोह,Herb | Other_Unclassified | Symptom,3
+यकृत् रोग,Herb | Other_Unclassified | Symptom,3
+यकृत् वृद्धि,Other_Unclassified | Symptom,2
+यकृद्रोग,Other_Unclassified | Symptom,2
+यकृद्रोग रूप सर्व,Other_Unclassified | Symptom,2
+यक्ष्मा,Other_Unclassified | Symptom,2
+यक्ष्मा रक्त,Other_Unclassified | Symptom,2
+योनि दोष,Other_Unclassified | Symptom,2
+योनि रोग,Other_Unclassified | Symptom,2
+योनि रोग पित्तज,Other_Unclassified | Symptom,2
+योनिरोग,Other_Unclassified | Symptom,2
+रक्त,Ayurvedic_Concept | Other_Unclassified | Symptom,3
+रक्त दुष्टि,Other_Unclassified | Symptom,2
+रक्त दुष्टिज रोग,Other_Unclassified | Symptom,2
+रक्त स्राव,Herb | Other_Unclassified | Symptom,3
+रक्त स्राव उर,Other_Unclassified | Symptom,2
+रक्तदोष,Herb | Other_Unclassified | Symptom,3
+रक्तपित्त,Ayurvedic_Concept | Disease | Herb | Other_Unclassified | Symptom,5
+रक्तपित्त अधोग,Other_Unclassified | Symptom,2
+रक्तपित्त अधोग क्षीणबलमांसाग्नौ,Other_Unclassified | Symptom,2
+रक्तपित्त अवाम्ये,Other_Unclassified | Symptom,2
+रक्तपित्त अविरेच्ये,Other_Unclassified | Symptom,2
+रक्तपित्त उद्रिक्त बलिनि अश्नति,Other_Unclassified | Symptom,2
+रक्तपित्त ऊर्ध्वग,Herb | Other_Unclassified | Symptom,3
+रक्तपित्त ऊर्ध्वग अक्षीणबलमांसाग्नौ प्रवृद्धदोषे,Other_Unclassified | Symptom,2
+रक्तपित्त ऊर्ध्वग क्षीणबलमांसाग्नौ,Other_Unclassified | Symptom,2
+रक्तपित्त कर्ण गत,Other_Unclassified | Symptom,2
+रक्तपित्त क्षीणमांसबले,Other_Unclassified | Symptom,2
+रक्तपित्त गुद गत,Other_Unclassified | Symptom,2
+रक्तपित्त गुद प्रवृत्त,Other_Unclassified | Symptom,2
+रक्तपित्त चिर,Other_Unclassified | Symptom,2
+रक्तपित्त चिरोद्भव,Other_Unclassified | Symptom,2
+रक्तपित्त छर्दि उद्धत,Other_Unclassified | Symptom,2
+रक्तपित्त छर्दि रक्त,Other_Unclassified | Symptom,2
+रक्तपित्त ताप,Other_Unclassified | Symptom,2
+रक्तपित्त तीव्र,Other_Unclassified | Symptom,2
+रक्तपित्त त्रिदोषज,Other_Unclassified | Symptom,2
+रक्तपित्त त्रिविध,Other_Unclassified | Symptom,2
+रक्तपित्त द्वन्द्वज,Other_Unclassified | Symptom,2
+रक्तपित्त नासिका गत,Other_Unclassified | Symptom,2
+रक्तपित्त नासिका प्रवृत्त,Other_Unclassified | Symptom,2
+रक्तपित्त निष्ठीवन रक्त,Other_Unclassified | Symptom,2
+रक्तपित्त नेत्र गत,Other_Unclassified | Symptom,2
+रक्तपित्त बलवान् उभयग,Other_Unclassified | Symptom,2
+रक्तपित्त बाले,Other_Unclassified | Symptom,2
+रक्तपित्त मुख प्रवृत्त,Other_Unclassified | Symptom,2
+रक्तपित्त मेढ्र गत,Other_Unclassified | Symptom,2
+रक्तपित्त मेढ्र प्रवृत्त,Other_Unclassified | Symptom,2
+रक्तपित्त मेढ्र प्रवृत्त अति,Other_Unclassified | Symptom,2
+रक्तपित्त योनि प्रवृत्त,Other_Unclassified | Symptom,2
+रक्तपित्त रोमकूप गत,Other_Unclassified | Symptom,2
+रक्तपित्त वृद्धे,Other_Unclassified | Symptom,2
+रक्तपित्त वेग उदीर्ण,Other_Unclassified | Symptom,2
+रक्तपित्त शोष अनुबन्धिनि,Other_Unclassified | Symptom,2
+रक्तपित्त सर्वविध,Other_Unclassified | Symptom,2
+रक्तपित्त सुदारुण,Other_Unclassified | Symptom,2
+रक्तपित्तोत्थित रोग बहु,Other_Unclassified | Symptom,2
+रक्तप्रदर,Other_Unclassified | Symptom,2
+रक्तप्रदर स्त्री,Other_Unclassified | Symptom,2
+रक्तमूत्र,Other_Unclassified | Symptom,2
+रक्तमेह,Other_Unclassified | Symptom,2
+रक्तरोग,Other_Unclassified | Symptom,2
+रक्तरोग विविध,Other_Unclassified | Symptom,2
+रक्तरोग सर्व,Other_Unclassified | Symptom,2
+रक्तवात,Other_Unclassified | Symptom,2
+रजस् दोष,Other_Unclassified | Symptom,2
+रजोदोष दारुण,Other_Unclassified | Symptom,2
+रजोरोधज ताण्डवरोग,Other_Unclassified | Symptom,2
+रसायन,Herb | Other_Unclassified | Symptom,3
+राजयक्ष्मा,Disease | Herb | Other_Unclassified | Symptom,4
+राजयक्ष्मा अतिदारुण,Other_Unclassified | Symptom,2
+राजयक्ष्मा अत्युग्र,Other_Unclassified | Symptom,2
+राजयक्ष्मा असाध्य,Other_Unclassified | Symptom,2
+राजयक्ष्मा एकादशरूप,Other_Unclassified | Symptom,2
+राजयक्ष्मा क्षय,Other_Unclassified | Symptom,2
+राजयक्ष्मा क्षीण मांसे,Other_Unclassified | Symptom,2
+राजयक्ष्मा छर्दि रक्त,Other_Unclassified | Symptom,2
+राजयक्ष्मा ज्वर,Other_Unclassified | Symptom,2
+राजयक्ष्मा ज्वर आदि उपद्रव,Other_Unclassified | Symptom,2
+राजयक्ष्मा दाह,Other_Unclassified | Symptom,2
+राजयक्ष्मा दुःसाध्य,Other_Unclassified | Symptom,2
+राजयक्ष्मा दुर्जय,Other_Unclassified | Symptom,2
+राजयक्ष्मा दोषाधिके बलिनि,Other_Unclassified | Symptom,2
+राजयक्ष्मा दोषे अधिके,Other_Unclassified | Symptom,2
+राजयक्ष्मा पीनस आदि षड् रूप,Other_Unclassified | Symptom,2
+राजयक्ष्मा बहुरूप,Other_Unclassified | Symptom,2
+राजयक्ष्मा साध्य,Other_Unclassified | Symptom,2
+रुचिकर,Herb | Quality,2
+रुजा,Herb | Other_Unclassified | Symptom,3
+रुजा अंस,Other_Unclassified | Symptom,2
+रुजा उदर,Other_Unclassified | Symptom,2
+रुजा उल्बण ग्रीवा चिरभव,Other_Unclassified | Symptom,2
+रुजा कर्ण,Other_Unclassified | Symptom,2
+रुजा कुक्षि,Other_Unclassified | Symptom,2
+रुजा गुद,Other_Unclassified | Symptom,2
+रुजा घोर पार्श्व,Other_Unclassified | Symptom,2
+रुजा घोर हृदय,Other_Unclassified | Symptom,2
+रुजा दन्त,Other_Unclassified | Symptom,2
+रुजा नासा,Other_Unclassified | Symptom,2
+रुजा नेत्र,Other_Unclassified | Symptom,2
+रुजा पार्श्व,Other_Unclassified | Symptom,2
+रुजा बस्ति,Other_Unclassified | Symptom,2
+रुजा मुख,Other_Unclassified | Symptom,2
+रुजा योनि,Other_Unclassified | Symptom,2
+रुजा वङ्क्षण,Other_Unclassified | Symptom,2
+रुजा शिरस,Other_Unclassified | Symptom,2
+रुजा सर्व उदर,Other_Unclassified | Symptom,2
+रूक्ष,Herb | Quality,2
+रोग,Other_Unclassified | Symptom,2
+रोग अग्नि दुष्ट जन्य कोष्ठे,Other_Unclassified | Symptom,2
+रोग अनीक,Other_Unclassified | Symptom,2
+रोग अन्य,Other_Unclassified | Symptom,2
+रोग अयथापानज कफज सर्व,Other_Unclassified | Symptom,2
+रोग अयथापानज पित्तज सर्व,Other_Unclassified | Symptom,2
+रोग अयथापानज वातज सर्व,Other_Unclassified | Symptom,2
+रोग अर्शज सर्व,Other_Unclassified | Symptom,2
+रोग आमाशयोत्थ,Other_Unclassified | Symptom,2
+रोग उदरे,Other_Unclassified | Symptom,2
+रोग उपदंशज,Other_Unclassified | Symptom,2
+रोग एकदोषज,Other_Unclassified | Symptom,2
+रोग कर्शितत्व,Other_Unclassified | Symptom,2
+रोग ग्रहज सर्व,Other_Unclassified | Symptom,2
+रोग चिरकालानुबन्धिन,Other_Unclassified | Symptom,2
+रोग जल दोष उद्भव,Other_Unclassified | Symptom,2
+रोग तरुणे विशेषतः,Other_Unclassified | Symptom,2
+रोग त्रिदोषज,Other_Unclassified | Symptom,2
+रोग दारुण अन्य,Other_Unclassified | Symptom,2
+रोग दीर्घ,Other_Unclassified | Symptom,2
+रोग दुष्ट व्रण आदि,Other_Unclassified | Symptom,2
+रोग द्वन्द्वज,Other_Unclassified | Symptom,2
+रोग नाना,Other_Unclassified | Symptom,2
+रोग नाना उपद्रव सर्व सहित,Other_Unclassified | Symptom,2
+रोग प्रमेहज,Other_Unclassified | Symptom,2
+रोग फुफ्फुस सर्व,Other_Unclassified | Symptom,2
+रोग फुफ्फुसज,Other_Unclassified | Symptom,2
+रोग बहुविध चिरोत्थित,Other_Unclassified | Symptom,2
+रोग मद्यपानज सर्व,Other_Unclassified | Symptom,2
+रोग मनस् सर्व,Other_Unclassified | Symptom,2
+रोग महत,Other_Unclassified | Symptom,2
+रोग मृद्भक्षणज,Other_Unclassified | Symptom,2
+रोग रक्तज,Other_Unclassified | Symptom,2
+रोग वातकफज,Other_Unclassified | Symptom,2
+रोग वृद्धे विशेषतः,Other_Unclassified | Symptom,2
+रोग सकल,Other_Unclassified | Symptom,2
+रोग सङ्घात,Other_Unclassified | Symptom,2
+रोग सन्निपातज,Other_Unclassified | Symptom,2
+रोग सन्निपातज सर्व,Other_Unclassified | Symptom,2
+रोग समस्त,Other_Unclassified | Symptom,2
+रोग सर्व,Herb | Other_Unclassified | Symptom,3
+रोग सर्व अभिघातज,Other_Unclassified | Symptom,2
+रोग सर्व कृच्छ्रसाध्य,Other_Unclassified | Symptom,2
+रोग सुदुस्तर,Other_Unclassified | Symptom,2
+रोध मूत्र,Other_Unclassified | Symptom,2
+लघु,Herb | Quality,2
+लघुत्व,Other_Unclassified | Symptom,2
+लवण,Ayurvedic_Concept | Herb,2
+लशुनगन्ध मुख,Other_Unclassified | Symptom,2
+लसीकामेह,Disease | Other_Unclassified | Symptom,3
+लसीकामेह कफज,Other_Unclassified | Symptom,2
+लसीकामेह त्रिदोषज,Other_Unclassified | Symptom,2
+लसीकामेह दुर्बले,Other_Unclassified | Symptom,2
+लसीकामेह द्विदोषज,Other_Unclassified | Symptom,2
+लसीकामेह नव,Other_Unclassified | Symptom,2
+लसीकामेह पित्तज,Other_Unclassified | Symptom,2
+लसीकामेह प्रौढभावगत,Other_Unclassified | Symptom,2
+लसीकामेह बल अन्वित,Other_Unclassified | Symptom,2
+लसीकामेह भयङ्कर,Other_Unclassified | Symptom,2
+लसीकामेह यूवन,Other_Unclassified | Symptom,2
+लसीकामेह वातज,Other_Unclassified | Symptom,2
+लसीकामेह वृद्धे,Other_Unclassified | Symptom,2
+लेखन,Group | Herb,2
+लेप,Compound | Herb,2
+वन्ध्यत्व स्त्री,Other_Unclassified | Symptom,2
+वन्ध्या,Other_Unclassified | Symptom,2
+वमन,Group | Herb,2
+वमि छर्दि,Other_Unclassified | Symptom,2
+वरुणाद्य तैल,Compound | Sub_Formulation,2
+वर्ण सवर्ण कर,Other_Unclassified | Symptom,2
+वर्णभेद,Other_Unclassified | Symptom,2
+वर्णरोग,Other_Unclassified | Symptom,2
+वर्ण्य,Group | Herb,2
+वर्धन अग्नि,Herb | Other_Unclassified | Symptom,3
+वर्धन अत्यर्थ शुक्र,Other_Unclassified | Symptom,2
+वलि,Other_Unclassified | Symptom,2
+वलि विवृद्ध,Other_Unclassified | Symptom,2
+वली,Other_Unclassified | Symptom,2
+वल्मीक,Other_Unclassified | Symptom,2
+वह्निदग्ध दाह,Other_Unclassified | Symptom,2
+वह्निदग्ध पाक व्रण,Other_Unclassified | Symptom,2
+वह्निदग्ध विबन्ध मूत्र पुरीष,Other_Unclassified | Symptom,2
+वह्निदग्ध वेदना,Other_Unclassified | Symptom,2
+वह्निदग्ध सम्यक,Other_Unclassified | Symptom,2
+वात,Ayurvedic_Concept | Herb | Other_Unclassified | Symptom,4
+वात अतिप्रबल,Other_Unclassified | Symptom,2
+वात अस्थिगत,Other_Unclassified | Symptom,2
+वात ऊरु,Other_Unclassified | Symptom,2
+वात कटि,Other_Unclassified | Symptom,2
+वात कोष्ठ आश्रित,Other_Unclassified | Symptom,2
+वात गुद,Other_Unclassified | Symptom,2
+वात प्रकोप,Other_Unclassified | Symptom,2
+वात मज्जगत,Other_Unclassified | Symptom,2
+वात मेढ्र,Other_Unclassified | Symptom,2
+वात रोग,Other_Unclassified | Symptom,2
+वात रोग सर्व,Other_Unclassified | Symptom,2
+वात वक्षगत,Other_Unclassified | Symptom,2
+वात शाखागत,Other_Unclassified | Symptom,2
+वात सन्धिगत,Other_Unclassified | Symptom,2
+वात सर्व,Other_Unclassified | Symptom,2
+वातकफरोग,Other_Unclassified | Symptom,2
+वातकुण्डल,Other_Unclassified | Symptom,2
+वातज सोमरोग,Other_Unclassified | Symptom,2
+वातपित्त,Other_Unclassified | Symptom,2
+वातपित्त प्रकोप,Other_Unclassified | Symptom,2
+वातपित्त रोग,Other_Unclassified | Symptom,2
+वातरक्त,Other_Unclassified | Symptom,2
+वातरक्त उत्तान,Other_Unclassified | Symptom,2
+वातरक्त गम्भीर,Other_Unclassified | Symptom,2
+वातरक्त दारुण,Other_Unclassified | Symptom,2
+वातरक्त पित्तज,Other_Unclassified | Symptom,2
+वातरक्त सुदारुण,Other_Unclassified | Symptom,2
+वातरक्त सुदुर्जय,Other_Unclassified | Symptom,2
+वातरोग,Other_Unclassified | Symptom,2
+वातरोग अशीति,Other_Unclassified | Symptom,2
+वातरोग अशेष,Other_Unclassified | Symptom,2
+वातरोग दारुण,Other_Unclassified | Symptom,2
+वातरोग पित्तान्वित,Other_Unclassified | Symptom,2
+वातरोग विविध,Other_Unclassified | Symptom,2
+वातरोग सर्व,Other_Unclassified | Symptom,2
+वातव्याधि,Other_Unclassified | Symptom,2
+विकर्तिका,Other_Unclassified | Symptom,2
+विकलत्व कर्ण,Other_Unclassified | Symptom,2
+विकलत्व नासा,Other_Unclassified | Symptom,2
+विकलत्व मुख,Other_Unclassified | Symptom,2
+विकार यकृत,Other_Unclassified | Symptom,2
+विचर्चिका,Other_Unclassified | Symptom,2
+विद्रधि,Other_Unclassified | Symptom,2
+विद्रधि अन्तर्विद्रधि,Other_Unclassified | Symptom,2
+विद्रधि अभ्यन्तर,Other_Unclassified | Symptom,2
+विद्रधि आगन्तुज,Other_Unclassified | Symptom,2
+विद्रधि आभ्यन्तर,Other_Unclassified | Symptom,2
+विद्रधि आभ्यन्तर अपक्व,Other_Unclassified | Symptom,2
+विद्रधि आभ्यन्तर उग्र,Other_Unclassified | Symptom,2
+विद्रधि आभ्यन्तर उद्धत,Other_Unclassified | Symptom,2
+विद्रधि आम,Other_Unclassified | Symptom,2
+विद्रधि कफज,Herb | Other_Unclassified | Symptom,3
+विद्रधि कफज व्रण,Other_Unclassified | Symptom,2
+विद्रधि कफज शूल,Other_Unclassified | Symptom,2
+विद्रधि कफज शोथ,Other_Unclassified | Symptom,2
+विद्रधि क्लोम,Herb | Other_Unclassified | Symptom,3
+विद्रधि क्लोमज,Other_Unclassified | Symptom,2
+विद्रधि गले,Other_Unclassified | Symptom,2
+विद्रधि पक्व,Other_Unclassified | Symptom,2
+विद्रधि पित्तज,Other_Unclassified | Symptom,2
+विद्रधि बाह्य,Other_Unclassified | Symptom,2
+विद्रधि रक्तज,Other_Unclassified | Symptom,2
+विद्रधि वातज,Other_Unclassified | Symptom,2
+विद्रधि वातज अपक्व,Other_Unclassified | Symptom,2
+विद्रधि व्रण,Other_Unclassified | Symptom,2
+विद्रधि सर्व,Other_Unclassified | Symptom,2
+विध्वंसन रोम,Other_Unclassified | Symptom,2
+विनिग्रह ग्रह पुरीष,Other_Unclassified | Symptom,2
+विनिग्रह ग्रह वात,Other_Unclassified | Symptom,2
+विपादिका,Other_Unclassified | Symptom,2
+विबद्धत्व,Other_Unclassified | Symptom,2
+विबन्ध,Herb | Other_Unclassified | Symptom,3
+विबन्ध उरस,Other_Unclassified | Symptom,2
+विबन्ध पुरीष,Herb | Other_Unclassified | Symptom,3
+विबन्ध पुरीष मूत्र,Other_Unclassified | Symptom,2
+विबन्ध मूत्र,Other_Unclassified | Symptom,2
+विबन्धत्व मूत्र,Other_Unclassified | Symptom,2
+विमूढत्व वात,Other_Unclassified | Symptom,2
+विरसत्व,Mineral | Symptom,2
+विरेचन,Group | Herb,2
+विलम्बिका,Other_Unclassified | Symptom,2
+विवर्णत्व गात्र,Other_Unclassified | Symptom,2
+विवर्धन प्राण,Other_Unclassified | Symptom,2
+विशीर्णत्व त्वक,Other_Unclassified | Symptom,2
+विशीर्णत्व मांस आदि,Other_Unclassified | Symptom,2
+विशीर्णत्व शरीर रोगेण,Other_Unclassified | Symptom,2
+विशुष्कत्व कफ,Other_Unclassified | Symptom,2
+विशोधन मेदस,Other_Unclassified | Symptom,2
+विष,Herb | Other_Unclassified | Symptom,3
+विष गरविष,Other_Unclassified | Symptom,2
+विष गरविष अर्दित,Other_Unclassified | Symptom,2
+विष च्छुच्छुन्दर,Other_Unclassified | Symptom,2
+विष दंष्ट्रा,Other_Unclassified | Symptom,2
+विष दन्त,Other_Unclassified | Symptom,2
+विष नख,Other_Unclassified | Symptom,2
+विष पान,Other_Unclassified | Symptom,2
+विष मूल,Other_Unclassified | Symptom,2
+विष लूता,Other_Unclassified | Symptom,2
+विष विविध,Other_Unclassified | Symptom,2
+विष सर्व,Other_Unclassified | Symptom,2
+विषमज्वर,Other_Unclassified | Symptom,2
+विसर्प,Disease | Other_Unclassified | Symptom,3
+विसर्प आदि,Other_Unclassified | Symptom,2
+विसर्प कफज,Other_Unclassified | Symptom,2
+विसर्प ज्वर,Other_Unclassified | Symptom,2
+विसर्प दारुण,Other_Unclassified | Symptom,2
+विसर्प द्वन्द्वज,Other_Unclassified | Symptom,2
+विसर्प पित्तज,Other_Unclassified | Symptom,2
+विसर्प वातज,Other_Unclassified | Symptom,2
+विसर्प सर्व,Other_Unclassified | Symptom,2
+विसर्प सर्व विपक्व,Other_Unclassified | Symptom,2
+विसूचिका,Other_Unclassified | Symptom,2
+विस्फोट,Disease | Other_Unclassified | Symptom,3
+विस्फोट अर्ति,Other_Unclassified | Symptom,2
+विस्फोट कफज,Other_Unclassified | Symptom,2
+विस्फोट त्रिदोषज,Other_Unclassified | Symptom,2
+विस्फोट दाह,Other_Unclassified | Symptom,2
+विस्फोट पित्तज,Other_Unclassified | Symptom,2
+विस्फोट वर्ण काल,Other_Unclassified | Symptom,2
+विस्फोट वर्ण ताम्र,Other_Unclassified | Symptom,2
+विस्फोट वातज,Other_Unclassified | Symptom,2
+विस्फोट वेदना सहित,Other_Unclassified | Symptom,2
+विस्फोट व्रण,Other_Unclassified | Symptom,2
+विस्फोट सर्व,Other_Unclassified | Symptom,2
+विस्फोटक,Other_Unclassified | Symptom,2
+वीसर्प,Other_Unclassified | Symptom,2
+वृक्करोग,Disease | Herb | Other_Unclassified | Symptom,4
+वृक्करोग निखिल,Other_Unclassified | Symptom,2
+वृक्करोग विबन्ध पुरीष,Other_Unclassified | Symptom,2
+वृद्ध,Herb | Other_Unclassified | Symptom,3
+वृद्ध हित कर,Other_Unclassified | Symptom,2
+वृद्धि अन्त्रज सुदारुण,Other_Unclassified | Symptom,2
+वृद्धि प्लीहा,Other_Unclassified | Symptom,2
+वृद्धि मांस,Other_Unclassified | Symptom,2
+वृद्धि यकृत,Other_Unclassified | Symptom,2
+वृद्धिरोग,Disease | Other_Unclassified | Symptom,3
+वृद्धिरोग अन्त्रज,Other_Unclassified | Symptom,2
+वृद्धिरोग अन्त्रज असाध्य,Other_Unclassified | Symptom,2
+वृद्धिरोग अन्त्रज आध्मान,Other_Unclassified | Symptom,2
+वृद्धिरोग अन्त्रज शूल,Other_Unclassified | Symptom,2
+वृद्धिरोग कफज,Other_Unclassified | Symptom,2
+वृद्धिरोग चिरज,Other_Unclassified | Symptom,2
+वृद्धिरोग चिरज प्रवृद्ध,Other_Unclassified | Symptom,2
+वृद्धिरोग पित्तज,Other_Unclassified | Symptom,2
+वृद्धिरोग पित्तज दाह,Other_Unclassified | Symptom,2
+वृद्धिरोग पित्तज रुजा,Other_Unclassified | Symptom,2
+वृद्धिरोग पित्तज शोथ,Other_Unclassified | Symptom,2
+वृद्धिरोग बद्धमूल दृढ,Other_Unclassified | Symptom,2
+वृद्धिरोग मूत्रज,Other_Unclassified | Symptom,2
+वृद्धिरोग मेदोज,Other_Unclassified | Symptom,2
+वृद्धिरोग रक्तज,Other_Unclassified | Symptom,2
+वृद्धिरोग रक्तज आम पक्व वा,Other_Unclassified | Symptom,2
+वृद्धिरोग रुद्धान्त्र,Other_Unclassified | Symptom,2
+वृद्धिरोग रुद्धान्त्र रुजा आकुञ्चन आक्षेपज,Other_Unclassified | Symptom,2
+वृद्धिरोग वातज,Other_Unclassified | Symptom,2
+वृद्धिरोग वातज चिरकालानुबन्धिन,Other_Unclassified | Symptom,2
+वृद्धिरोग वातज दारुण,Other_Unclassified | Symptom,2
+वृद्धिरोग सर्व,Other_Unclassified | Symptom,2
+वृषणरोग सर्व,Other_Unclassified | Symptom,2
+वैस्वर्य,Other_Unclassified | Symptom,2
+व्यङ्ग,Other_Unclassified | Symptom,2
+व्यवाय कर्शितत्व,Other_Unclassified | Symptom,2
+व्रण,Herb | Other_Unclassified | Symptom,3
+व्रण उद्धत,Other_Unclassified | Symptom,2
+व्रण उपदंशज,Other_Unclassified | Symptom,2
+व्रण ओष्ठ,Other_Unclassified | Symptom,2
+व्रण क्लिन्न,Other_Unclassified | Symptom,2
+व्रण घोर,Other_Unclassified | Symptom,2
+व्रण दुष्ट,Other_Unclassified | Symptom,2
+व्रण दुष्ट अनेकधा,Other_Unclassified | Symptom,2
+व्रण दुष्ट चिर,Other_Unclassified | Symptom,2
+व्रण महत् चिरजात,Other_Unclassified | Symptom,2
+व्रण वातज आदि,Other_Unclassified | Symptom,2
+व्रण विष दूषित,Other_Unclassified | Symptom,2
+व्रण शोधन,Group | Herb,2
+व्रण सर्व,Other_Unclassified | Symptom,2
+व्रणमेह,Other_Unclassified | Symptom,2
+व्रणशोथ,Other_Unclassified | Symptom,2
+शतावरी घृत,Compound | Sub_Formulation,2
+शमन उरस्तोय न,Other_Unclassified | Symptom,2
+शर्करा,Herb | Other_Unclassified | Symptom,3
+शिरःशूल,Other_Unclassified | Symptom,2
+शिरोगद शिरोरोग,Other_Unclassified | Symptom,2
+शिरोरोग,Other_Unclassified | Symptom,2
+शिरोरोग सुदारुण,Other_Unclassified | Symptom,2
+शीत,Herb | Quality,2
+शीतत्व,Other_Unclassified | Symptom,2
+शीतत्व हस्त आदि,Herb | Other_Unclassified | Symptom,3
+शीतपित्त,Other_Unclassified | Symptom,2
+शुक्र,Ayurvedic_Concept | Herb,2
+शुक्र दोष,Other_Unclassified | Symptom,2
+शुक्र दोष दारुण,Other_Unclassified | Symptom,2
+शुक्रदोष,Other_Unclassified | Symptom,2
+शुक्रमेह,Disease | Other_Unclassified | Symptom,3
+शुक्रमेह दारुण भृशम,Other_Unclassified | Symptom,2
+शुष्कत्व विषमाशनज,Other_Unclassified | Symptom,2
+शूकदोष गुह्यरोग,Other_Unclassified | Symptom,2
+शून्यत्व त्वक,Other_Unclassified | Symptom,2
+शूल,Ayurvedic_Concept | Herb | Other_Unclassified | Symptom,4
+शूल अङ्ग सर्व,Other_Unclassified | Symptom,2
+शूल अन्नद्रव,Other_Unclassified | Symptom,2
+शूल अम्लपित्तज असाध्य,Other_Unclassified | Symptom,2
+शूल अष्टविध,Other_Unclassified | Symptom,2
+शूल अष्टविध साध्य असाध्य वा,Other_Unclassified | Symptom,2
+शूल आमज,Other_Unclassified | Symptom,2
+शूल उदर,Other_Unclassified | Symptom,2
+शूल ऊरु,Other_Unclassified | Symptom,2
+शूल कटि,Other_Unclassified | Symptom,2
+शूल कटी,Other_Unclassified | Symptom,2
+शूल कुक्षि,Other_Unclassified | Symptom,2
+शूल गुद,Other_Unclassified | Symptom,2
+शूल त्रिदोषज,Other_Unclassified | Symptom,2
+शूल नेत्र,Other_Unclassified | Symptom,2
+शूल परिणामज,Other_Unclassified | Symptom,2
+शूल परिणामशूल,Other_Unclassified | Symptom,2
+शूल पार्श्व,Other_Unclassified | Symptom,2
+शूल पार्श्वशूल,Other_Unclassified | Symptom,2
+शूल पित्तकफज,Other_Unclassified | Symptom,2
+शूल पित्तज,Other_Unclassified | Symptom,2
+शूल पृष्ठ,Other_Unclassified | Symptom,2
+शूल प्लीहन,Other_Unclassified | Symptom,2
+शूल बस्ति,Other_Unclassified | Symptom,2
+शूल बस्ति दुःसह,Other_Unclassified | Symptom,2
+शूल मूत्रज ??,Other_Unclassified | Symptom,2
+शूल मेढ्र,Other_Unclassified | Symptom,2
+शूल यकृत,Other_Unclassified | Symptom,2
+शूल योनि,Other_Unclassified | Symptom,2
+शूल योनि सर्वज,Other_Unclassified | Symptom,2
+शूल रक्तज,Other_Unclassified | Symptom,2
+शूल वङ्क्षण,Other_Unclassified | Symptom,2
+शूल वातज,Other_Unclassified | Symptom,2
+शूल विबन्धज,Other_Unclassified | Symptom,2
+शूल शिरस,Herb | Other_Unclassified | Symptom,3
+शूल सर्व,Other_Unclassified | Symptom,2
+शूल हदय,Other_Unclassified | Symptom,2
+शूल हृदय,Other_Unclassified | Symptom,2
+शोथ,Disease | Herb | Other_Unclassified | Symptom,4
+शोथ अनुत्पत्ति मुख अन्तर्भाग,Other_Unclassified | Symptom,2
+शोथ असाध्य,Other_Unclassified | Symptom,2
+शोथ आगन्तु,Other_Unclassified | Symptom,2
+शोथ आगन्तु भल्लातकज,Other_Unclassified | Symptom,2
+शोथ उदर,Other_Unclassified | Symptom,2
+शोथ उदर हस्त पाद मुख आश्रित,Other_Unclassified | Symptom,2
+शोथ एकदोषज,Other_Unclassified | Symptom,2
+शोथ एकाङ्गज,Other_Unclassified | Symptom,2
+शोथ कफज,Other_Unclassified | Symptom,2
+शोथ कफपित्तज,Other_Unclassified | Symptom,2
+शोथ कर्ण,Other_Unclassified | Symptom,2
+शोथ गुद,Other_Unclassified | Symptom,2
+शोथ गुरु,Other_Unclassified | Symptom,2
+शोथ जलज,Other_Unclassified | Symptom,2
+शोथ जलदोषज,Other_Unclassified | Symptom,2
+शोथ ज्वर अतिसार सहित,Other_Unclassified | Symptom,2
+शोथ त्रिदोषज,Other_Unclassified | Symptom,2
+शोथ त्रिदोषज चिरज प्रवृद्ध,Other_Unclassified | Symptom,2
+शोथ दन्त,Other_Unclassified | Symptom,2
+शोथ दुस्तर,Other_Unclassified | Symptom,2
+शोथ द्वन्द्वज,Other_Unclassified | Symptom,2
+शोथ नाना उपद्रव सहित,Other_Unclassified | Symptom,2
+शोथ नानाविध,Other_Unclassified | Symptom,2
+शोथ पित्तज,Other_Unclassified | Symptom,2
+शोथ प्रवृद्ध,Other_Unclassified | Symptom,2
+शोथ बहुविध,Other_Unclassified | Symptom,2
+शोथ मलज,Other_Unclassified | Symptom,2
+शोथ महत,Other_Unclassified | Symptom,2
+शोथ यकृत,Other_Unclassified | Symptom,2
+शोथ वातकफज,Other_Unclassified | Symptom,2
+शोथ वातज,Other_Unclassified | Symptom,2
+शोथ विरुद्ध औषधज,Other_Unclassified | Symptom,2
+शोथ वृषण,Other_Unclassified | Symptom,2
+शोथ शिरस,Other_Unclassified | Symptom,2
+शोथ शूल सहित,Other_Unclassified | Symptom,2
+शोथ सर्व,Other_Unclassified | Symptom,2
+शोथ सर्वज,Other_Unclassified | Symptom,2
+शोथ सर्वाङ्ग,Other_Unclassified | Symptom,2
+शोथ सर्वाङ्गज,Other_Unclassified | Symptom,2
+शोथ सर्वाङ्गज अनेकप्रकार,Other_Unclassified | Symptom,2
+शोथ सर्वाङ्गज एकाङ्गज,Other_Unclassified | Symptom,2
+शोथ सुदारुण,Other_Unclassified | Symptom,2
+शोथ सुदारुण घोर,Other_Unclassified | Symptom,2
+शोथ सुदुर्जय,Other_Unclassified | Symptom,2
+शोथ सुदुर्ज्जय,Other_Unclassified | Symptom,2
+शोथ हनुमूल,Other_Unclassified | Symptom,2
+शोफ,Other_Unclassified | Symptom,2
+शोष,Other_Unclassified | Symptom,2
+शोष अध्वज,Other_Unclassified | Symptom,2
+शोष तालु,Herb | Other_Unclassified | Symptom,3
+शोष धातु,Other_Unclassified | Symptom,2
+शोष मुख,Other_Unclassified | Symptom,2
+शोष व्यवायज,Other_Unclassified | Symptom,2
+शोष सकल,Other_Unclassified | Symptom,2
+श्रम,Herb | Other_Unclassified | Symptom,3
+श्रम कर्शितत्व,Other_Unclassified | Symptom,2
+श्लीपद,Other_Unclassified | Symptom,2
+श्वयथु,Other_Unclassified | Symptom,2
+श्वास,Other_Unclassified | Symptom,2
+श्वास तमक,Other_Unclassified | Symptom,2
+श्वास तमकश्वास,Other_Unclassified | Symptom,2
+श्वास दारुण,Other_Unclassified | Symptom,2
+श्वास महत,Other_Unclassified | Symptom,2
+श्वास सुदारुण,Other_Unclassified | Symptom,2
+श्वित्र,Other_Unclassified | Symptom,2
+श्वित्र ओष्ठे,Other_Unclassified | Symptom,2
+श्वित्र कृच्छ्र,Other_Unclassified | Symptom,2
+श्वित्र चतुर्विध,Other_Unclassified | Symptom,2
+श्वित्र मुखे,Other_Unclassified | Symptom,2
+श्वित्र सर्व,Other_Unclassified | Symptom,2
+संग्रह एक अङ्ग,Other_Unclassified | Symptom,2
+संग्रह सर्वाङ्ग,Other_Unclassified | Symptom,2
+संग्रहग्रहणी,Other_Unclassified | Symptom,2
+संग्रहणी,Other_Unclassified | Symptom,2
+संन्यास वातपित्तज,Other_Unclassified | Symptom,2
+संशुद्धि इन्द्रिय,Other_Unclassified | Symptom,2
+संशुद्धि कोष्ठ,Other_Unclassified | Symptom,2
+संशुद्धि शिरस,Other_Unclassified | Symptom,2
+संशुद्धि हृदय,Other_Unclassified | Symptom,2
+सङ्कोच बाहु,Other_Unclassified | Symptom,2
+सङ्ग पुरीष,Other_Unclassified | Symptom,2
+सङ्घात रक्त क्लोम,Other_Unclassified | Symptom,2
+सन्ताप,Herb | Other_Unclassified | Symptom,3
+सन्निपात,Other_Unclassified | Symptom,2
+सन्निपात असाध्य,Other_Unclassified | Symptom,2
+सन्निपात घोर,Other_Unclassified | Symptom,2
+सन्निपात सुदारुण,Other_Unclassified | Symptom,2
+सन्निपातरोग,Other_Unclassified | Symptom,2
+समशर्कर चूर्ण,Compound | Sub_Formulation,2
+समीर वात,Other_Unclassified | Symptom,2
+सर्पविष,Other_Unclassified | Symptom,2
+सर्वदोष उद्भवरोग,Other_Unclassified | Symptom,2
+सर्वरोग,Other_Unclassified | Symptom,2
+सर्वाङ्गवात,Other_Unclassified | Symptom,2
+सारस्वत चूर्ण,Compound | Sub_Formulation,2
+सितोपलादि चूर्ण,Compound | Sub_Formulation,2
+सुप्तत्व,Other_Unclassified | Symptom,2
+सुप्तत्व जिह्वा,Other_Unclassified | Symptom,2
+सुरागन्ध मुख,Other_Unclassified | Symptom,2
+सूतिकारोग,Other_Unclassified | Symptom,2
+सोमरोग,Other_Unclassified | Symptom,2
+सोमरोग $ बहुमूत्र,Other_Unclassified | Symptom,2
+सोमरोग बहुविध,Other_Unclassified | Symptom,2
+सोमरोग सन्निपातिक,Other_Unclassified | Symptom,2
+स्खालित्य,Other_Unclassified | Symptom,2
+स्खालित्यरोग,Disease | Other_Unclassified | Symptom,3
+स्तम्भ कटि,Other_Unclassified | Symptom,2
+स्तम्भ बाहु,Other_Unclassified | Symptom,2
+स्त्राव रक्त,Other_Unclassified | Symptom,2
+स्त्री रोग,Other_Unclassified | Symptom,2
+स्त्री रोग सर्व,Other_Unclassified | Symptom,2
+स्त्रीप्रसक्तत्व,Other_Unclassified | Symptom,2
+स्त्रीरोग अखिल,Other_Unclassified | Symptom,2
+स्थूलत्व उदर,Other_Unclassified | Symptom,2
+स्थौल्य,Other_Unclassified | Symptom,2
+स्नायुकरोग,Disease | Other_Unclassified | Symptom,3
+स्नायुकरोग अत्युग्र,Other_Unclassified | Symptom,2
+स्नायुकरोग उत्पत्ति स्थान अन्तर,Other_Unclassified | Symptom,2
+स्नायुकरोग व्रण,Other_Unclassified | Symptom,2
+स्नायुकरोग शोथ शान्ति,Other_Unclassified | Symptom,2
+स्नायुरोग,Disease | Other_Unclassified | Symptom,3
+स्नायुरोग सर्व,Other_Unclassified | Symptom,2
+स्नायुरोग सर्व स्नायुशूल सर्व,Other_Unclassified | Symptom,2
+स्नायुरोग स्नायुशूल,Other_Unclassified | Symptom,2
+स्नायुरोग स्नायुशूल सञ्चय पुरीष,Other_Unclassified | Symptom,2
+स्नायूरोग,Other_Unclassified | Symptom,2
+स्निग्ध,Herb | Quality,2
+स्पर्शवात,Other_Unclassified | Symptom,2
+स्फुटितत्व ओष्ठ,Other_Unclassified | Symptom,2
+स्फुटितत्व पाद,Other_Unclassified | Symptom,2
+स्फोट दुष्ट,Other_Unclassified | Symptom,2
+स्फोट परिस्फोट पाद,Other_Unclassified | Symptom,2
+स्फोट परिस्फोट हस्त,Other_Unclassified | Symptom,2
+स्मृति भ्रंश,Other_Unclassified | Symptom,2
+स्मृतिनाश आगन्तु भूतज,Other_Unclassified | Symptom,2
+स्मृतिनाश दोषज,Other_Unclassified | Symptom,2
+स्राव किट्ट दुर्जर देहात,Other_Unclassified | Symptom,2
+स्राव गलगण्ड,Herb | Other_Unclassified | Symptom,3
+स्राव दारुण पूय कर्ण,Other_Unclassified | Symptom,2
+स्राव निःसरण गुदात,Other_Unclassified | Symptom,2
+स्राव पिच्छा,Other_Unclassified | Symptom,2
+स्राव पिच्छा विविध,Other_Unclassified | Symptom,2
+स्राव महत् रक्त स्त्री,Other_Unclassified | Symptom,2
+स्राव रक्त,Herb | Other_Unclassified | Symptom,3
+स्राव रक्त दन्त,Other_Unclassified | Symptom,2
+स्राव रक्त मुख,Other_Unclassified | Symptom,2
+स्राव रक्त वेगित शस्त्रक्षतात,Other_Unclassified | Symptom,2
+स्राव लोह देहात,Other_Unclassified | Symptom,2
+स्वरक्षय,Other_Unclassified | Symptom,2
+स्वरभङ्ग,Other_Unclassified | Symptom,2
+स्वरभेद,Disease | Other_Unclassified | Symptom,3
+स्वरभेद अशेष,Other_Unclassified | Symptom,2
+स्वरभेद उच्चभाषणज,Other_Unclassified | Symptom,2
+स्वरभेद कफज,Other_Unclassified | Symptom,2
+स्वरभेद क्षयज,Other_Unclassified | Symptom,2
+स्वरभेद जलदोषज,Other_Unclassified | Symptom,2
+स्वरभेद त्रिदोषज,Other_Unclassified | Symptom,2
+स्वरभेद पित्तज,Other_Unclassified | Symptom,2
+स्वरभेद मेदोज,Other_Unclassified | Symptom,2
+स्वरभेद वातज,Other_Unclassified | Symptom,2
+स्वरभेद सर्वज,Other_Unclassified | Symptom,2
+स्वरभेदं,Other_Unclassified | Symptom,2
+स्वररोग,Other_Unclassified | Symptom,2
+स्वराघात,Other_Unclassified | Symptom,2
+स्वेद,Ayurvedic_Concept | Herb | Other_Unclassified | Symptom,4
+स्वेद हस्त,Herb | Other_Unclassified | Symptom,3
+स्वेद हृदय,Other_Unclassified | Symptom,2
+हतत्व ओजस,Herb | Other_Unclassified | Symptom,3
+हनुस्तम्भ,Other_Unclassified | Symptom,2
+हरिद्रामेह,Other_Unclassified | Symptom,2
+हलीमक,Other_Unclassified | Symptom,2
+हिक्का,Herb | Other_Unclassified | Symptom,3
+हिक्का दारुणा,Other_Unclassified | Symptom,2
+हिक्का वातज,Other_Unclassified | Symptom,2
+हिक्कां,Other_Unclassified | Symptom,2
+हृदयरोग,Herb | Other_Unclassified | Symptom,3
+हृद्य,Group | Herb | Quality,3
+हृद्रोग,Other_Unclassified | Symptom,2
+हृद्रोग आयामिका,Other_Unclassified | Symptom,2
+हृद्रोग आवरणिक,Other_Unclassified | Symptom,2
+हृद्रोग उद्धत,Other_Unclassified | Symptom,2
+हृद्रोग कफज,Other_Unclassified | Symptom,2
+हृद्रोग कफज उपद्रव सहित,Other_Unclassified | Symptom,2
+हृद्रोग कृमिज,Other_Unclassified | Symptom,2
+हृद्रोग कौष्ठिक,Other_Unclassified | Symptom,2
+हृद्रोग त्रिदोषज,Other_Unclassified | Symptom,2
+हृद्रोग निखिल,Other_Unclassified | Symptom,2
+हृद्रोग परिक्षय,Other_Unclassified | Symptom,2
+हृद्रोग पित्तज,Other_Unclassified | Symptom,2
+हृद्रोग पृथुक,Other_Unclassified | Symptom,2
+हृद्रोग मेदःसूत्र,Other_Unclassified | Symptom,2
+हृद्रोग रोग,Other_Unclassified | Symptom,2
+हृद्रोग वातज,Other_Unclassified | Symptom,2
+हृद्रोग विक्षेपिका घोर,Other_Unclassified | Symptom,2
+हृद्रोग सन्निपातज,Other_Unclassified | Symptom,2
+हृद्रोग सर्व,Other_Unclassified | Symptom,2
+हृल्लास,Other_Unclassified | Symptom,2
+हेमगर्भ,Compound | Herb,2

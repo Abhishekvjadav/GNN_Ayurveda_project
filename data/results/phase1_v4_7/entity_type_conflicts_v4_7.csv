@@ -1,0 +1,121 @@
+﻿entity,types,num_types
+-,Other_Unclassified | Quality,2
+अग्नि,Ayurvedic_Concept | Group | Other_Unclassified,3
+अधिक निद्रा,Ayurvedic_Concept | Other_Unclassified,2
+अपस्मार,Disease | Symptom,2
+अमृतप्राश घृत,Compound | Sub_Formulation,2
+अमृता,Herb | Other_Unclassified,2
+अम्ल,Ayurvedic_Concept | Other_Unclassified,2
+अम्लपित्त,Disease | Symptom,2
+अरोचक,Disease | Symptom,2
+अर्क,Compound | Other_Unclassified,2
+अवलेह,Compound | Sub_Formulation,2
+अशोकारिष्ट,Compound | Other_Unclassified,2
+अश्मरी,Disease | Symptom,2
+आलस्य,Ayurvedic_Concept | Other_Unclassified,2
+उन्माद,Disease | Symptom,2
+उपदंश,Disease | Symptom,2
+उरस्तोय,Disease | Symptom,2
+उशीर चूर्ण,Compound | Sub_Formulation,2
+उष्ण,Other_Unclassified | Quality,2
+ऊरुस्तम्भ,Disease | Symptom,2
+औपसर्गिकमेह,Disease | Symptom,2
+कटु,Ayurvedic_Concept | Other_Unclassified,2
+कफ,Ayurvedic_Concept | Symptom,2
+कर्णरोग,Disease | Symptom,2
+कषाय,Ayurvedic_Concept | Group | Other_Unclassified | Quality,4
+कुशाद्य घृत,Compound | Sub_Formulation,2
+कुष्ठ,Disease | Symptom,2
+कृमिघ्न,Group | Other_Unclassified,2
+केशर,Other_Unclassified | Quality,2
+क्रोध,Ayurvedic_Concept | Other_Unclassified,2
+क्लोमरोग,Disease | Symptom,2
+क्षार,Compound | Other_Unclassified,2
+क्षीर,Compound | Vehicle,2
+खञ्जनिका,Disease | Symptom,2
+गुरु,Other_Unclassified | Quality,2
+गुल्मरोग,Disease | Symptom,2
+चूर्ण,Compound | Other_Unclassified,2
+चोपचिनी,Compound | Other_Unclassified,2
+छर्दि,Disease | Symptom,2
+जल,Ayurvedic_Concept | Vehicle,2
+जीवनीय,Group | Other_Unclassified,2
+ताण्डवरोग,Disease | Symptom,2
+तिक्त,Ayurvedic_Concept | Group | Other_Unclassified,3
+तीक्ष्ण,Other_Unclassified | Quality,2
+तृणपंचमूळ,Group | Other_Unclassified,2
+तृष्णा,Disease | Symptom,2
+त्रिफला,Group | Sub_Formulation,2
+दाह,Ayurvedic_Concept | Symptom,2
+दाहरोग,Disease | Symptom,2
+दीपन,Other_Unclassified | Quality,2
+देवदार्व्यारिष्ट,Compound | Other_Unclassified,2
+दोष,Ayurvedic_Concept | Symptom,2
+ध्वजभङ्ग,Disease | Symptom,2
+नागपुष्प,Group | Other_Unclassified,2
+नारिकेल,Group | Other_Unclassified,2
+नासारोग,Disease | Symptom,2
+पाक,Compound | Other_Unclassified,2
+पाचन,Other_Unclassified | Quality,2
+पाण्डुरोग,Disease | Symptom,2
+पिच्छल,Other_Unclassified | Quality,2
+पिच्छिल,Other_Unclassified | Quality,2
+पित्त,Ayurvedic_Concept | Symptom,2
+प्रमेहपिडका,Disease | Symptom,2
+फिरङ्गरोग,Disease | Symptom,2
+बल्य,Group | Other_Unclassified,2
+बहुमूत्ररोग,Disease | Symptom,2
+बृंहण,Group | Other_Unclassified,2
+भगन्दर,Disease | Symptom,2
+भूनिम्बादि क्वाथ,Compound | Sub_Formulation,2
+मदात्यय,Disease | Symptom,2
+मधुर,Ayurvedic_Concept | Group | Other_Unclassified,3
+मल,Ayurvedic_Concept | Other_Unclassified,2
+मांस,Ayurvedic_Concept | Other_Unclassified,2
+मुखरोग,Disease | Symptom,2
+मुस्तादि क्वाथ,Compound | Sub_Formulation,2
+मूत्र,Ayurvedic_Concept | Other_Unclassified,2
+मूत्रकृच्छ्र,Ayurvedic_Concept | Disease | Symptom,3
+मूत्राघात,Disease | Symptom,2
+मूर्च्छा,Disease | Symptom,2
+मृदु,Other_Unclassified | Quality,2
+मृदू,Other_Unclassified | Quality,2
+मेद,Ayurvedic_Concept | Symptom,2
+रक्त,Ayurvedic_Concept | Symptom,2
+रक्तपित्त,Ayurvedic_Concept | Disease | Symptom,3
+राजयक्ष्मा,Disease | Symptom,2
+रुचिकर,Other_Unclassified | Quality,2
+रूक्ष,Other_Unclassified | Quality,2
+लघु,Other_Unclassified | Quality,2
+लवण,Ayurvedic_Concept | Other_Unclassified,2
+लसीकामेह,Disease | Symptom,2
+लेखन,Group | Other_Unclassified,2
+लेप,Compound | Other_Unclassified,2
+वमन,Group | Other_Unclassified,2
+वरुणाद्य तैल,Compound | Sub_Formulation,2
+वर्ण्य,Group | Other_Unclassified,2
+वात,Ayurvedic_Concept | Symptom,2
+विरेचन,Group | Other_Unclassified,2
+विसर्प,Disease | Symptom,2
+विस्फोट,Disease | Symptom,2
+वृक्करोग,Disease | Symptom,2
+वृद्धिरोग,Disease | Symptom,2
+व्रण शोधन,Group | Other_Unclassified,2
+शतावरी घृत,Compound | Sub_Formulation,2
+शीत,Other_Unclassified | Quality,2
+शुक्र,Ayurvedic_Concept | Other_Unclassified,2
+शुक्रमेह,Disease | Symptom,2
+शूल,Ayurvedic_Concept | Symptom,2
+शोथ,Disease | Symptom,2
+समशर्कर चूर्ण,Compound | Sub_Formulation,2
+सारस्वत चूर्ण,Compound | Sub_Formulation,2
+सितोपलादि चूर्ण,Compound | Sub_Formulation,2
+स्खालित्यरोग,Disease | Symptom,2
+स्नायुकरोग,Disease | Symptom,2
+स्नायुरोग,Disease | Symptom,2
+स्निग्ध,Other_Unclassified | Quality,2
+स्वरभेद,Disease | Symptom,2
+स्वेद,Ayurvedic_Concept | Symptom,2
+हरीतकी,Herb | Other_Unclassified,2
+हृद्य,Group | Other_Unclassified | Quality,3
+हेमगर्भ,Compound | Other_Unclassified,2

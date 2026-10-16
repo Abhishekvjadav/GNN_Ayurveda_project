@@ -1,0 +1,61 @@
+[
+  {
+    "id": "VAL-001",
+    "timestamp": "2026-10-12 14:30:00",
+    "reviewer_name": "Dr. R. K. Bhatt, BAMS, MD (Ayu)",
+    "institution": "Government Ayurveda Medical College & Hospital, Mysuru",
+    "formulation": "Triphala Churna",
+    "ingredients": [
+      "Haritaki (Terminalia chebula)",
+      "Bibhitaki (Terminalia bellirica)",
+      "Amalaki (Phyllanthus emblica)"
+    ],
+    "predicted_target": "Jvara (Fever / Hyperthermia)",
+    "target_type": "Disease",
+    "model_confidence": "87.4%",
+    "verdict": "Clinically Validated (Classical Indication)",
+    "classical_reference": "Charaka Samhita, Chikitsa Sthana Ch. 3; Sushruta Samhita Sutra Sthana 38/56",
+    "clinical_rating": 5,
+    "expert_notes": "Triphala possesses Sheetavirya (cooling potency) and Tridoshahara actions, frequently prescribed as Rasayana and Deepana-Pachana during Pittaja Jvara."
+  },
+  {
+    "id": "VAL-002",
+    "timestamp": "2026-10-13 11:15:00",
+    "reviewer_name": "Dr. Priya Hegde, BAMS, MS (Shalya)",
+    "institution": "JSS Ayurveda Medical College & Hospital, Mysuru",
+    "formulation": "Trikatu Churna",
+    "ingredients": [
+      "Shunthi (Zingiber officinale)",
+      "Maricha (Piper nigrum)",
+      "Pippali (Piper longum)"
+    ],
+    "predicted_target": "Kasa (Cough / Bronchial Congestion)",
+    "target_type": "Disease",
+    "model_confidence": "89.1%",
+    "verdict": "Clinically Validated (Classical Indication)",
+    "classical_reference": "Sarangadhara Samhita, Madhyama Khanda 6/12-14",
+    "clinical_rating": 5,
+    "expert_notes": "Trikatu is the foremost Deepana and Kaphahara compound in classical practice. Its role in Kasa, Shwasa, and Agnimandya is authoritative and indisputable."
+  },
+  {
+    "id": "VAL-003",
+    "timestamp": "2026-10-13 16:45:00",
+    "reviewer_name": "Dr. R. K. Bhatt, BAMS, MD (Ayu)",
+    "institution": "Government Ayurveda Medical College & Hospital, Mysuru",
+    "formulation": "Sitopaladi Churna",
+    "ingredients": [
+      "Vamshalochana (Bambusa bambos)",
+      "Pippali (Piper longum)",
+      "Ela (Elettaria cardamomum)",
+      "Twak (Cinnamomum verum)",
+      "Sharkara (Sugar candy)"
+    ],
+    "predicted_target": "Shwasa (Dyspnea / Asthma)",
+    "target_type": "Symptom",
+    "model_confidence": "83.6%",
+    "verdict": "Clinically Validated (Classical Indication)",
+    "classical_reference": "Sarangadhara Samhita, Madhyama Khanda 6/135-137; API Part II",
+    "clinical_rating": 5,
+    "expert_notes": "Sitopaladi is specifically indicated for Rajayakshma, Shwasa, and Kasa. The model correctly retrieved Shwasa as a primary top-ranked indication."
+  }
+]
