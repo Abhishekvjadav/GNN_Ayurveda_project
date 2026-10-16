@@ -26,10 +26,20 @@ if SRC_PHASE2 not in sys.path:
 import train_rgcn
 from build_hetero_data import build_fold_hetero_data
 
-NODES_PATH = os.path.join(ROOT_DIR, "results", "phase1", "nodes.csv")
-EDGES_PATH = os.path.join(ROOT_DIR, "results", "phase1", "edges.csv")
-FOLD_TREATS_PATH = os.path.join(ROOT_DIR, "results", "phase2", "treats_edges_with_fold.csv")
-COMP_FOLDS_PATH = os.path.join(ROOT_DIR, "results", "phase2", "compound_fold_assignment.csv")
+def _resolve_data_path(rel_primary, rel_fallback=None):
+    p = os.path.join(ROOT_DIR, rel_primary)
+    if os.path.exists(p):
+        return p
+    if rel_fallback:
+        fb = os.path.join(ROOT_DIR, rel_fallback)
+        if os.path.exists(fb):
+            return fb
+    return p
+
+NODES_PATH = _resolve_data_path("results/phase1/nodes.csv", "data/nodes.csv")
+EDGES_PATH = _resolve_data_path("results/phase1/edges.csv", "data/edges.csv")
+FOLD_TREATS_PATH = _resolve_data_path("results/phase2/treats_edges_with_fold.csv", "treats_edges_with_fold.csv")
+COMP_FOLDS_PATH = _resolve_data_path("results/phase2/compound_fold_assignment.csv", "compound_fold_assignment.csv")
 MODELS_DIR = os.path.join(ROOT_DIR, "models")
 
 def map_node_category(raw_type):

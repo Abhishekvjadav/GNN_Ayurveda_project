@@ -30,6 +30,7 @@ results/phase2/*
 !results/phase2/eval_candidates_fold*.csv
 !results/phase2/train_hard_negatives_fold*.csv
 !results/phase2/treats_edges_with_fold.csv
+!results/phase2/compound_fold_assignment.csv
 !results/phase2/rgcn_results_fold*.csv
 
 # Model files
